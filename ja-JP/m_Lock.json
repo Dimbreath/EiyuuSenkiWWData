@@ -1,0 +1,134 @@
+[
+    {
+        "id": 4110,
+        "flagId": 31001032,
+        "textId": 110014110,
+        "advConditionId": 0
+    },
+    {
+        "id": 4120,
+        "flagId": 31001062,
+        "textId": 110014120,
+        "advConditionId": 0
+    },
+    {
+        "id": 4130,
+        "flagId": 31001032,
+        "textId": 110014130,
+        "advConditionId": 0
+    },
+    {
+        "id": 4170,
+        "flagId": 31012062,
+        "textId": 110014170,
+        "advConditionId": 0
+    },
+    {
+        "id": 6000,
+        "flagId": 0,
+        "textId": 110016000,
+        "advConditionId": 0
+    },
+    {
+        "id": 6100,
+        "flagId": 0,
+        "textId": 110016100,
+        "advConditionId": 0
+    },
+    {
+        "id": 6200,
+        "flagId": 31001062,
+        "textId": 110016200,
+        "advConditionId": 31000040
+    },
+    {
+        "id": 6300,
+        "flagId": 0,
+        "textId": 110016300,
+        "advConditionId": 0
+    },
+    {
+        "id": 6400,
+        "flagId": 0,
+        "textId": 110016400,
+        "advConditionId": 0
+    },
+    {
+        "id": 6500,
+        "flagId": 0,
+        "textId": 110016500,
+        "advConditionId": 0
+    },
+    {
+        "id": 6600,
+        "flagId": 0,
+        "textId": 110016600,
+        "advConditionId": 0
+    },
+    {
+        "id": 7300,
+        "flagId": 0,
+        "textId": 110017300,
+        "advConditionId": 0
+    },
+    {
+        "id": 7400,
+        "flagId": 0,
+        "textId": 110017400,
+        "advConditionId": 0
+    },
+    {
+        "id": 7500,
+        "flagId": 31002012,
+        "textId": 110017500,
+        "advConditionId": 31000030
+    },
+    {
+        "id": 7600,
+        "flagId": 31001032,
+        "textId": 110017600,
+        "advConditionId": 31000010
+    },
+    {
+        "id": 7800,
+        "flagId": 0,
+        "textId": 110017800,
+        "advConditionId": 0
+    },
+    {
+        "id": 7900,
+        "flagId": 0,
+        "textId": 110017900,
+        "advConditionId": 0
+    },
+    {
+        "id": 10010,
+        "flagId": 0,
+        "textId": 110020010,
+        "advConditionId": 0
+    },
+    {
+        "id": 10020,
+        "flagId": 0,
+        "textId": 110020020,
+        "advConditionId": 0
+    },
+    {
+        "id": 10030,
+        "flagId": 0,
+        "textId": 110020030,
+        "advConditionId": 0
+    },
+    {
+        "id": 10040,
+        "flagId": 0,
+        "textId": 110020040,
+        "advConditionId": 0
+    },
+    {
+        "id": 10050,
+        "flagId": 0,
+        "textId": 110020050,
+        "advConditionId": 0
+    }
+]

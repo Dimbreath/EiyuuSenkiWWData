@@ -1,0 +1,20 @@
+[
+    {
+        "id": 101,
+        "textId": 197000101,
+        "prizeSetNo": 50003201,
+        "multiCode": false,
+        "multiUser": false,
+        "fromTime": 0,
+        "toTime": 0
+    },
+    {
+        "id": 111,
+        "textId": 197000111,
+        "prizeSetNo": 50003222,
+        "multiCode": false,
+        "multiUser": false,
+        "fromTime": 0,
+        "toTime": 0
+    }
+]

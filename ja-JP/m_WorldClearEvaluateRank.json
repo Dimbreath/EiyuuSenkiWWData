@@ -1,0 +1,72 @@
+[
+    {
+        "worldId": 101,
+        "rank": 1,
+        "textId": 0,
+        "score": 0,
+        "prizeSetNo": 50002608
+    },
+    {
+        "worldId": 101,
+        "rank": 2,
+        "textId": 0,
+        "score": 50000,
+        "prizeSetNo": 50002612
+    },
+    {
+        "worldId": 101,
+        "rank": 3,
+        "textId": 0,
+        "score": 95000,
+        "prizeSetNo": 50002620
+    },
+    {
+        "worldId": 101,
+        "rank": 4,
+        "textId": 0,
+        "score": 140000,
+        "prizeSetNo": 50002630
+    },
+    {
+        "worldId": 101,
+        "rank": 5,
+        "textId": 0,
+        "score": 180000,
+        "prizeSetNo": 50002640
+    },
+    {
+        "worldId": 102,
+        "rank": 1,
+        "textId": 0,
+        "score": 0,
+        "prizeSetNo": 50002608
+    },
+    {
+        "worldId": 102,
+        "rank": 2,
+        "textId": 0,
+        "score": 50000,
+        "prizeSetNo": 50002612
+    },
+    {
+        "worldId": 102,
+        "rank": 3,
+        "textId": 0,
+        "score": 95000,
+        "prizeSetNo": 50002620
+    },
+    {
+        "worldId": 102,
+        "rank": 4,
+        "textId": 0,
+        "score": 140000,
+        "prizeSetNo": 50002630
+    },
+    {
+        "worldId": 102,
+        "rank": 5,
+        "textId": 0,
+        "score": 180000,
+        "prizeSetNo": 50002640
+    }
+]

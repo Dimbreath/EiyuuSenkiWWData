@@ -1,0 +1,562 @@
+[
+    {
+        "lv": 1,
+        "exp": 200,
+        "staminaLimit": 360,
+        "followLimit": 10,
+        "prizeSetNo": 0
+    },
+    {
+        "lv": 2,
+        "exp": 600,
+        "staminaLimit": 362,
+        "followLimit": 11,
+        "prizeSetNo": 50003001
+    },
+    {
+        "lv": 3,
+        "exp": 1200,
+        "staminaLimit": 364,
+        "followLimit": 11,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 4,
+        "exp": 2100,
+        "staminaLimit": 366,
+        "followLimit": 12,
+        "prizeSetNo": 50010100
+    },
+    {
+        "lv": 5,
+        "exp": 3480,
+        "staminaLimit": 368,
+        "followLimit": 12,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 6,
+        "exp": 5590,
+        "staminaLimit": 370,
+        "followLimit": 13,
+        "prizeSetNo": 50016811
+    },
+    {
+        "lv": 7,
+        "exp": 8280,
+        "staminaLimit": 372,
+        "followLimit": 13,
+        "prizeSetNo": 50016913
+    },
+    {
+        "lv": 8,
+        "exp": 12010,
+        "staminaLimit": 374,
+        "followLimit": 14,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 9,
+        "exp": 16390,
+        "staminaLimit": 376,
+        "followLimit": 14,
+        "prizeSetNo": 50010100
+    },
+    {
+        "lv": 10,
+        "exp": 21640,
+        "staminaLimit": 378,
+        "followLimit": 15,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 11,
+        "exp": 27490,
+        "staminaLimit": 380,
+        "followLimit": 15,
+        "prizeSetNo": 50015911
+    },
+    {
+        "lv": 12,
+        "exp": 35000,
+        "staminaLimit": 382,
+        "followLimit": 16,
+        "prizeSetNo": 50017911
+    },
+    {
+        "lv": 13,
+        "exp": 43210,
+        "staminaLimit": 384,
+        "followLimit": 16,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 14,
+        "exp": 52580,
+        "staminaLimit": 386,
+        "followLimit": 17,
+        "prizeSetNo": 50010100
+    },
+    {
+        "lv": 15,
+        "exp": 63200,
+        "staminaLimit": 388,
+        "followLimit": 17,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 16,
+        "exp": 74720,
+        "staminaLimit": 390,
+        "followLimit": 18,
+        "prizeSetNo": 50019711
+    },
+    {
+        "lv": 17,
+        "exp": 88220,
+        "staminaLimit": 392,
+        "followLimit": 18,
+        "prizeSetNo": 50003001
+    },
+    {
+        "lv": 18,
+        "exp": 103170,
+        "staminaLimit": 394,
+        "followLimit": 19,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 19,
+        "exp": 119120,
+        "staminaLimit": 396,
+        "followLimit": 19,
+        "prizeSetNo": 50010100
+    },
+    {
+        "lv": 20,
+        "exp": 136620,
+        "staminaLimit": 398,
+        "followLimit": 20,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 21,
+        "exp": 155470,
+        "staminaLimit": 400,
+        "followLimit": 20,
+        "prizeSetNo": 50030013
+    },
+    {
+        "lv": 22,
+        "exp": 176330,
+        "staminaLimit": 402,
+        "followLimit": 21,
+        "prizeSetNo": 50016922
+    },
+    {
+        "lv": 23,
+        "exp": 198930,
+        "staminaLimit": 404,
+        "followLimit": 21,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 24,
+        "exp": 223630,
+        "staminaLimit": 406,
+        "followLimit": 22,
+        "prizeSetNo": 50010150
+    },
+    {
+        "lv": 25,
+        "exp": 249630,
+        "staminaLimit": 408,
+        "followLimit": 22,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 26,
+        "exp": 277570,
+        "staminaLimit": 410,
+        "followLimit": 23,
+        "prizeSetNo": 50016812
+    },
+    {
+        "lv": 27,
+        "exp": 307710,
+        "staminaLimit": 412,
+        "followLimit": 23,
+        "prizeSetNo": 50019712
+    },
+    {
+        "lv": 28,
+        "exp": 340340,
+        "staminaLimit": 414,
+        "followLimit": 24,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 29,
+        "exp": 375100,
+        "staminaLimit": 416,
+        "followLimit": 24,
+        "prizeSetNo": 50010150
+    },
+    {
+        "lv": 30,
+        "exp": 412260,
+        "staminaLimit": 418,
+        "followLimit": 25,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 31,
+        "exp": 451020,
+        "staminaLimit": 420,
+        "followLimit": 25,
+        "prizeSetNo": 50003001
+    },
+    {
+        "lv": 32,
+        "exp": 492110,
+        "staminaLimit": 422,
+        "followLimit": 26,
+        "prizeSetNo": 50100401
+    },
+    {
+        "lv": 33,
+        "exp": 535700,
+        "staminaLimit": 424,
+        "followLimit": 26,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 34,
+        "exp": 581090,
+        "staminaLimit": 426,
+        "followLimit": 27,
+        "prizeSetNo": 50010150
+    },
+    {
+        "lv": 35,
+        "exp": 630170,
+        "staminaLimit": 428,
+        "followLimit": 27,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 36,
+        "exp": 681150,
+        "staminaLimit": 430,
+        "followLimit": 28,
+        "prizeSetNo": 50017912
+    },
+    {
+        "lv": 37,
+        "exp": 734030,
+        "staminaLimit": 432,
+        "followLimit": 28,
+        "prizeSetNo": 50015912
+    },
+    {
+        "lv": 38,
+        "exp": 789630,
+        "staminaLimit": 434,
+        "followLimit": 29,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 39,
+        "exp": 847230,
+        "staminaLimit": 436,
+        "followLimit": 29,
+        "prizeSetNo": 50010200
+    },
+    {
+        "lv": 40,
+        "exp": 906930,
+        "staminaLimit": 438,
+        "followLimit": 30,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 41,
+        "exp": 969450,
+        "staminaLimit": 440,
+        "followLimit": 30,
+        "prizeSetNo": 50003001
+    },
+    {
+        "lv": 42,
+        "exp": 1034170,
+        "staminaLimit": 442,
+        "followLimit": 31,
+        "prizeSetNo": 50016931
+    },
+    {
+        "lv": 43,
+        "exp": 1102530,
+        "staminaLimit": 444,
+        "followLimit": 31,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 44,
+        "exp": 1174000,
+        "staminaLimit": 446,
+        "followLimit": 32,
+        "prizeSetNo": 50010200
+    },
+    {
+        "lv": 45,
+        "exp": 1247770,
+        "staminaLimit": 448,
+        "followLimit": 32,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 46,
+        "exp": 1323940,
+        "staminaLimit": 450,
+        "followLimit": 33,
+        "prizeSetNo": 50003001
+    },
+    {
+        "lv": 47,
+        "exp": 1403320,
+        "staminaLimit": 452,
+        "followLimit": 33,
+        "prizeSetNo": 50030013
+    },
+    {
+        "lv": 48,
+        "exp": 1485200,
+        "staminaLimit": 454,
+        "followLimit": 34,
+        "prizeSetNo": 50003012
+    },
+    {
+        "lv": 49,
+        "exp": 1569580,
+        "staminaLimit": 456,
+        "followLimit": 34,
+        "prizeSetNo": 50010300
+    },
+    {
+        "lv": 50,
+        "exp": 1662280,
+        "staminaLimit": 460,
+        "followLimit": 35,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 51,
+        "exp": 1757580,
+        "staminaLimit": 462,
+        "followLimit": 35,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 52,
+        "exp": 1855580,
+        "staminaLimit": 464,
+        "followLimit": 36,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 53,
+        "exp": 1958980,
+        "staminaLimit": 466,
+        "followLimit": 36,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 54,
+        "exp": 2065180,
+        "staminaLimit": 468,
+        "followLimit": 37,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 55,
+        "exp": 2176180,
+        "staminaLimit": 470,
+        "followLimit": 37,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 56,
+        "exp": 2291070,
+        "staminaLimit": 472,
+        "followLimit": 38,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 57,
+        "exp": 2410750,
+        "staminaLimit": 474,
+        "followLimit": 38,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 58,
+        "exp": 2533430,
+        "staminaLimit": 476,
+        "followLimit": 39,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 59,
+        "exp": 2660190,
+        "staminaLimit": 478,
+        "followLimit": 39,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 60,
+        "exp": 2790050,
+        "staminaLimit": 480,
+        "followLimit": 40,
+        "prizeSetNo": 50019921
+    },
+    {
+        "lv": 61,
+        "exp": 2923010,
+        "staminaLimit": 482,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 62,
+        "exp": 3059170,
+        "staminaLimit": 484,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 63,
+        "exp": 3198530,
+        "staminaLimit": 486,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 64,
+        "exp": 3341190,
+        "staminaLimit": 488,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 65,
+        "exp": 3489150,
+        "staminaLimit": 490,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 66,
+        "exp": 3640510,
+        "staminaLimit": 492,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 67,
+        "exp": 3795270,
+        "staminaLimit": 494,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 68,
+        "exp": 3953530,
+        "staminaLimit": 496,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 69,
+        "exp": 4115290,
+        "staminaLimit": 498,
+        "followLimit": 40,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 70,
+        "exp": 4280650,
+        "staminaLimit": 500,
+        "followLimit": 40,
+        "prizeSetNo": 50019911
+    },
+    {
+        "lv": 71,
+        "exp": 4672246,
+        "staminaLimit": 500,
+        "followLimit": 41,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 72,
+        "exp": 5312702,
+        "staminaLimit": 500,
+        "followLimit": 42,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 73,
+        "exp": 6226904,
+        "staminaLimit": 500,
+        "followLimit": 43,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 74,
+        "exp": 7442226,
+        "staminaLimit": 500,
+        "followLimit": 44,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 75,
+        "exp": 8988780,
+        "staminaLimit": 500,
+        "followLimit": 45,
+        "prizeSetNo": 50030001
+    },
+    {
+        "lv": 76,
+        "exp": 10899689,
+        "staminaLimit": 500,
+        "followLimit": 46,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 77,
+        "exp": 13211389,
+        "staminaLimit": 500,
+        "followLimit": 47,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 78,
+        "exp": 15963959,
+        "staminaLimit": 500,
+        "followLimit": 48,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 79,
+        "exp": 19201486,
+        "staminaLimit": 500,
+        "followLimit": 49,
+        "prizeSetNo": 50000100
+    },
+    {
+        "lv": 80,
+        "exp": 0,
+        "staminaLimit": 500,
+        "followLimit": 50,
+        "prizeSetNo": 50030001
+    }
+]

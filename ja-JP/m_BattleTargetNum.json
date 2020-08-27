@@ -1,0 +1,38 @@
+[
+    {
+        "num": 1,
+        "braveAddRate": 1000
+    },
+    {
+        "num": 2,
+        "braveAddRate": 550
+    },
+    {
+        "num": 3,
+        "braveAddRate": 400
+    },
+    {
+        "num": 4,
+        "braveAddRate": 300
+    },
+    {
+        "num": 5,
+        "braveAddRate": 240
+    },
+    {
+        "num": 6,
+        "braveAddRate": 200
+    },
+    {
+        "num": 7,
+        "braveAddRate": 200
+    },
+    {
+        "num": 8,
+        "braveAddRate": 200
+    },
+    {
+        "num": 9,
+        "braveAddRate": 200
+    }
+]

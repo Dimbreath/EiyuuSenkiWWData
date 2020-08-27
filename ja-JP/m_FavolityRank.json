@@ -1,0 +1,1502 @@
+[
+    {
+        "rarity": 0,
+        "favolityRank": 1,
+        "favolity": 5
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 2,
+        "favolity": 10
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 3,
+        "favolity": 15
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 4,
+        "favolity": 20
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 5,
+        "favolity": 25
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 6,
+        "favolity": 30
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 7,
+        "favolity": 35
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 8,
+        "favolity": 40
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 9,
+        "favolity": 50
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 10,
+        "favolity": 60
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 11,
+        "favolity": 70
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 12,
+        "favolity": 90
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 13,
+        "favolity": 110
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 14,
+        "favolity": 130
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 15,
+        "favolity": 150
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 16,
+        "favolity": 175
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 17,
+        "favolity": 200
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 18,
+        "favolity": 225
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 19,
+        "favolity": 250
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 20,
+        "favolity": 275
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 21,
+        "favolity": 300
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 22,
+        "favolity": 325
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 23,
+        "favolity": 350
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 24,
+        "favolity": 375
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 25,
+        "favolity": 400
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 26,
+        "favolity": 425
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 27,
+        "favolity": 450
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 28,
+        "favolity": 475
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 29,
+        "favolity": 500
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 30,
+        "favolity": 550
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 31,
+        "favolity": 600
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 32,
+        "favolity": 650
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 33,
+        "favolity": 700
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 34,
+        "favolity": 750
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 35,
+        "favolity": 800
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 36,
+        "favolity": 850
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 37,
+        "favolity": 900
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 38,
+        "favolity": 950
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 39,
+        "favolity": 1000
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 40,
+        "favolity": 1100
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 41,
+        "favolity": 1200
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 42,
+        "favolity": 1300
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 43,
+        "favolity": 1400
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 44,
+        "favolity": 1500
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 45,
+        "favolity": 1600
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 46,
+        "favolity": 1700
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 47,
+        "favolity": 1800
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 48,
+        "favolity": 1900
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 49,
+        "favolity": 2000
+    },
+    {
+        "rarity": 0,
+        "favolityRank": 50,
+        "favolity": 0
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 1,
+        "favolity": 140
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 2,
+        "favolity": 290
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 3,
+        "favolity": 460
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 4,
+        "favolity": 640
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 5,
+        "favolity": 840
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 6,
+        "favolity": 1050
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 7,
+        "favolity": 1280
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 8,
+        "favolity": 1520
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 9,
+        "favolity": 1930
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 10,
+        "favolity": 2370
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 11,
+        "favolity": 2830
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 12,
+        "favolity": 3500
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 13,
+        "favolity": 4900
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 14,
+        "favolity": 6570
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 15,
+        "favolity": 8530
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 16,
+        "favolity": 10790
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 17,
+        "favolity": 13370
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 18,
+        "favolity": 16290
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 19,
+        "favolity": 19570
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 20,
+        "favolity": 23310
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 21,
+        "favolity": 27530
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 22,
+        "favolity": 32260
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 23,
+        "favolity": 37520
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 24,
+        "favolity": 43340
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 25,
+        "favolity": 49740
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 26,
+        "favolity": 63740
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 27,
+        "favolity": 79000
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 28,
+        "favolity": 95560
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 29,
+        "favolity": 113480
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 30,
+        "favolity": 132800
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 31,
+        "favolity": 153800
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 32,
+        "favolity": 176540
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 33,
+        "favolity": 201090
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 34,
+        "favolity": 227500
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 35,
+        "favolity": 255840
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 36,
+        "favolity": 286160
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 37,
+        "favolity": 318520
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 38,
+        "favolity": 352990
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 39,
+        "favolity": 389620
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 40,
+        "favolity": 428480
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 41,
+        "favolity": 469920
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 42,
+        "favolity": 514010
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 43,
+        "favolity": 560820
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 44,
+        "favolity": 610430
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 45,
+        "favolity": 662910
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 46,
+        "favolity": 718330
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 47,
+        "favolity": 776760
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 48,
+        "favolity": 838270
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 49,
+        "favolity": 902940
+    },
+    {
+        "rarity": 10,
+        "favolityRank": 50,
+        "favolity": 0
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 1,
+        "favolity": 190
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 2,
+        "favolity": 400
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 3,
+        "favolity": 620
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 4,
+        "favolity": 850
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 5,
+        "favolity": 1090
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 6,
+        "favolity": 1340
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 7,
+        "favolity": 1600
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 8,
+        "favolity": 1870
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 9,
+        "favolity": 2330
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 10,
+        "favolity": 2810
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 11,
+        "favolity": 3300
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 12,
+        "favolity": 4000
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 13,
+        "favolity": 5460
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 14,
+        "favolity": 7180
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 15,
+        "favolity": 9170
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 16,
+        "favolity": 11440
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 17,
+        "favolity": 14010
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 18,
+        "favolity": 16890
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 19,
+        "favolity": 20100
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 20,
+        "favolity": 24940
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 21,
+        "favolity": 30360
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 22,
+        "favolity": 36390
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 23,
+        "favolity": 43050
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 24,
+        "favolity": 50370
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 25,
+        "favolity": 58370
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 26,
+        "favolity": 67070
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 27,
+        "favolity": 76500
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 28,
+        "favolity": 86680
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 29,
+        "favolity": 97640
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 30,
+        "favolity": 109400
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 31,
+        "favolity": 122120
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 32,
+        "favolity": 135840
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 33,
+        "favolity": 150590
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 34,
+        "favolity": 166390
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 35,
+        "favolity": 183280
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 36,
+        "favolity": 201290
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 37,
+        "favolity": 220440
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 38,
+        "favolity": 240770
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 39,
+        "favolity": 262310
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 40,
+        "favolity": 285090
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 41,
+        "favolity": 309310
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 42,
+        "favolity": 335000
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 43,
+        "favolity": 362200
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 44,
+        "favolity": 390950
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 45,
+        "favolity": 421290
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 46,
+        "favolity": 453250
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 47,
+        "favolity": 486860
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 48,
+        "favolity": 522160
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 49,
+        "favolity": 559190
+    },
+    {
+        "rarity": 20,
+        "favolityRank": 50,
+        "favolity": 0
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 1,
+        "favolity": 260
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 2,
+        "favolity": 530
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 3,
+        "favolity": 810
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 4,
+        "favolity": 1100
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 5,
+        "favolity": 1400
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 6,
+        "favolity": 1710
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 7,
+        "favolity": 2030
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 8,
+        "favolity": 2360
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 9,
+        "favolity": 2900
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 10,
+        "favolity": 3460
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 11,
+        "favolity": 4030
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 12,
+        "favolity": 4840
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 13,
+        "favolity": 6510
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 14,
+        "favolity": 8460
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 15,
+        "favolity": 10700
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 16,
+        "favolity": 13240
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 17,
+        "favolity": 16090
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 18,
+        "favolity": 19270
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 19,
+        "favolity": 22790
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 20,
+        "favolity": 26750
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 21,
+        "favolity": 31160
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 22,
+        "favolity": 36040
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 23,
+        "favolity": 41410
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 24,
+        "favolity": 47290
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 25,
+        "favolity": 53690
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 26,
+        "favolity": 60620
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 27,
+        "favolity": 68100
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 28,
+        "favolity": 76150
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 29,
+        "favolity": 84790
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 30,
+        "favolity": 94030
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 31,
+        "favolity": 103990
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 32,
+        "favolity": 114700
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 33,
+        "favolity": 126180
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 34,
+        "favolity": 138450
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 35,
+        "favolity": 151530
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 36,
+        "favolity": 165430
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 37,
+        "favolity": 180180
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 38,
+        "favolity": 195800
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 39,
+        "favolity": 212310
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 40,
+        "favolity": 229730
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 41,
+        "favolity": 248210
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 42,
+        "favolity": 267770
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 43,
+        "favolity": 288440
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 44,
+        "favolity": 310240
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 45,
+        "favolity": 333200
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 46,
+        "favolity": 357340
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 47,
+        "favolity": 382680
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 48,
+        "favolity": 409250
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 49,
+        "favolity": 437070
+    },
+    {
+        "rarity": 30,
+        "favolityRank": 50,
+        "favolity": 0
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 1,
+        "favolity": 390
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 2,
+        "favolity": 780
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 3,
+        "favolity": 1190
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 4,
+        "favolity": 1610
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 5,
+        "favolity": 2040
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 6,
+        "favolity": 2480
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 7,
+        "favolity": 2930
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 8,
+        "favolity": 3390
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 9,
+        "favolity": 4150
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 10,
+        "favolity": 4770
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 11,
+        "favolity": 5410
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 12,
+        "favolity": 6300
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 13,
+        "favolity": 8140
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 14,
+        "favolity": 10270
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 15,
+        "favolity": 12720
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 16,
+        "favolity": 15470
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 17,
+        "favolity": 18570
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 18,
+        "favolity": 21980
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 19,
+        "favolity": 25770
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 20,
+        "favolity": 29640
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 21,
+        "favolity": 33960
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 22,
+        "favolity": 38700
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 23,
+        "favolity": 43930
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 24,
+        "favolity": 49600
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 25,
+        "favolity": 55230
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 26,
+        "favolity": 61280
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 27,
+        "favolity": 67830
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 28,
+        "favolity": 74820
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 29,
+        "favolity": 82340
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 30,
+        "favolity": 89520
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 31,
+        "favolity": 97280
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 32,
+        "favolity": 105570
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 33,
+        "favolity": 114480
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 34,
+        "favolity": 123930
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 35,
+        "favolity": 134030
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 36,
+        "favolity": 144700
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 37,
+        "favolity": 156050
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 38,
+        "favolity": 167990
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 39,
+        "favolity": 180640
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 40,
+        "favolity": 192430
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 41,
+        "favolity": 204970
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 42,
+        "favolity": 218160
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 43,
+        "favolity": 232140
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 44,
+        "favolity": 246800
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 45,
+        "favolity": 260340
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 46,
+        "favolity": 274500
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 47,
+        "favolity": 289400
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 48,
+        "favolity": 304940
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 49,
+        "favolity": 321250
+    },
+    {
+        "rarity": 40,
+        "favolityRank": 50,
+        "favolity": 0
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 1,
+        "favolity": 390
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 2,
+        "favolity": 780
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 3,
+        "favolity": 1180
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 4,
+        "favolity": 1590
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 5,
+        "favolity": 2010
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 6,
+        "favolity": 2440
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 7,
+        "favolity": 2880
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 8,
+        "favolity": 3330
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 9,
+        "favolity": 4060
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 10,
+        "favolity": 4650
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 11,
+        "favolity": 5260
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 12,
+        "favolity": 6110
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 13,
+        "favolity": 7850
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 14,
+        "favolity": 9860
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 15,
+        "favolity": 12140
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 16,
+        "favolity": 14740
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 17,
+        "favolity": 17630
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 18,
+        "favolity": 20820
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 19,
+        "favolity": 24320
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 20,
+        "favolity": 27900
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 21,
+        "favolity": 31910
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 22,
+        "favolity": 36310
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 23,
+        "favolity": 41110
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 24,
+        "favolity": 46320
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 25,
+        "favolity": 51440
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 26,
+        "favolity": 57010
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 27,
+        "favolity": 62980
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 28,
+        "favolity": 69360
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 29,
+        "favolity": 76160
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 30,
+        "favolity": 82660
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 31,
+        "favolity": 89700
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 32,
+        "favolity": 97220
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 33,
+        "favolity": 105230
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 34,
+        "favolity": 113740
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 35,
+        "favolity": 122760
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 36,
+        "favolity": 132400
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 37,
+        "favolity": 142570
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 38,
+        "favolity": 153280
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 39,
+        "favolity": 164540
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 40,
+        "favolity": 175040
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 41,
+        "favolity": 186240
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 42,
+        "favolity": 198030
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 43,
+        "favolity": 210430
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 44,
+        "favolity": 223440
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 45,
+        "favolity": 235370
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 46,
+        "favolity": 247980
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 47,
+        "favolity": 261160
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 48,
+        "favolity": 274910
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 49,
+        "favolity": 289250
+    },
+    {
+        "rarity": 50,
+        "favolityRank": 50,
+        "favolity": 0
+    }
+]

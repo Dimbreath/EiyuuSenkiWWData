@@ -1,0 +1,11 @@
+[
+    {
+        "greatSuccessRate": 100,
+        "superSuccessRate": 10,
+        "lvCorrectionRate": 0,
+        "transSuperSuccessRate": 500,
+        "maxSuperSuccessRate": 200,
+        "frameNum": 3,
+        "charaNum": 6
+    }
+]

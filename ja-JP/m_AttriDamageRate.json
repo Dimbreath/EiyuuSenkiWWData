@@ -1,0 +1,702 @@
+[
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 1,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 2,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 3,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 4,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 5,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 6,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 7,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 8,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 0,
+        "defenderAttri": 9,
+        "damageRate": 1000,
+        "braveRateAttack": 0,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 1,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 2,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 3,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 4,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 5,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 6,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 7,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 8,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 1,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 1,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 2,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 3,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 4,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 5,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 6,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 7,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 8,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 2,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 1,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 2,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 3,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 4,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 5,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 6,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 7,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 8,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 3,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 1,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 2,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 3,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 4,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 5,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 6,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 7,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 8,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 4,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 1,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 2,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 3,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 4,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 5,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 6,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 7,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 8,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 5,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 1,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 2,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 3,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 4,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 5,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 6,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 7,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 8,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 6,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 1,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 2,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 3,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 4,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 5,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 6,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 7,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 8,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 7,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 1,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 2,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 3,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 4,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 5,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 6,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 7,
+        "damageRate": 750,
+        "braveRateAttack": 2000,
+        "braveRateDefense": 200
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 8,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 8,
+        "defenderAttri": 9,
+        "damageRate": 1500,
+        "braveRateAttack": 200,
+        "braveRateDefense": 2000
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 0,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 1,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 2,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 3,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 4,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 5,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 6,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 7,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 8,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    },
+    {
+        "attackerAttri": 9,
+        "defenderAttri": 9,
+        "damageRate": 1000,
+        "braveRateAttack": 1000,
+        "braveRateDefense": 0
+    }
+]

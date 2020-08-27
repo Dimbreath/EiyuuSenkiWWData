@@ -1,0 +1,79 @@
+[
+    {
+        "towerId": 1,
+        "areaNo": 1,
+        "hardFlag": 0,
+        "textId": 198300001,
+        "imgId": 1,
+        "bgId": 1,
+        "animationNo": 1,
+        "dispFlag": true,
+        "fromTime": 0
+    },
+    {
+        "towerId": 1,
+        "areaNo": 2,
+        "hardFlag": 0,
+        "textId": 198300002,
+        "imgId": 2,
+        "bgId": 2,
+        "animationNo": 1,
+        "dispFlag": true,
+        "fromTime": 0
+    },
+    {
+        "towerId": 1,
+        "areaNo": 3,
+        "hardFlag": 0,
+        "textId": 198300003,
+        "imgId": 3,
+        "bgId": 3,
+        "animationNo": 1,
+        "dispFlag": true,
+        "fromTime": 0
+    },
+    {
+        "towerId": 1,
+        "areaNo": 4,
+        "hardFlag": 0,
+        "textId": 198300004,
+        "imgId": 4,
+        "bgId": 4,
+        "animationNo": 1,
+        "dispFlag": true,
+        "fromTime": 0
+    },
+    {
+        "towerId": 1,
+        "areaNo": 5,
+        "hardFlag": 0,
+        "textId": 198300005,
+        "imgId": 4,
+        "bgId": 4,
+        "animationNo": 2,
+        "dispFlag": true,
+        "fromTime": 0
+    },
+    {
+        "towerId": 1,
+        "areaNo": 6,
+        "hardFlag": 0,
+        "textId": 198300006,
+        "imgId": 4,
+        "bgId": 4,
+        "animationNo": 1,
+        "dispFlag": true,
+        "fromTime": 0
+    },
+    {
+        "towerId": 1,
+        "areaNo": 7,
+        "hardFlag": 0,
+        "textId": 198300007,
+        "imgId": 4,
+        "bgId": 4,
+        "animationNo": 2,
+        "dispFlag": true,
+        "fromTime": 1596515400
+    }
+]

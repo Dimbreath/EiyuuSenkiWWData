@@ -1,0 +1,3248 @@
+[
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50010050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50003001
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50003011
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50016912
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50000050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50016012
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50016112
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50016212
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50003011
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 1,
+        "prizeSetNo": 50000050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 2,
+        "prizeSetNo": 50010050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 3,
+        "prizeSetNo": 50016212
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 4,
+        "prizeSetNo": 50003011
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 5,
+        "prizeSetNo": 50016311
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 6,
+        "prizeSetNo": 50000050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 7,
+        "prizeSetNo": 50015012
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 8,
+        "prizeSetNo": 50015112
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 9,
+        "prizeSetNo": 50015212
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 2,
+        "step": 10,
+        "prizeSetNo": 50003011
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 1,
+        "prizeSetNo": 50000050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 2,
+        "prizeSetNo": 50010050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 3,
+        "prizeSetNo": 50015312
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 4,
+        "prizeSetNo": 50003011
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 5,
+        "prizeSetNo": 50017011
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 6,
+        "prizeSetNo": 50000050
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 7,
+        "prizeSetNo": 50017112
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 8,
+        "prizeSetNo": 50017212
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 9,
+        "prizeSetNo": 50017312
+    },
+    {
+        "loginBonusId": 61000001,
+        "no": 3,
+        "step": 10,
+        "prizeSetNo": 50003011
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50016925
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50015025
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50016025
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50003002
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50015225
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50016125
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50003015
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 2,
+        "prizeSetNo": 50016925
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 3,
+        "prizeSetNo": 50015125
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 4,
+        "prizeSetNo": 50016225
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 5,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 6,
+        "prizeSetNo": 50003002
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 7,
+        "prizeSetNo": 50010500
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 8,
+        "prizeSetNo": 50015325
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 9,
+        "prizeSetNo": 50003015
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 2,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 2,
+        "prizeSetNo": 50016925
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 3,
+        "prizeSetNo": 50017025
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 4,
+        "prizeSetNo": 50016325
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 5,
+        "prizeSetNo": 50010500
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 7,
+        "prizeSetNo": 50017125
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 8,
+        "prizeSetNo": 50016425
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 9,
+        "prizeSetNo": 50003015
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 3,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 2,
+        "prizeSetNo": 50016925
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 3,
+        "prizeSetNo": 50016325
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 4,
+        "prizeSetNo": 50017225
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 5,
+        "prizeSetNo": 50010500
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 7,
+        "prizeSetNo": 50017325
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 8,
+        "prizeSetNo": 50016425
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 9,
+        "prizeSetNo": 50003015
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 4,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 2,
+        "prizeSetNo": 50016933
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 3,
+        "prizeSetNo": 50015033
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 4,
+        "prizeSetNo": 50016033
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 5,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 6,
+        "prizeSetNo": 50003002
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 7,
+        "prizeSetNo": 50015233
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 8,
+        "prizeSetNo": 50016133
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 9,
+        "prizeSetNo": 50003015
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 5,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 2,
+        "prizeSetNo": 50016933
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 3,
+        "prizeSetNo": 50015133
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 4,
+        "prizeSetNo": 50016233
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 5,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 6,
+        "prizeSetNo": 50003002
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 7,
+        "prizeSetNo": 50011000
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 8,
+        "prizeSetNo": 50015333
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 9,
+        "prizeSetNo": 50003015
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 6,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 2,
+        "prizeSetNo": 50016933
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 3,
+        "prizeSetNo": 50017033
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 4,
+        "prizeSetNo": 50016333
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 5,
+        "prizeSetNo": 50011000
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 7,
+        "prizeSetNo": 50017113
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 8,
+        "prizeSetNo": 50016433
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 9,
+        "prizeSetNo": 50003015
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 7,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 2,
+        "prizeSetNo": 50016933
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 3,
+        "prizeSetNo": 50016333
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 4,
+        "prizeSetNo": 50017233
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 5,
+        "prizeSetNo": 50010500
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 7,
+        "prizeSetNo": 50017313
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 8,
+        "prizeSetNo": 50016433
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 9,
+        "prizeSetNo": 50003013
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 8,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 2,
+        "prizeSetNo": 50016933
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 3,
+        "prizeSetNo": 50002300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 4,
+        "prizeSetNo": 50019801
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 5,
+        "prizeSetNo": 50011000
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 7,
+        "prizeSetNo": 50002003
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 8,
+        "prizeSetNo": 50019811
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 9,
+        "prizeSetNo": 50003013
+    },
+    {
+        "loginBonusId": 61000002,
+        "no": 9,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 13,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000011,
+        "no": 1,
+        "step": 14,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 13,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 14,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 15,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 16,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 17,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 18,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 19,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000012,
+        "no": 1,
+        "step": 20,
+        "prizeSetNo": 50090021
+    },
+    {
+        "loginBonusId": 61000031,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000031,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000600
+    },
+    {
+        "loginBonusId": 61000031,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000600
+    },
+    {
+        "loginBonusId": 61000031,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000600
+    },
+    {
+        "loginBonusId": 61000031,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 13,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000101,
+        "no": 1,
+        "step": 14,
+        "prizeSetNo": 50000600
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50010100
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50003013
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50016015
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50016115
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50010100
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50016215
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50016315
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50016415
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 1,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 2,
+        "prizeSetNo": 50010100
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 3,
+        "prizeSetNo": 50003013
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 4,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 5,
+        "prizeSetNo": 50016915
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 6,
+        "prizeSetNo": 50015115
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 7,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 8,
+        "prizeSetNo": 50015015
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 9,
+        "prizeSetNo": 50010100
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 10,
+        "prizeSetNo": 50000200
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 11,
+        "prizeSetNo": 50015215
+    },
+    {
+        "loginBonusId": 61000102,
+        "no": 2,
+        "step": 12,
+        "prizeSetNo": 50002300
+    },
+    {
+        "loginBonusId": 61000103,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50001030
+    },
+    {
+        "loginBonusId": 61000104,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000104,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000104,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50002250
+    },
+    {
+        "loginBonusId": 61000104,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50002250
+    },
+    {
+        "loginBonusId": 61000104,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50002250
+    },
+    {
+        "loginBonusId": 61000104,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50002250
+    },
+    {
+        "loginBonusId": 61000104,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000105,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000105,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000105,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000105,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000105,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000106,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000106,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000106,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000106,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000106,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000500
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000107,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003310
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50002320
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50003310
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50002320
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000108,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50002009
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096001
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096001
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096001
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096001
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096001
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096001
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096002
+    },
+    {
+        "loginBonusId": 61000109,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096002
+    },
+    {
+        "loginBonusId": 61000110,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50015901
+    },
+    {
+        "loginBonusId": 61000111,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096003
+    },
+    {
+        "loginBonusId": 61000112,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096004
+    },
+    {
+        "loginBonusId": 61000113,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096004
+    },
+    {
+        "loginBonusId": 61000114,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096004
+    },
+    {
+        "loginBonusId": 61000115,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096004
+    },
+    {
+        "loginBonusId": 61000116,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096005
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50003042
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50002200
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50012000
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50003043
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50002220
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50013000
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50003045
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50002230
+    },
+    {
+        "loginBonusId": 61000117,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50003221
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50013000
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50002300
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50002300
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50013000
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000118,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50003221
+    },
+    {
+        "loginBonusId": 61000119,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000119,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096014
+    },
+    {
+        "loginBonusId": 61000119,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096007
+    },
+    {
+        "loginBonusId": 61000119,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000119,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096009
+    },
+    {
+        "loginBonusId": 61000119,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096014
+    },
+    {
+        "loginBonusId": 61000119,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000120,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096012
+    },
+    {
+        "loginBonusId": 61000121,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096013
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000122,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000123,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096015
+    },
+    {
+        "loginBonusId": 61000123,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000123,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096015
+    },
+    {
+        "loginBonusId": 61000123,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000123,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096015
+    },
+    {
+        "loginBonusId": 61000123,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096014
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50096017
+    },
+    {
+        "loginBonusId": 61000124,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50096020
+    },
+    {
+        "loginBonusId": 61000125,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096021
+    },
+    {
+        "loginBonusId": 61000126,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50030003
+    },
+    {
+        "loginBonusId": 61000126,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50030001
+    },
+    {
+        "loginBonusId": 61000126,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50030001
+    },
+    {
+        "loginBonusId": 61000126,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50030001
+    },
+    {
+        "loginBonusId": 61000126,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50030001
+    },
+    {
+        "loginBonusId": 61000126,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50030001
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096022
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096022
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000127,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096023
+    },
+    {
+        "loginBonusId": 61000128,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096024
+    },
+    {
+        "loginBonusId": 61000128,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096024
+    },
+    {
+        "loginBonusId": 61000128,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096024
+    },
+    {
+        "loginBonusId": 61000128,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096024
+    },
+    {
+        "loginBonusId": 61000128,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096024
+    },
+    {
+        "loginBonusId": 61000129,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096025
+    },
+    {
+        "loginBonusId": 61000129,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096025
+    },
+    {
+        "loginBonusId": 61000129,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096025
+    },
+    {
+        "loginBonusId": 61000129,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096025
+    },
+    {
+        "loginBonusId": 61000129,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096025
+    },
+    {
+        "loginBonusId": 61000130,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096026
+    },
+    {
+        "loginBonusId": 61000131,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50002320
+    },
+    {
+        "loginBonusId": 61000131,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50003201
+    },
+    {
+        "loginBonusId": 61000131,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50003201
+    },
+    {
+        "loginBonusId": 61000131,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50003201
+    },
+    {
+        "loginBonusId": 61000131,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50003201
+    },
+    {
+        "loginBonusId": 61000131,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50002009
+    },
+    {
+        "loginBonusId": 61000132,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000132,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000132,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000132,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000132,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000132,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000133,
+        "no": 1,
+        "step": 13,
+        "prizeSetNo": 50096027
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096028
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 2,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 3,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 4,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 5,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 6,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 7,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 8,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 9,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 10,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 11,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 12,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 13,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 14,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 15,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000134,
+        "no": 16,
+        "step": 1,
+        "prizeSetNo": 50096029
+    },
+    {
+        "loginBonusId": 61000135,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000135,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000135,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000135,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096018
+    },
+    {
+        "loginBonusId": 61000135,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096014
+    },
+    {
+        "loginBonusId": 61000136,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096032
+    },
+    {
+        "loginBonusId": 61000137,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096032
+    },
+    {
+        "loginBonusId": 61000138,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096032
+    },
+    {
+        "loginBonusId": 61000139,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096034
+    },
+    {
+        "loginBonusId": 61000140,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096034
+    },
+    {
+        "loginBonusId": 61000141,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096034
+    },
+    {
+        "loginBonusId": 61000142,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096030
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096035
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096038
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50096037
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 13,
+        "prizeSetNo": 50096036
+    },
+    {
+        "loginBonusId": 61000143,
+        "no": 1,
+        "step": 14,
+        "prizeSetNo": 50096033
+    },
+    {
+        "loginBonusId": 61000144,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50040910
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000145,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000146,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000146,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000146,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000146,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000146,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096016
+    },
+    {
+        "loginBonusId": 61000146,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096008
+    },
+    {
+        "loginBonusId": 61000147,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096039
+    },
+    {
+        "loginBonusId": 61000147,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096039
+    },
+    {
+        "loginBonusId": 61000147,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096039
+    },
+    {
+        "loginBonusId": 61000147,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096039
+    },
+    {
+        "loginBonusId": 61000147,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096039
+    },
+    {
+        "loginBonusId": 61000147,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096039
+    },
+    {
+        "loginBonusId": 61000147,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096039
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000148,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50003001
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50010500
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50002250
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50003043
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50010500
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50003043
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50002250
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50003201
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 13,
+        "prizeSetNo": 50011000
+    },
+    {
+        "loginBonusId": 61000149,
+        "no": 1,
+        "step": 14,
+        "prizeSetNo": 50000300
+    },
+    {
+        "loginBonusId": 61000150,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003045
+    },
+    {
+        "loginBonusId": 61000151,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003045
+    },
+    {
+        "loginBonusId": 61000152,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003045
+    },
+    {
+        "loginBonusId": 61000153,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096041
+    },
+    {
+        "loginBonusId": 61000154,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096041
+    },
+    {
+        "loginBonusId": 61000155,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096041
+    },
+    {
+        "loginBonusId": 61000156,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096040
+    },
+    {
+        "loginBonusId": 61000157,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096040
+    },
+    {
+        "loginBonusId": 61000158,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003211
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096042
+    },
+    {
+        "loginBonusId": 61000159,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50096043
+    },
+    {
+        "loginBonusId": 61000160,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50003221
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50009300
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50002300
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50009300
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50003201
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50002300
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50009300
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50002300
+    },
+    {
+        "loginBonusId": 61000161,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50096044
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50096045
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 11,
+        "prizeSetNo": 50096044
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 12,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 13,
+        "prizeSetNo": 50096019
+    },
+    {
+        "loginBonusId": 61000162,
+        "no": 1,
+        "step": 14,
+        "prizeSetNo": 50096045
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50015011
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50015021
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50015031
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50015021
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50015031
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 1,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 2,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 3,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 4,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 5,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 6,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 7,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 8,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 9,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999001,
+        "no": 2,
+        "step": 10,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999002,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000001
+    },
+    {
+        "loginBonusId": 61999002,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000005
+    },
+    {
+        "loginBonusId": 61999002,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000010
+    },
+    {
+        "loginBonusId": 61999002,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000020
+    },
+    {
+        "loginBonusId": 61999002,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000030
+    },
+    {
+        "loginBonusId": 61999003,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50010000
+    },
+    {
+        "loginBonusId": 61999003,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50010001
+    },
+    {
+        "loginBonusId": 61999003,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50010005
+    },
+    {
+        "loginBonusId": 61999003,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999003,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50010020
+    },
+    {
+        "loginBonusId": 61999004,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50015015
+    },
+    {
+        "loginBonusId": 61999005,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50015031
+    },
+    {
+        "loginBonusId": 61999005,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50015032
+    },
+    {
+        "loginBonusId": 61999005,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50015033
+    },
+    {
+        "loginBonusId": 61999005,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50015034
+    },
+    {
+        "loginBonusId": 61999005,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50015035
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 1,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 2,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 3,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 4,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 5,
+        "prizeSetNo": 50000100
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 6,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 7,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 8,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 9,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 1,
+        "step": 10,
+        "prizeSetNo": 50010010
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 1,
+        "prizeSetNo": 50015111
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 2,
+        "prizeSetNo": 50015112
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 3,
+        "prizeSetNo": 50015113
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 4,
+        "prizeSetNo": 50015114
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 5,
+        "prizeSetNo": 50015115
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 6,
+        "prizeSetNo": 50015121
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 7,
+        "prizeSetNo": 50015122
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 8,
+        "prizeSetNo": 50015123
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 9,
+        "prizeSetNo": 50015124
+    },
+    {
+        "loginBonusId": 61999006,
+        "no": 2,
+        "step": 10,
+        "prizeSetNo": 50015125
+    }
+]

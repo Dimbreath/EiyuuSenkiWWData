@@ -1,0 +1,6001 @@
+[
+    {
+        "no": 101,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 1
+    },
+    {
+        "no": 101,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 102,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 2
+    },
+    {
+        "no": 102,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 2
+    },
+    {
+        "no": 103,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 3
+    },
+    {
+        "no": 103,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 3
+    },
+    {
+        "no": 104,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 104,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 4
+    },
+    {
+        "no": 105,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 5
+    },
+    {
+        "no": 105,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 5
+    },
+    {
+        "no": 106,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 6
+    },
+    {
+        "no": 106,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 6
+    },
+    {
+        "no": 107,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 7
+    },
+    {
+        "no": 107,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 7
+    },
+    {
+        "no": 108,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 8
+    },
+    {
+        "no": 108,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 8
+    },
+    {
+        "no": 109,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 9
+    },
+    {
+        "no": 109,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 9
+    },
+    {
+        "no": 1001,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 1001,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 1001,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 1002,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 1002,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 1002,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 2001,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 2001,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 2001,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 2002,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 2002,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 2002,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 3001,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 3001,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 3001,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1033,
+        "imgId": 8
+    },
+    {
+        "no": 3001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1033,
+        "imgId": 8
+    },
+    {
+        "no": 3001,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 3001,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 3002,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 3002,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 3002,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 3002,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1021,
+        "imgId": 8
+    },
+    {
+        "no": 3002,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 3002,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 4001,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1025,
+        "imgId": 8
+    },
+    {
+        "no": 4001,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 4001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1025,
+        "imgId": 8
+    },
+    {
+        "no": 4001,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 4002,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 4002,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1021,
+        "imgId": 8
+    },
+    {
+        "no": 4002,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1021,
+        "imgId": 8
+    },
+    {
+        "no": 4002,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 6001,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 6001,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 6001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 6001,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 6002,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 6002,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 6002,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 6002,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 6002,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 6002,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 8001,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1001,
+        "imgId": 8
+    },
+    {
+        "no": 8001,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1001,
+        "imgId": 8
+    },
+    {
+        "no": 8001,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1001,
+        "imgId": 8
+    },
+    {
+        "no": 8001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1001,
+        "imgId": 8
+    },
+    {
+        "no": 8001,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1001,
+        "imgId": 8
+    },
+    {
+        "no": 8001,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1001,
+        "imgId": 8
+    },
+    {
+        "no": 8002,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1023,
+        "imgId": 8
+    },
+    {
+        "no": 8002,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1023,
+        "imgId": 8
+    },
+    {
+        "no": 8002,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1023,
+        "imgId": 8
+    },
+    {
+        "no": 8002,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1023,
+        "imgId": 8
+    },
+    {
+        "no": 8002,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1023,
+        "imgId": 8
+    },
+    {
+        "no": 8002,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1023,
+        "imgId": 8
+    },
+    {
+        "no": 8003,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1024,
+        "imgId": 1
+    },
+    {
+        "no": 8003,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1024,
+        "imgId": 1
+    },
+    {
+        "no": 8003,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 8003,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 8003,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 8003,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1024,
+        "imgId": 1
+    },
+    {
+        "no": 8004,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1024,
+        "imgId": 1
+    },
+    {
+        "no": 8004,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1023,
+        "imgId": 1
+    },
+    {
+        "no": 23001,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23001,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23001,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23001,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23001,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23001,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23002,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23002,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23002,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23002,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 23002,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 30001,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1021,
+        "imgId": 6
+    },
+    {
+        "no": 30001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1028,
+        "imgId": 6
+    },
+    {
+        "no": 30001,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1022,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 3,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40001,
+        "wave": 3,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40002,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1036,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1033,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1032,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1034,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 2,
+        "position": 0,
+        "effectId": 1036,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 2,
+        "position": 2,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 2,
+        "position": 5,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1033,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 2,
+        "position": 21,
+        "effectId": 1032,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 2,
+        "position": 24,
+        "effectId": 1034,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 3,
+        "position": 0,
+        "effectId": 1036,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 3,
+        "position": 2,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 3,
+        "position": 5,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1033,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 3,
+        "position": 21,
+        "effectId": 1032,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 3,
+        "position": 24,
+        "effectId": 1034,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 4,
+        "position": 0,
+        "effectId": 1036,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 4,
+        "position": 2,
+        "effectId": 1031,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 4,
+        "position": 5,
+        "effectId": 1035,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 4,
+        "position": 13,
+        "effectId": 1033,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 4,
+        "position": 21,
+        "effectId": 1032,
+        "imgId": 8
+    },
+    {
+        "no": 40002,
+        "wave": 4,
+        "position": 24,
+        "effectId": 1034,
+        "imgId": 8
+    },
+    {
+        "no": 40003,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 2,
+        "position": 12,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 3,
+        "position": 11,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 3,
+        "position": 12,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40003,
+        "wave": 3,
+        "position": 14,
+        "effectId": 1007,
+        "imgId": 1
+    },
+    {
+        "no": 40004,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1003,
+        "imgId": 1
+    },
+    {
+        "no": 40004,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1004,
+        "imgId": 1
+    },
+    {
+        "no": 40004,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1004,
+        "imgId": 1
+    },
+    {
+        "no": 40004,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1003,
+        "imgId": 1
+    },
+    {
+        "no": 40004,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1028,
+        "imgId": 2
+    },
+    {
+        "no": 40004,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1028,
+        "imgId": 2
+    },
+    {
+        "no": 40004,
+        "wave": 3,
+        "position": 12,
+        "effectId": 1028,
+        "imgId": 2
+    },
+    {
+        "no": 40004,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1028,
+        "imgId": 2
+    },
+    {
+        "no": 40004,
+        "wave": 4,
+        "position": 1,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 40004,
+        "wave": 4,
+        "position": 4,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 40004,
+        "wave": 4,
+        "position": 21,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 40004,
+        "wave": 4,
+        "position": 24,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 40005,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1026,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1021,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1025,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1023,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1022,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1024,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 2,
+        "position": 0,
+        "effectId": 1026,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 2,
+        "position": 2,
+        "effectId": 1021,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 2,
+        "position": 5,
+        "effectId": 1025,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1023,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 2,
+        "position": 21,
+        "effectId": 1022,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 2,
+        "position": 24,
+        "effectId": 1024,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 3,
+        "position": 0,
+        "effectId": 1026,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 3,
+        "position": 2,
+        "effectId": 1021,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 3,
+        "position": 5,
+        "effectId": 1025,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1023,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 3,
+        "position": 21,
+        "effectId": 1022,
+        "imgId": 6
+    },
+    {
+        "no": 40005,
+        "wave": 3,
+        "position": 24,
+        "effectId": 1024,
+        "imgId": 6
+    },
+    {
+        "no": 40006,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 2,
+        "position": 2,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 2,
+        "position": 20,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 2,
+        "position": 23,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 3,
+        "position": 2,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 3,
+        "position": 5,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 3,
+        "position": 20,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40006,
+        "wave": 3,
+        "position": 23,
+        "effectId": 1008,
+        "imgId": 9
+    },
+    {
+        "no": 40007,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40007,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40007,
+        "wave": 3,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40007,
+        "wave": 4,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 2,
+        "position": 10,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40008,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1010,
+        "imgId": 6
+    },
+    {
+        "no": 40009,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40009,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40009,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40009,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40009,
+        "wave": 2,
+        "position": 3,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40009,
+        "wave": 2,
+        "position": 5,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40009,
+        "wave": 2,
+        "position": 20,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40009,
+        "wave": 2,
+        "position": 22,
+        "effectId": 1038,
+        "imgId": 7
+    },
+    {
+        "no": 40010,
+        "wave": 1,
+        "position": 2,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 1,
+        "position": 3,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 1,
+        "position": 11,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 1,
+        "position": 14,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 1,
+        "position": 20,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 1,
+        "position": 25,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 2,
+        "position": 2,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 2,
+        "position": 3,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 2,
+        "position": 11,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 2,
+        "position": 14,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 2,
+        "position": 20,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40010,
+        "wave": 2,
+        "position": 25,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 40011,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40011,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40011,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40011,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40011,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 40011,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 101002,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1021,
+        "imgId": 1
+    },
+    {
+        "no": 101003,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1002,
+        "imgId": 5
+    },
+    {
+        "no": 101003,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1002,
+        "imgId": 5
+    },
+    {
+        "no": 101006,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1002,
+        "imgId": 5
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 0,
+        "effectId": 1031,
+        "imgId": 9
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 1,
+        "effectId": 1038,
+        "imgId": 9
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 2,
+        "effectId": 1032,
+        "imgId": 9
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 10,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 12,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 20,
+        "effectId": 1031,
+        "imgId": 9
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 21,
+        "effectId": 1038,
+        "imgId": 9
+    },
+    {
+        "no": 101007,
+        "wave": 2,
+        "position": 22,
+        "effectId": 1032,
+        "imgId": 9
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 0,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 2,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 10,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 11,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 12,
+        "effectId": 1051,
+        "imgId": 6
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 20,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 101007,
+        "wave": 3,
+        "position": 22,
+        "effectId": 1061,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102001,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1071,
+        "imgId": 1
+    },
+    {
+        "no": 102002,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102002,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102003,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102003,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102004,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1077,
+        "imgId": 1
+    },
+    {
+        "no": 102011,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102011,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1074,
+        "imgId": 1
+    },
+    {
+        "no": 102011,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102012,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1075,
+        "imgId": 1
+    },
+    {
+        "no": 102013,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102013,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 102013,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102014,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102015,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1078,
+        "imgId": 1
+    },
+    {
+        "no": 102020,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102020,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 102021,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 110310,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110310,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1064,
+        "imgId": 1
+    },
+    {
+        "no": 110310,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1080,
+        "imgId": 1
+    },
+    {
+        "no": 110310,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110310,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1063,
+        "imgId": 1
+    },
+    {
+        "no": 110320,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110320,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1082,
+        "imgId": 1
+    },
+    {
+        "no": 110320,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110320,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110321,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110321,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1082,
+        "imgId": 1
+    },
+    {
+        "no": 110321,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110322,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110322,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110322,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1082,
+        "imgId": 1
+    },
+    {
+        "no": 110322,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1051,
+        "imgId": 1
+    },
+    {
+        "no": 110322,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110322,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110331,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110331,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1082,
+        "imgId": 1
+    },
+    {
+        "no": 110331,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1027,
+        "imgId": 1
+    },
+    {
+        "no": 110331,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110331,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110331,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110332,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110332,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110332,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1082,
+        "imgId": 1
+    },
+    {
+        "no": 110332,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 110332,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1081,
+        "imgId": 1
+    },
+    {
+        "no": 110332,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 6,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 8,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 9,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 16,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 17,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 18,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 19,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 26,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 27,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 28,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110341,
+        "wave": 1,
+        "position": 29,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 6,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 8,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 9,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 16,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 17,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 18,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 19,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 26,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 27,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 28,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110342,
+        "wave": 1,
+        "position": 29,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 6,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 8,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 9,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 16,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 17,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 18,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 19,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 26,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 27,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 28,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110343,
+        "wave": 1,
+        "position": 29,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 6,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 8,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 9,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 16,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 17,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 18,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 19,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 26,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 27,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 28,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110344,
+        "wave": 1,
+        "position": 29,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110345,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110345,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110345,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110345,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110345,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110346,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110346,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 110346,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110346,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110346,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1039,
+        "imgId": 1
+    },
+    {
+        "no": 110346,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111311,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1090,
+        "imgId": 9
+    },
+    {
+        "no": 111321,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 111321,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1065,
+        "imgId": 1
+    },
+    {
+        "no": 111322,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111322,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 111322,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111322,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1100,
+        "imgId": 1
+    },
+    {
+        "no": 111333,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1065,
+        "imgId": 1
+    },
+    {
+        "no": 111333,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1100,
+        "imgId": 1
+    },
+    {
+        "no": 111341,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 111341,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 111341,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111342,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1111,
+        "imgId": 1
+    },
+    {
+        "no": 111343,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1039,
+        "imgId": 9
+    },
+    {
+        "no": 111343,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 111343,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 111343,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1039,
+        "imgId": 9
+    },
+    {
+        "no": 111343,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1039,
+        "imgId": 9
+    },
+    {
+        "no": 111344,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1107,
+        "imgId": 1
+    },
+    {
+        "no": 111344,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1105,
+        "imgId": 1
+    },
+    {
+        "no": 111344,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1106,
+        "imgId": 1
+    },
+    {
+        "no": 111344,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1108,
+        "imgId": 1
+    },
+    {
+        "no": 111345,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111345,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111345,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111345,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111346,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111346,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111346,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111346,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111346,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111347,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111347,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111347,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111347,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111347,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111347,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1110,
+        "imgId": 9
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111348,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1076,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111349,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1112,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 2,
+        "position": 2,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 2,
+        "position": 5,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 2,
+        "position": 22,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 3,
+        "position": 2,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 3,
+        "position": 5,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 3,
+        "position": 11,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 3,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111401,
+        "wave": 3,
+        "position": 22,
+        "effectId": 1141,
+        "imgId": 9
+    },
+    {
+        "no": 111401,
+        "wave": 3,
+        "position": 24,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 2,
+        "position": 2,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 2,
+        "position": 4,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 2,
+        "position": 10,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 2,
+        "position": 12,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 2,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 2,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 4,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 10,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 12,
+        "effectId": 1142,
+        "imgId": 9
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111402,
+        "wave": 3,
+        "position": 25,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 5,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 12,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 22,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 2,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 4,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 11,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 12,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 22,
+        "effectId": 1143,
+        "imgId": 9
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111403,
+        "wave": 3,
+        "position": 25,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 1,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 12,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 21,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 2,
+        "position": 24,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 1,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 12,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 21,
+        "effectId": 1144,
+        "imgId": 9
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 24,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111404,
+        "wave": 3,
+        "position": 25,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 4,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 11,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 12,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 20,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 2,
+        "position": 25,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 4,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 11,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 12,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 20,
+        "effectId": 1145,
+        "imgId": 9
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 24,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 111405,
+        "wave": 3,
+        "position": 25,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 112211,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1109,
+        "imgId": 1
+    },
+    {
+        "no": 112211,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1109,
+        "imgId": 1
+    },
+    {
+        "no": 112211,
+        "wave": 2,
+        "position": 0,
+        "effectId": 1015,
+        "imgId": 7
+    },
+    {
+        "no": 112211,
+        "wave": 2,
+        "position": 20,
+        "effectId": 1015,
+        "imgId": 7
+    },
+    {
+        "no": 112221,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112221,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112221,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112221,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112231,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112231,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112231,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112231,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 112231,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112241,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112241,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112241,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112241,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1072,
+        "imgId": 3
+    },
+    {
+        "no": 112241,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1072,
+        "imgId": 3
+    },
+    {
+        "no": 112241,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112242,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112242,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112242,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112242,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1065,
+        "imgId": 3
+    },
+    {
+        "no": 112242,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112243,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 112243,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112243,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1401,
+        "imgId": 2
+    },
+    {
+        "no": 112243,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1065,
+        "imgId": 3
+    },
+    {
+        "no": 112243,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1301,
+        "imgId": 1
+    },
+    {
+        "no": 113201,
+        "wave": 1,
+        "position": 23,
+        "effectId": 2000,
+        "imgId": 1
+    },
+    {
+        "no": 113201,
+        "wave": 1,
+        "position": 24,
+        "effectId": 2000,
+        "imgId": 1
+    },
+    {
+        "no": 113201,
+        "wave": 3,
+        "position": 13,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 113201,
+        "wave": 3,
+        "position": 15,
+        "effectId": 2100,
+        "imgId": 2
+    },
+    {
+        "no": 113201,
+        "wave": 4,
+        "position": 3,
+        "effectId": 1502,
+        "imgId": 3
+    },
+    {
+        "no": 113201,
+        "wave": 4,
+        "position": 13,
+        "effectId": 1502,
+        "imgId": 3
+    },
+    {
+        "no": 113201,
+        "wave": 4,
+        "position": 14,
+        "effectId": 1502,
+        "imgId": 3
+    },
+    {
+        "no": 114001,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114001,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114001,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1093,
+        "imgId": 1
+    },
+    {
+        "no": 114002,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114002,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114002,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1092,
+        "imgId": 1
+    },
+    {
+        "no": 114003,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114003,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1091,
+        "imgId": 1
+    },
+    {
+        "no": 114003,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114004,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114004,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114004,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1092,
+        "imgId": 1
+    },
+    {
+        "no": 114005,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 114005,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1093,
+        "imgId": 1
+    },
+    {
+        "no": 114005,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 115001,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 115001,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116001,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1601,
+        "imgId": 1
+    },
+    {
+        "no": 116002,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116002,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116002,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116002,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116002,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116003,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116003,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116003,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116003,
+        "wave": 2,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 116003,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 6,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 28,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117001,
+        "wave": 1,
+        "position": 29,
+        "effectId": 1009,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1021,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 6,
+        "effectId": 1021,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 9,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1021,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 18,
+        "effectId": 1021,
+        "imgId": 1
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 117002,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1033,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 8,
+        "effectId": 1034,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1061,
+        "imgId": 6
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1033,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 16,
+        "effectId": 1034,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 17,
+        "effectId": 1033,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 22,
+        "effectId": 1034,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1034,
+        "imgId": 1
+    },
+    {
+        "no": 117003,
+        "wave": 1,
+        "position": 29,
+        "effectId": 1033,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 18,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 26,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 117004,
+        "wave": 1,
+        "position": 29,
+        "effectId": 1701,
+        "imgId": 1
+    },
+    {
+        "no": 117005,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 117005,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1062,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 1,
+        "position": 11,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 1,
+        "position": 12,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 2,
+        "position": 11,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 2,
+        "position": 12,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 5,
+        "position": 15,
+        "effectId": 230000,
+        "imgId": 1
+    },
+    {
+        "no": 216020,
+        "wave": 6,
+        "position": 11,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 6,
+        "position": 12,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 7,
+        "position": 11,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 7,
+        "position": 12,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 10,
+        "position": 15,
+        "effectId": 230000,
+        "imgId": 1
+    },
+    {
+        "no": 216020,
+        "wave": 11,
+        "position": 11,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 11,
+        "position": 12,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 12,
+        "position": 11,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 12,
+        "position": 12,
+        "effectId": 220000,
+        "imgId": 6
+    },
+    {
+        "no": 216020,
+        "wave": 15,
+        "position": 15,
+        "effectId": 230000,
+        "imgId": 1
+    },
+    {
+        "no": 216030,
+        "wave": 1,
+        "position": 11,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 1,
+        "position": 12,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 2,
+        "position": 11,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 2,
+        "position": 12,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 5,
+        "position": 14,
+        "effectId": 230010,
+        "imgId": 1
+    },
+    {
+        "no": 216030,
+        "wave": 6,
+        "position": 11,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 6,
+        "position": 12,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 7,
+        "position": 11,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 7,
+        "position": 12,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 10,
+        "position": 14,
+        "effectId": 230010,
+        "imgId": 1
+    },
+    {
+        "no": 216030,
+        "wave": 11,
+        "position": 11,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 11,
+        "position": 12,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 12,
+        "position": 11,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 12,
+        "position": 12,
+        "effectId": 220001,
+        "imgId": 6
+    },
+    {
+        "no": 216030,
+        "wave": 15,
+        "position": 14,
+        "effectId": 230010,
+        "imgId": 1
+    },
+    {
+        "no": 216040,
+        "wave": 1,
+        "position": 11,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 1,
+        "position": 12,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 2,
+        "position": 11,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 2,
+        "position": 12,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 5,
+        "position": 14,
+        "effectId": 230020,
+        "imgId": 1
+    },
+    {
+        "no": 216040,
+        "wave": 6,
+        "position": 11,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 6,
+        "position": 12,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 7,
+        "position": 11,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 7,
+        "position": 12,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 10,
+        "position": 14,
+        "effectId": 230020,
+        "imgId": 1
+    },
+    {
+        "no": 216040,
+        "wave": 11,
+        "position": 11,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 11,
+        "position": 12,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 12,
+        "position": 11,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 12,
+        "position": 12,
+        "effectId": 220002,
+        "imgId": 6
+    },
+    {
+        "no": 216040,
+        "wave": 15,
+        "position": 14,
+        "effectId": 230020,
+        "imgId": 1
+    },
+    {
+        "no": 216050,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 216050,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1062,
+        "imgId": 1
+    },
+    {
+        "no": 217020,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1093,
+        "imgId": 6
+    },
+    {
+        "no": 217030,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1091,
+        "imgId": 6
+    },
+    {
+        "no": 217040,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1092,
+        "imgId": 6
+    },
+    {
+        "no": 217040,
+        "wave": 2,
+        "position": 13,
+        "effectId": 1092,
+        "imgId": 6
+    },
+    {
+        "no": 217050,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1009,
+        "imgId": 6
+    },
+    {
+        "no": 217050,
+        "wave": 2,
+        "position": 15,
+        "effectId": 1009,
+        "imgId": 6
+    },
+    {
+        "no": 217050,
+        "wave": 3,
+        "position": 14,
+        "effectId": 1009,
+        "imgId": 6
+    },
+    {
+        "no": 217060,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1065,
+        "imgId": 6
+    },
+    {
+        "no": 218010,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1008,
+        "imgId": 8
+    },
+    {
+        "no": 218010,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1105,
+        "imgId": 1
+    },
+    {
+        "no": 218010,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1008,
+        "imgId": 8
+    },
+    {
+        "no": 218010,
+        "wave": 1,
+        "position": 23,
+        "effectId": 1008,
+        "imgId": 8
+    },
+    {
+        "no": 480003,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1021,
+        "imgId": 1
+    },
+    {
+        "no": 480003,
+        "wave": 1,
+        "position": 5,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 480003,
+        "wave": 1,
+        "position": 10,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 480003,
+        "wave": 1,
+        "position": 15,
+        "effectId": 1025,
+        "imgId": 1
+    },
+    {
+        "no": 480003,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1022,
+        "imgId": 1
+    },
+    {
+        "no": 480003,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1021,
+        "imgId": 1
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 0,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 12,
+        "effectId": 1002,
+        "imgId": 5
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 13,
+        "effectId": 1002,
+        "imgId": 5
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 16,
+        "effectId": 1002,
+        "imgId": 5
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 19,
+        "effectId": 1002,
+        "imgId": 5
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 480004,
+        "wave": 1,
+        "position": 28,
+        "effectId": 1001,
+        "imgId": 4
+    },
+    {
+        "no": 480005,
+        "wave": 1,
+        "position": 1,
+        "effectId": 1121,
+        "imgId": 1
+    },
+    {
+        "no": 480005,
+        "wave": 1,
+        "position": 4,
+        "effectId": 1121,
+        "imgId": 1
+    },
+    {
+        "no": 480005,
+        "wave": 1,
+        "position": 7,
+        "effectId": 1121,
+        "imgId": 1
+    },
+    {
+        "no": 480005,
+        "wave": 1,
+        "position": 21,
+        "effectId": 1121,
+        "imgId": 1
+    },
+    {
+        "no": 480005,
+        "wave": 1,
+        "position": 24,
+        "effectId": 1121,
+        "imgId": 1
+    },
+    {
+        "no": 480005,
+        "wave": 1,
+        "position": 27,
+        "effectId": 1121,
+        "imgId": 1
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 2,
+        "effectId": 1066,
+        "imgId": 1
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 3,
+        "effectId": 1066,
+        "imgId": 1
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 8,
+        "effectId": 1066,
+        "imgId": 1
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 9,
+        "effectId": 1066,
+        "imgId": 1
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 11,
+        "effectId": 1003,
+        "imgId": 9
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 14,
+        "effectId": 1003,
+        "imgId": 9
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 17,
+        "effectId": 1003,
+        "imgId": 9
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 20,
+        "effectId": 1004,
+        "imgId": 9
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 25,
+        "effectId": 1004,
+        "imgId": 9
+    },
+    {
+        "no": 480006,
+        "wave": 1,
+        "position": 26,
+        "effectId": 1004,
+        "imgId": 9
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 20,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 21,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 22,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 23,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 24,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 25,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 26,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 27,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 28,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 480007,
+        "wave": 1,
+        "position": 29,
+        "effectId": 2200,
+        "imgId": 1
+    },
+    {
+        "no": 502000,
+        "wave": 1,
+        "position": 10,
+        "effectId": 200010,
+        "imgId": 6
+    },
+    {
+        "no": 502000,
+        "wave": 1,
+        "position": 11,
+        "effectId": 200010,
+        "imgId": 6
+    },
+    {
+        "no": 502000,
+        "wave": 1,
+        "position": 12,
+        "effectId": 200010,
+        "imgId": 6
+    },
+    {
+        "no": 502000,
+        "wave": 1,
+        "position": 13,
+        "effectId": 200010,
+        "imgId": 6
+    }
+]

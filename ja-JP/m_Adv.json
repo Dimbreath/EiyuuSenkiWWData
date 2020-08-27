@@ -1,0 +1,5742 @@
+[
+    {
+        "resourceKind": 1,
+        "resourceId": 2701,
+        "searchText": "WWCG_ビリー・ザ・キッド01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 1,
+        "resourceId": 2702,
+        "searchText": "WWCG_ビリー・ザ・キッド01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 1,
+        "resourceId": 2703,
+        "searchText": "WWCG_ビリー・ザ・キッド01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 1,
+        "resourceId": 900254,
+        "searchText": "世界地図",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 1,
+        "resourceId": 900991,
+        "searchText": "白",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 1,
+        "resourceId": 900992,
+        "searchText": "黒",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1,
+        "searchText": "作戦室",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2,
+        "searchText": "庭",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 3,
+        "searchText": "庭夜",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 4,
+        "searchText": "主人公部屋",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 5,
+        "searchText": "主人公部屋夜",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 6,
+        "searchText": "イルミナティ部屋",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 7,
+        "searchText": "青空",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 8,
+        "searchText": "夕空",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 9,
+        "searchText": "夜空",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 10,
+        "searchText": "曇空",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 11,
+        "searchText": "雨空",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 22,
+        "searchText": "汎用和室夜",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 23,
+        "searchText": "汎用和室昼",
+        "offsetX": 0,
+        "offsetY": 90
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 98,
+        "searchText": "風景白",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 99,
+        "searchText": "風景黒",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 201,
+        "searchText": "汎用訓練場",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 202,
+        "searchText": "汎用船内",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 203,
+        "searchText": "円卓部屋",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 204,
+        "searchText": "水晶洞窟",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 205,
+        "searchText": "よろず屋",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 206,
+        "searchText": "鍛冶場",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1000,
+        "searchText": "邪馬台",
+        "offsetX": 0,
+        "offsetY": -140
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1001,
+        "searchText": "邪馬台火事",
+        "offsetX": 0,
+        "offsetY": -140
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1002,
+        "searchText": "江戸",
+        "offsetX": 0,
+        "offsetY": -140
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1003,
+        "searchText": "京都",
+        "offsetX": 0,
+        "offsetY": -140
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1004,
+        "searchText": "長安",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1005,
+        "searchText": "香港",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1006,
+        "searchText": "汎用大華",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1007,
+        "searchText": "ウルゲンチ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1008,
+        "searchText": "汎用モンゴル",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1009,
+        "searchText": "ガンダーラ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1010,
+        "searchText": "汎用インド",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1011,
+        "searchText": "汎用東南アジア",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1012,
+        "searchText": "汎用南国",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1013,
+        "searchText": "ハワイ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1014,
+        "searchText": "汎用オーストラリア",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1015,
+        "searchText": "アレキサンドリア",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1016,
+        "searchText": "汎用マケドニア",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1017,
+        "searchText": "モスクワ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1018,
+        "searchText": "汎用ロシア",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1019,
+        "searchText": "ポートロイヤル",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1020,
+        "searchText": "汎用ヴィンランド",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1021,
+        "searchText": "ニューヨーク",
+        "offsetX": 0,
+        "offsetY": 200
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1022,
+        "searchText": "汎用ＵＳＡ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1023,
+        "searchText": "汎用インディアス",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1024,
+        "searchText": "テノチティトラン",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1025,
+        "searchText": "クスコ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1026,
+        "searchText": "汎用南米",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1027,
+        "searchText": "ローマ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1028,
+        "searchText": "パリ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1029,
+        "searchText": "汎用欧州",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1030,
+        "searchText": "汎用ブリタニア",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1031,
+        "searchText": "バベル",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1032,
+        "searchText": "汎用古代",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1033,
+        "searchText": "アブシンベル",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1034,
+        "searchText": "汎用エジプト",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1035,
+        "searchText": "汎用暗黒",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1036,
+        "searchText": "ヨハネスブルグ",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1037,
+        "searchText": "汎用幻想",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1038,
+        "searchText": "汎用ムー",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1201,
+        "searchText": "仙台",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1202,
+        "searchText": "ブリュッセル",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1203,
+        "searchText": "汎用地底",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 1204,
+        "searchText": "汎用海底",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2001,
+        "searchText": "探索洞窟",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2002,
+        "searchText": "探索遺跡",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2003,
+        "searchText": "探索遺跡内部",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2004,
+        "searchText": "探索山",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2005,
+        "searchText": "探索砂漠",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2006,
+        "searchText": "探索荒地",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2007,
+        "searchText": "探索難破船",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2008,
+        "searchText": "探索海暗",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2009,
+        "searchText": "探索海明(天海)",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2010,
+        "searchText": "探索海明",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2201,
+        "searchText": "探索森明",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2202,
+        "searchText": "探索森暗",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2203,
+        "searchText": "探索岩山",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2204,
+        "searchText": "探索海辺",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 2,
+        "resourceId": 2205,
+        "searchText": "探索ジャングル",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100011,
+        "searchText": "ADV挿絵0011",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100021,
+        "searchText": "ADV挿絵0021",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100031,
+        "searchText": "ADV挿絵0031",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100032,
+        "searchText": "ADV挿絵0032",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100041,
+        "searchText": "ADV挿絵0041",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100042,
+        "searchText": "ADV挿絵0042",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100051,
+        "searchText": "ADV挿絵0051",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100061,
+        "searchText": "ADV挿絵0061",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100062,
+        "searchText": "ADV挿絵0062",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100063,
+        "searchText": "ADV挿絵0063",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100071,
+        "searchText": "ADV挿絵0071",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100081,
+        "searchText": "ADV挿絵0081",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100082,
+        "searchText": "ADV挿絵0082",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 3,
+        "resourceId": 100083,
+        "searchText": "ADV挿絵0083",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 101,
+        "searchText": "TTCG_ヒミコ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 102,
+        "searchText": "TTCG_ヒミコ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 103,
+        "searchText": "TTCG_ヒミコ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 104,
+        "searchText": "WWCG_チュートリアル_伊達政宗01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 105,
+        "searchText": "WWCG_チュートリアル_伊達政宗01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 201,
+        "searchText": "WWCG_伊達政宗01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 202,
+        "searchText": "WWCG_伊達政宗02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 203,
+        "searchText": "WWCG_伊達政宗02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 204,
+        "searchText": "WWCG_伊達政宗02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 205,
+        "searchText": "WWCG_伊達政宗02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 211,
+        "searchText": "WWCG_伊達政宗_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 212,
+        "searchText": "WWCG_伊達政宗_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 213,
+        "searchText": "WWCG_伊達政宗_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 215,
+        "searchText": "WWCG_伊達政宗_水着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 216,
+        "searchText": "WWCG_伊達政宗_水着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 301,
+        "searchText": "WWCG_伊能忠敬01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 401,
+        "searchText": "WWCG_織田信長01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 402,
+        "searchText": "WWCG_織田信長01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 403,
+        "searchText": "WWCG_織田信長01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 501,
+        "searchText": "WWCG_源義経01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 502,
+        "searchText": "WWCG_源義経02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 503,
+        "searchText": "WWCG_源義経02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 601,
+        "searchText": "WWCG_武蔵坊弁慶01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 602,
+        "searchText": "WWCG_武蔵坊弁慶01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 603,
+        "searchText": "WWCG_武蔵坊弁慶01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 604,
+        "searchText": "WWCG_武蔵坊弁慶01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 701,
+        "searchText": "WWCG_ヒミコ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 702,
+        "searchText": "WWCG_ヒミコ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 703,
+        "searchText": "WWCG_ヒミコ02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 711,
+        "searchText": "WWCG_ヒミコ_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 712,
+        "searchText": "WWCG_ヒミコ_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 714,
+        "searchText": "WWCG_ヒミコ_水着02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 801,
+        "searchText": "WWCG_ヤマトタケル01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 802,
+        "searchText": "WWCG_ヤマトタケル02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 803,
+        "searchText": "WWCG_ヤマトタケル02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 804,
+        "searchText": "WWCG_ヤマトタケル02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 805,
+        "searchText": "WWCG_ヤマトタケル02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 901,
+        "searchText": "WWCG_安倍晴明01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 902,
+        "searchText": "WWCG_安倍晴明01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 903,
+        "searchText": "WWCG_安倍晴明01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 904,
+        "searchText": "WWCG_安倍晴明01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 911,
+        "searchText": "WWCG_安倍晴明_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 912,
+        "searchText": "WWCG_安倍晴明_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 913,
+        "searchText": "WWCG_安倍晴明_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1001,
+        "searchText": "WWCG_始皇帝01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1002,
+        "searchText": "WWCG_始皇帝02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1003,
+        "searchText": "WWCG_始皇帝02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1004,
+        "searchText": "WWCG_始皇帝02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1101,
+        "searchText": "WWCG_孫子01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1201,
+        "searchText": "WWCG_呂布01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1301,
+        "searchText": "WWCG_フビライ・ハン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1302,
+        "searchText": "WWCG_フビライ・ハン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1303,
+        "searchText": "WWCG_フビライ・ハン02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1401,
+        "searchText": "WWCG_マルコ・ポーロ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1402,
+        "searchText": "WWCG_マルコ・ポーロ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1403,
+        "searchText": "WWCG_マルコ・ポーロ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1404,
+        "searchText": "WWCG_マルコ・ポーロ01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1405,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1406,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1407,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1408,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1409,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1410,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1411,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1412,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1413,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1414,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1415,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1416,
+        "searchText": "WWCG_マルコ・ポーロ_バレンタイン02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1501,
+        "searchText": "WWCG_三蔵法師01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1502,
+        "searchText": "WWCG_三蔵法師01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1503,
+        "searchText": "WWCG_三蔵法師01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1504,
+        "searchText": "WWCG_三蔵法師01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1505,
+        "searchText": "WWCG_三蔵法師01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1601,
+        "searchText": "WWCG_アショーカ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1602,
+        "searchText": "WWCG_アショーカ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1603,
+        "searchText": "WWCG_アショーカ02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1604,
+        "searchText": "WWCG_アショーカ_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1605,
+        "searchText": "WWCG_アショーカ_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1606,
+        "searchText": "WWCG_アショーカ_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1607,
+        "searchText": "WWCG_アショーカ_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1608,
+        "searchText": "WWCG_アショーカ_水着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1609,
+        "searchText": "WWCG_アショーカ_水着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1610,
+        "searchText": "WWCG_アショーカ_水着01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1611,
+        "searchText": "WWCG_アショーカ_水着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1612,
+        "searchText": "WWCG_アショーカ_水着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1613,
+        "searchText": "WWCG_アショーカ_水着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1701,
+        "searchText": "WWCG_カメハメハ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1801,
+        "searchText": "WWCG_ジャンヌ・ダルク01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1802,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1803,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1804,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1805,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1806,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1807,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1808,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1809,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1810,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1811,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1812,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1813,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1814,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1815,
+        "searchText": "WWCG_ジャンヌ・ダルク_水着02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1901,
+        "searchText": "WWCG_ヴラド・ツェペシュ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1902,
+        "searchText": "WWCG_ヴラド・ツェペシュ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1903,
+        "searchText": "WWCG_ヴラド・ツェペシュ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1904,
+        "searchText": "WWCG_ヴラド・ツェペシュ01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1905,
+        "searchText": "WWCG_ヴラド・ツェペシュ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1906,
+        "searchText": "WWCG_ヴラド・ツェペシュ02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1907,
+        "searchText": "WWCG_ヴラド・ツェペシュ02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1908,
+        "searchText": "WWCG_ヴラド・ツェペシュ02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1909,
+        "searchText": "WWCG_ヴラド・ツェペシュ02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1910,
+        "searchText": "WWCG_ヴラド・ツェペシュ03",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1911,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1912,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1913,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1914,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1915,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1916,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1917,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1918,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1919,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1920,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1921,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 1922,
+        "searchText": "WWCG_ヴラド・ツェペシュ_聖夜02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2001,
+        "searchText": "WWCG_石川五右衛門01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2101,
+        "searchText": "WWCG_ドレイク01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2102,
+        "searchText": "WWCG_ドレイク01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2103,
+        "searchText": "WWCG_ドレイク02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2104,
+        "searchText": "WWCG_ドレイク02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2105,
+        "searchText": "WWCG_ドレイク02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2106,
+        "searchText": "WWCG_ドレイク_晴着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2107,
+        "searchText": "WWCG_ドレイク_晴着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2108,
+        "searchText": "WWCG_ドレイク_晴着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2109,
+        "searchText": "WWCG_ドレイク_晴着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2110,
+        "searchText": "WWCG_ドレイク_晴着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2111,
+        "searchText": "WWCG_ドレイク_晴着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2112,
+        "searchText": "WWCG_ドレイク_晴着01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2113,
+        "searchText": "WWCG_ドレイク_晴着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2114,
+        "searchText": "WWCG_ドレイク_晴着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2115,
+        "searchText": "WWCG_ドレイク_晴着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2116,
+        "searchText": "WWCG_ドレイク_晴着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2117,
+        "searchText": "WWCG_ドレイク_晴着02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2201,
+        "searchText": "WWCG_ティーチ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2202,
+        "searchText": "WWCG_ティーチ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2203,
+        "searchText": "WWCG_ティーチ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2301,
+        "searchText": "WWCG_ウィリアム・キッド01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2302,
+        "searchText": "WWCG_ウィリアム・キッド01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2303,
+        "searchText": "WWCG_ウィリアム・キッド01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2401,
+        "searchText": "WWCG_アルビダ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2501,
+        "searchText": "WWCG_ジェロニモ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2502,
+        "searchText": "WWCG_ジェロニモ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2503,
+        "searchText": "WWCG_ジェロニモ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2601,
+        "searchText": "WWCG_コロンブス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2602,
+        "searchText": "WWCG_コロンブス02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2603,
+        "searchText": "WWCG_コロンブス02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2604,
+        "searchText": "WWCG_コロンブス02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2605,
+        "searchText": "WWCG_コロンブス_バレンタイン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2606,
+        "searchText": "WWCG_コロンブス_バレンタイン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2607,
+        "searchText": "WWCG_コロンブス_バレンタイン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2608,
+        "searchText": "WWCG_コロンブス_バレンタイン01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2609,
+        "searchText": "WWCG_コロンブス_バレンタイン01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2610,
+        "searchText": "WWCG_コロンブス_バレンタイン02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2611,
+        "searchText": "WWCG_コロンブス_バレンタイン02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2612,
+        "searchText": "WWCG_コロンブス_バレンタイン02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2613,
+        "searchText": "WWCG_コロンブス_バレンタイン02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2614,
+        "searchText": "WWCG_コロンブス_バレンタイン02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2615,
+        "searchText": "WWCG_コロンブス_バレンタイン02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2616,
+        "searchText": "WWCG_コロンブス_バレンタイン02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2617,
+        "searchText": "WWCG_コロンブス_バレンタイン02h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2618,
+        "searchText": "WWCG_コロンブス_バレンタイン02i",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2619,
+        "searchText": "WWCG_コロンブス_バレンタイン02j",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2704,
+        "searchText": "WWCG_ビリー・ザ・キッド02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2705,
+        "searchText": "WWCG_ビリー・ザ・キッド02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2706,
+        "searchText": "WWCG_ビリー・ザ・キッド02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2801,
+        "searchText": "WWCG_ペリー01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2802,
+        "searchText": "WWCG_ペリー01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 2901,
+        "searchText": "WWCG_モンテズマ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3001,
+        "searchText": "WWCG_ワイナカパック01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3101,
+        "searchText": "WWCG_アレキサンダー01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3102,
+        "searchText": "WWCG_アレキサンダー02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3103,
+        "searchText": "WWCG_アレキサンダー03",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3201,
+        "searchText": "WWCG_アリストテレス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3202,
+        "searchText": "WWCG_アリストテレス_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3203,
+        "searchText": "WWCG_アリストテレス_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3204,
+        "searchText": "WWCG_アリストテレス_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3205,
+        "searchText": "WWCG_アリストテレス_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3206,
+        "searchText": "WWCG_アリストテレス_水着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3207,
+        "searchText": "WWCG_アリストテレス_水着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3301,
+        "searchText": "WWCG_ツタンカーメン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3302,
+        "searchText": "WWCG_ツタンカーメン02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3303,
+        "searchText": "WWCG_ツタンカーメン02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3304,
+        "searchText": "WWCG_ツタンカーメン02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3305,
+        "searchText": "WWCG_ツタンカーメン02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3306,
+        "searchText": "WWCG_ツタンカーメン02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3307,
+        "searchText": "WWCG_ツタンカーメン02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3308,
+        "searchText": "WWCG_ツタンカーメン02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3311,
+        "searchText": "WWCG_ツタンカーメン03a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3312,
+        "searchText": "WWCG_ツタンカーメン03b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3313,
+        "searchText": "WWCG_ツタンカーメン03c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3314,
+        "searchText": "WWCG_ツタンカーメン_制服01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3315,
+        "searchText": "WWCG_ツタンカーメン_制服01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3316,
+        "searchText": "WWCG_ツタンカーメン_制服01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3317,
+        "searchText": "WWCG_ツタンカーメン_制服01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3318,
+        "searchText": "WWCG_ツタンカーメン_制服01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3319,
+        "searchText": "WWCG_ツタンカーメン_制服02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3320,
+        "searchText": "WWCG_ツタンカーメン_制服02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3321,
+        "searchText": "WWCG_ツタンカーメン_制服02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3322,
+        "searchText": "WWCG_ツタンカーメン_制服02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3323,
+        "searchText": "WWCG_ツタンカーメン_制服02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3324,
+        "searchText": "WWCG_ツタンカーメン_制服02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3325,
+        "searchText": "WWCG_ツタンカーメン_制服02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3326,
+        "searchText": "WWCG_ツタンカーメン_制服02h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3327,
+        "searchText": "WWCG_ツタンカーメン_制服02i",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3401,
+        "searchText": "WWCG_クレオパトラ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3402,
+        "searchText": "WWCG_クレオパトラ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3403,
+        "searchText": "WWCG_クレオパトラ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3404,
+        "searchText": "WWCG_クレオパトラ01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3501,
+        "searchText": "WWCG_ギルガメシュ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3502,
+        "searchText": "WWCG_ギルガメシュ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3503,
+        "searchText": "WWCG_ギルガメシュ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3504,
+        "searchText": "WWCG_ギルガメシュ02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3505,
+        "searchText": "WWCG_ギルガメシュ_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3506,
+        "searchText": "WWCG_ギルガメシュ_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3507,
+        "searchText": "WWCG_ギルガメシュ_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3508,
+        "searchText": "WWCG_ギルガメシュ_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3509,
+        "searchText": "WWCG_ギルガメシュ_水着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3510,
+        "searchText": "WWCG_ギルガメシュ_水着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3511,
+        "searchText": "WWCG_ギルガメシュ_水着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3512,
+        "searchText": "WWCG_ギルガメシュ_水着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3513,
+        "searchText": "WWCG_ギルガメシュ_水着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3514,
+        "searchText": "WWCG_ギルガメシュ_水着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3515,
+        "searchText": "WWCG_ギルガメシュ_水着02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3516,
+        "searchText": "WWCG_ギルガメシュ_水着02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3517,
+        "searchText": "WWCG_ギルガメシュ_水着02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3518,
+        "searchText": "WWCG_ギルガメシュ_水着02h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3601,
+        "searchText": "WWCG_エンキドゥ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3602,
+        "searchText": "WWCG_エンキドゥ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3603,
+        "searchText": "WWCG_エンキドゥ02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3604,
+        "searchText": "WWCG_エンキドゥ02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3605,
+        "searchText": "WWCG_エンキドゥ03a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3606,
+        "searchText": "WWCG_エンキドゥ03b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3607,
+        "searchText": "WWCG_エンキドゥ03c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3701,
+        "searchText": "WWCG_ハンムラビ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3702,
+        "searchText": "WWCG_ハンムラビ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3703,
+        "searchText": "WWCG_ハンムラビ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3801,
+        "searchText": "WWCG_ノストラダムス01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3802,
+        "searchText": "WWCG_ノストラダムス01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3803,
+        "searchText": "WWCG_ノストラダムス01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3804,
+        "searchText": "WWCG_ノストラダムス01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3805,
+        "searchText": "WWCG_ノストラダムス01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3806,
+        "searchText": "WWCG_ノストラダムス01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3901,
+        "searchText": "WWCG_イヴァン雷帝01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3902,
+        "searchText": "WWCG_イヴァン雷帝02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3903,
+        "searchText": "WWCG_イヴァン雷帝02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3904,
+        "searchText": "WWCG_イヴァン雷帝02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3905,
+        "searchText": "WWCG_イヴァン雷帝02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3906,
+        "searchText": "WWCG_イヴァン雷帝02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3907,
+        "searchText": "WWCG_イヴァン雷帝_晴着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3908,
+        "searchText": "WWCG_イヴァン雷帝_晴着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3909,
+        "searchText": "WWCG_イヴァン雷帝_晴着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3910,
+        "searchText": "WWCG_イヴァン雷帝_晴着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3911,
+        "searchText": "WWCG_イヴァン雷帝_晴着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3912,
+        "searchText": "WWCG_イヴァン雷帝_晴着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3913,
+        "searchText": "WWCG_イヴァン雷帝_晴着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3914,
+        "searchText": "WWCG_イヴァン雷帝_晴着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3915,
+        "searchText": "WWCG_イヴァン雷帝_晴着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3916,
+        "searchText": "WWCG_イヴァン雷帝_晴着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3917,
+        "searchText": "WWCG_イヴァン雷帝_晴着02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3918,
+        "searchText": "WWCG_イヴァン雷帝_晴着02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 3919,
+        "searchText": "WWCG_イヴァン雷帝_晴着02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4001,
+        "searchText": "WWCG_ラスプーチン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4002,
+        "searchText": "WWCG_ラスプーチン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4003,
+        "searchText": "WWCG_ラスプーチン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4004,
+        "searchText": "WWCG_ラスプーチン01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4005,
+        "searchText": "WWCG_ラスプーチン01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4006,
+        "searchText": "WWCG_ラスプーチン01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4101,
+        "searchText": "WWCG_ナポレオン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4102,
+        "searchText": "WWCG_ナポレオン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4103,
+        "searchText": "WWCG_ナポレオン02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4104,
+        "searchText": "WWCG_ナポレオン02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4105,
+        "searchText": "WWCG_ナポレオン_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4106,
+        "searchText": "WWCG_ナポレオン_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4107,
+        "searchText": "WWCG_ナポレオン_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4108,
+        "searchText": "WWCG_ナポレオン_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4109,
+        "searchText": "WWCG_ナポレオン_水着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4110,
+        "searchText": "WWCG_ナポレオン_水着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4111,
+        "searchText": "WWCG_ナポレオン_水着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4112,
+        "searchText": "WWCG_ナポレオン_水着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4113,
+        "searchText": "WWCG_ナポレオン_水着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4114,
+        "searchText": "WWCG_ナポレオン_水着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4115,
+        "searchText": "WWCG_ナポレオン_水着02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4116,
+        "searchText": "WWCG_ナポレオン_水着02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4117,
+        "searchText": "WWCG_ナポレオン_水着02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4118,
+        "searchText": "WWCG_ナポレオン_水着02h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4119,
+        "searchText": "WWCG_ナポレオン_水着02i",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4201,
+        "searchText": "WWCG_マゼラン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4202,
+        "searchText": "WWCG_マゼラン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4301,
+        "searchText": "WWCG_クック01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4302,
+        "searchText": "WWCG_クック01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4303,
+        "searchText": "WWCG_クック01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4401,
+        "searchText": "WWCG_カエサル01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4402,
+        "searchText": "WWCG_カエサル02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4403,
+        "searchText": "WWCG_カエサル02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4404,
+        "searchText": "WWCG_カエサル02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4405,
+        "searchText": "WWCG_カエサル02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4501,
+        "searchText": "WWCG_ネロ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4502,
+        "searchText": "WWCG_ネロ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4601,
+        "searchText": "WWCG_ダ・ヴィンチ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4701,
+        "searchText": "WWCG_ベートーヴェン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4702,
+        "searchText": "WWCG_ベートーヴェン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4703,
+        "searchText": "WWCG_ベートーヴェン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4801,
+        "searchText": "WWCG_ハンニバル01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4901,
+        "searchText": "WWCG_マリー・アントワネット01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4902,
+        "searchText": "WWCG_マリー・アントワネット01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4903,
+        "searchText": "WWCG_マリー・アントワネット01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4904,
+        "searchText": "WWCG_マリー・アントワネット01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 4905,
+        "searchText": "WWCG_マリー・アントワネット01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5001,
+        "searchText": "WWCG_アーサー01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5002,
+        "searchText": "WWCG_アーサー01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5003,
+        "searchText": "WWCG_アーサー01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5004,
+        "searchText": "WWCG_アーサー01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5005,
+        "searchText": "WWCG_アーサー02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5006,
+        "searchText": "WWCG_アーサー_聖夜01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5007,
+        "searchText": "WWCG_アーサー_聖夜01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5008,
+        "searchText": "WWCG_アーサー_聖夜01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5009,
+        "searchText": "WWCG_アーサー_聖夜02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5010,
+        "searchText": "WWCG_アーサー_聖夜02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5011,
+        "searchText": "WWCG_アーサー_聖夜02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5012,
+        "searchText": "WWCG_アーサー_聖夜02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5013,
+        "searchText": "WWCG_アーサー_聖夜02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5014,
+        "searchText": "WWCG_アーサー_聖夜02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5015,
+        "searchText": "WWCG_アーサー_聖夜02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5016,
+        "searchText": "WWCG_アーサー_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5017,
+        "searchText": "WWCG_アーサー_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5018,
+        "searchText": "WWCG_アーサー_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5019,
+        "searchText": "WWCG_アーサー_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5020,
+        "searchText": "WWCG_アーサー_水着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5021,
+        "searchText": "WWCG_アーサー_水着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5022,
+        "searchText": "WWCG_アーサー_水着01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5023,
+        "searchText": "WWCG_アーサー_水着01h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5024,
+        "searchText": "WWCG_アーサー_水着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5025,
+        "searchText": "WWCG_アーサー_水着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5026,
+        "searchText": "WWCG_アーサー_水着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5027,
+        "searchText": "WWCG_アーサー_水着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5028,
+        "searchText": "WWCG_アーサー_水着02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5029,
+        "searchText": "WWCG_アーサー_水着02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5030,
+        "searchText": "WWCG_アーサー_水着02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5101,
+        "searchText": "WWCG_ガウェイン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5102,
+        "searchText": "WWCG_ガウェイン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5103,
+        "searchText": "WWCG_ガウェイン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5104,
+        "searchText": "WWCG_ガウェイン01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5105,
+        "searchText": "WWCG_ガウェイン01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5106,
+        "searchText": "WWCG_ガウェイン01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5107,
+        "searchText": "WWCG_ガウェイン01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5108,
+        "searchText": "WWCG_ガウェイン01h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5109,
+        "searchText": "WWCG_ガウェイン01i",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5110,
+        "searchText": "WWCG_ガウェイン01j",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5111,
+        "searchText": "WWCG_ガウェイン_制服01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5112,
+        "searchText": "WWCG_ガウェイン_制服01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5113,
+        "searchText": "WWCG_ガウェイン_制服01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5114,
+        "searchText": "WWCG_ガウェイン_制服01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5115,
+        "searchText": "WWCG_ガウェイン_制服01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5116,
+        "searchText": "WWCG_ガウェイン_制服01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5117,
+        "searchText": "WWCG_ガウェイン_制服01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5118,
+        "searchText": "WWCG_ガウェイン_制服02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5119,
+        "searchText": "WWCG_ガウェイン_制服02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5120,
+        "searchText": "WWCG_ガウェイン_制服02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5121,
+        "searchText": "WWCG_ガウェイン_制服02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5122,
+        "searchText": "WWCG_ガウェイン_制服02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5123,
+        "searchText": "WWCG_ガウェイン_制服02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5124,
+        "searchText": "WWCG_ガウェイン_制服02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5125,
+        "searchText": "WWCG_ガウェイン_制服02h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5126,
+        "searchText": "WWCG_ガウェイン_制服02i",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5201,
+        "searchText": "WWCG_ガラハド01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5202,
+        "searchText": "WWCG_ガラハド01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5203,
+        "searchText": "WWCG_ガラハド01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5204,
+        "searchText": "WWCG_ガラハド01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5301,
+        "searchText": "WWCG_ベイリン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5302,
+        "searchText": "WWCG_ベイリン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5303,
+        "searchText": "WWCG_ベイリン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5401,
+        "searchText": "WWCG_トリスタン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5501,
+        "searchText": "WWCG_パラメデス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5601,
+        "searchText": "WWCG_ケイ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5602,
+        "searchText": "WWCG_ケイ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5603,
+        "searchText": "WWCG_ケイ_晴着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5604,
+        "searchText": "WWCG_ケイ_晴着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5605,
+        "searchText": "WWCG_ケイ_晴着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5606,
+        "searchText": "WWCG_ケイ_晴着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5607,
+        "searchText": "WWCG_ケイ_晴着01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5608,
+        "searchText": "WWCG_ケイ_晴着01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5609,
+        "searchText": "WWCG_ケイ_晴着01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5610,
+        "searchText": "WWCG_ケイ_晴着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5611,
+        "searchText": "WWCG_ケイ_晴着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5612,
+        "searchText": "WWCG_ケイ_晴着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5613,
+        "searchText": "WWCG_ケイ_晴着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5614,
+        "searchText": "WWCG_ケイ_晴着02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5615,
+        "searchText": "WWCG_ケイ_晴着02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5616,
+        "searchText": "WWCG_ケイ_晴着02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5701,
+        "searchText": "WWCG_ユーウェイン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5702,
+        "searchText": "WWCG_ユーウェイン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5703,
+        "searchText": "WWCG_ユーウェイン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5801,
+        "searchText": "WWCG_モードレッド01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5802,
+        "searchText": "WWCG_モードレッド01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5803,
+        "searchText": "WWCG_モードレッド01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5804,
+        "searchText": "WWCG_モードレッド02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5805,
+        "searchText": "WWCG_モードレッド02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5806,
+        "searchText": "WWCG_モードレッド02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5807,
+        "searchText": "WWCG_モードレッド02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5901,
+        "searchText": "WWCG_パーシヴァル01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5902,
+        "searchText": "WWCG_パーシヴァル01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5903,
+        "searchText": "WWCG_パーシヴァル02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 5904,
+        "searchText": "WWCG_パーシヴァル02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6001,
+        "searchText": "WWCG_ボールス01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6002,
+        "searchText": "WWCG_ボールス01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6003,
+        "searchText": "WWCG_ボールス01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6101,
+        "searchText": "WWCG_ベディヴィエール01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6102,
+        "searchText": "WWCG_ベディヴィエール01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6103,
+        "searchText": "WWCG_ベディヴィエール01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6201,
+        "searchText": "WWCG_ランスロット01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6202,
+        "searchText": "WWCG_ランスロット01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6203,
+        "searchText": "WWCG_ランスロット01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6401,
+        "searchText": "WWCG_ヘラクレス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6402,
+        "searchText": "WWCG_ヘラクレス02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6501,
+        "searchText": "WWCG_アキレス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6502,
+        "searchText": "WWCG_アキレス02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6503,
+        "searchText": "WWCG_アキレス02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6504,
+        "searchText": "WWCG_アキレス02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6505,
+        "searchText": "WWCG_アキレス03a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6506,
+        "searchText": "WWCG_アキレス03b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6507,
+        "searchText": "WWCG_アキレス03c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6508,
+        "searchText": "WWCG_アキレス03d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6509,
+        "searchText": "WWCG_アキレス03e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6510,
+        "searchText": "WWCG_アキレス03f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6601,
+        "searchText": "WWCG_クーフーリン01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6602,
+        "searchText": "WWCG_クーフーリン01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6603,
+        "searchText": "WWCG_クーフーリン01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6604,
+        "searchText": "WWCG_クーフーリン01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6605,
+        "searchText": "WWCG_クーフーリン01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6606,
+        "searchText": "WWCG_クーフーリン01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6607,
+        "searchText": "WWCG_クーフーリン01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6608,
+        "searchText": "WWCG_クーフーリン01h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6609,
+        "searchText": "WWCG_クーフーリン01i",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6610,
+        "searchText": "WWCG_クーフーリン01j",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6611,
+        "searchText": "WWCG_クーフーリン01k",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6612,
+        "searchText": "WWCG_クーフーリン01l",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6613,
+        "searchText": "WWCG_クーフーリン01m",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6614,
+        "searchText": "WWCG_クーフーリン02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6615,
+        "searchText": "WWCG_クーフーリン02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6616,
+        "searchText": "WWCG_クーフーリン02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6617,
+        "searchText": "WWCG_クーフーリン02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6618,
+        "searchText": "WWCG_クーフーリン02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6619,
+        "searchText": "WWCG_クーフーリン02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6620,
+        "searchText": "WWCG_クーフーリン02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6621,
+        "searchText": "WWCG_クーフーリン02h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6622,
+        "searchText": "WWCG_クーフーリン02i",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6701,
+        "searchText": "WWCG_ジークフリート01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6702,
+        "searchText": "WWCG_ジークフリート01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6703,
+        "searchText": "WWCG_ジークフリート01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6704,
+        "searchText": "WWCG_ジークフリート02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6705,
+        "searchText": "WWCG_ジークフリート02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6706,
+        "searchText": "WWCG_ジークフリート02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6707,
+        "searchText": "WWCG_ジークフリート02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6708,
+        "searchText": "WWCG_ジークフリート02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6801,
+        "searchText": "WWCG_太公望01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6802,
+        "searchText": "WWCG_太公望01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6803,
+        "searchText": "WWCG_太公望01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6804,
+        "searchText": "WWCG_太公望02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6805,
+        "searchText": "WWCG_太公望02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6806,
+        "searchText": "WWCG_太公望02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6807,
+        "searchText": "WWCG_太公望02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6901,
+        "searchText": "WWCG_アトラス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6902,
+        "searchText": "WWCG_アトラス02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6903,
+        "searchText": "WWCG_アトラス02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6904,
+        "searchText": "WWCG_アトラス02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6905,
+        "searchText": "WWCG_アトラス02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 6906,
+        "searchText": "WWCG_アトラス02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7001,
+        "searchText": "WWCG_孫六兼元01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7101,
+        "searchText": "WWCG_ファウスト01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7201,
+        "searchText": "WWCG_カール大帝01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7301,
+        "searchText": "WWCG_ディオゲネス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7401,
+        "searchText": "WWCG_アルキメデス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7501,
+        "searchText": "WWCG_コペルニクス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7601,
+        "searchText": "WWCG_ガリレオ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 7701,
+        "searchText": "WWCG_カンビュセス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9101,
+        "searchText": "WWCG_坂本龍馬01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9102,
+        "searchText": "WWCG_坂本龍馬02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9201,
+        "searchText": "WWCG_リューリク01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9202,
+        "searchText": "WWCG_リューリク02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9301,
+        "searchText": "WWCG_ニュートン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9302,
+        "searchText": "WWCG_ニュートン02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9401,
+        "searchText": "WWCG_劉邦01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9402,
+        "searchText": "WWCG_劉邦02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9501,
+        "searchText": "WWCG_ベラミー01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9502,
+        "searchText": "WWCG_ベラミー02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9601,
+        "searchText": "WWCG_ヴァレンシュタイン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9602,
+        "searchText": "WWCG_ヴァレンシュタイン02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9701,
+        "searchText": "WWCG_ダンテ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9702,
+        "searchText": "WWCG_ダンテ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9703,
+        "searchText": "WWCG_ダンテ_制服01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9704,
+        "searchText": "WWCG_ダンテ_制服02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9801,
+        "searchText": "WWCG_コルテス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 9901,
+        "searchText": "WWCG_ダレイオス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10001,
+        "searchText": "WWCG_ホークウッド01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10101,
+        "searchText": "WWCG_グレイス・オマリー01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10201,
+        "searchText": "WWCG_メルカトル01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10301,
+        "searchText": "WWCG_ピサロ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10401,
+        "searchText": "WWCG_庖丁01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10501,
+        "searchText": "WWCG_ソルフィン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10601,
+        "searchText": "WWCG_ベルヒリンゲン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10701,
+        "searchText": "WWCG_エウメネス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10801,
+        "searchText": "WWCG_フネフェル01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10802,
+        "searchText": "WWCG_フネフェル_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10803,
+        "searchText": "WWCG_フネフェル_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10804,
+        "searchText": "WWCG_フネフェル_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10805,
+        "searchText": "WWCG_フネフェル_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 10901,
+        "searchText": "WWCG_ミヒラクラ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11001,
+        "searchText": "WWCG_レイフ・エリクソン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11101,
+        "searchText": "WWCG_アテルイ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11201,
+        "searchText": "WWCG_ペトルス・バルトロメオ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11301,
+        "searchText": "WWCG_プラノ・カルピニ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11401,
+        "searchText": "WWCG_鑑真01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11501,
+        "searchText": "WWCG_ヴァスコ・ダ・ガマ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11601,
+        "searchText": "WWCG_ジェシー・ジェイムス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11701,
+        "searchText": "WWCG_スコルピオン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11801,
+        "searchText": "WWCG_愛洲移香斎01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11802,
+        "searchText": "WWCG_愛洲移香斎_制服01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11803,
+        "searchText": "WWCG_愛洲移香斎_制服01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 11901,
+        "searchText": "WWCG_オドアケル01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12001,
+        "searchText": "WWCG_ベンジャミン・フランクリン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12101,
+        "searchText": "WWCG_タンクレード01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12102,
+        "searchText": "WWCG_タンクレード_制服01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12103,
+        "searchText": "WWCG_タンクレード_制服01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12104,
+        "searchText": "WWCG_タンクレード_制服01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12105,
+        "searchText": "WWCG_タンクレード_制服01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12106,
+        "searchText": "WWCG_タンクレード_制服02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12107,
+        "searchText": "WWCG_タンクレード_制服02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12108,
+        "searchText": "WWCG_タンクレード_制服02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12109,
+        "searchText": "WWCG_タンクレード_制服02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12201,
+        "searchText": "WWCG_ディナダン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12301,
+        "searchText": "WWCG_アジャセ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12401,
+        "searchText": "WWCG_ジャック・ド・モレー01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12501,
+        "searchText": "WWCG_アップルシード01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12601,
+        "searchText": "WWCG_大黒屋光太夫01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12701,
+        "searchText": "WWCG_ヤン・ジシュカ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12702,
+        "searchText": "WWCG_ヤン・ジシュカ_AA01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12703,
+        "searchText": "WWCG_ヤン・ジシュカ_AA01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12704,
+        "searchText": "WWCG_ヤン・ジシュカ_AA01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12705,
+        "searchText": "WWCG_ヤン・ジシュカ_AA01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12706,
+        "searchText": "WWCG_ヤン・ジシュカ_AA01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12707,
+        "searchText": "WWCG_ヤン・ジシュカ_AA01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12708,
+        "searchText": "WWCG_ヤン・ジシュカ_AA01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12709,
+        "searchText": "WWCG_ヤン・ジシュカ_AA02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12710,
+        "searchText": "WWCG_ヤン・ジシュカ_AA02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12711,
+        "searchText": "WWCG_ヤン・ジシュカ_AA02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12712,
+        "searchText": "WWCG_ヤン・ジシュカ_AA02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12713,
+        "searchText": "WWCG_ヤン・ジシュカ_AA02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12714,
+        "searchText": "WWCG_ヤン・ジシュカ_AA02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12801,
+        "searchText": "WWCG_王直01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 12901,
+        "searchText": "WWCG_山田長政01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13001,
+        "searchText": "WWCG_エクター01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13002,
+        "searchText": "WWCG_エクター_水着01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13003,
+        "searchText": "WWCG_エクター_水着01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13004,
+        "searchText": "WWCG_エクター_水着01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13005,
+        "searchText": "WWCG_エクター_水着01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13006,
+        "searchText": "WWCG_エクター_水着02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13007,
+        "searchText": "WWCG_エクター_水着02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13008,
+        "searchText": "WWCG_エクター_水着02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13009,
+        "searchText": "WWCG_エクター_水着02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13101,
+        "searchText": "WWCG_太上老君01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13102,
+        "searchText": "WWCG_太上老君02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13201,
+        "searchText": "WWCG_ヒッポリュテ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13202,
+        "searchText": "WWCG_ヒッポリュテ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13203,
+        "searchText": "WWCG_ヒッポリュテ02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13301,
+        "searchText": "WWCG_ヘヨカ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13302,
+        "searchText": "WWCG_ヘヨカ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13303,
+        "searchText": "WWCG_ヘヨカ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13304,
+        "searchText": "WWCG_ヘヨカ02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13305,
+        "searchText": "WWCG_ヘヨカ02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13306,
+        "searchText": "WWCG_ヘヨカ02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13307,
+        "searchText": "WWCG_ヘヨカ02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13308,
+        "searchText": "WWCG_ヘヨカ02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13401,
+        "searchText": "WWCG_キャスパリーグ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13402,
+        "searchText": "WWCG_キャスパリーグ02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13501,
+        "searchText": "WWCG_タリエシン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13502,
+        "searchText": "WWCG_タリエシン02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13601,
+        "searchText": "WWCG_プレスター・ジョン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13603,
+        "searchText": "WWCG_プレスター・ジョン02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13604,
+        "searchText": "WWCG_プレスター・ジョン02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13605,
+        "searchText": "WWCG_プレスター・ジョン_制服01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13606,
+        "searchText": "WWCG_プレスター・ジョン_制服01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13607,
+        "searchText": "WWCG_プレスター・ジョン_制服01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13608,
+        "searchText": "WWCG_プレスター・ジョン_制服01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13609,
+        "searchText": "WWCG_プレスター・ジョン_制服02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13610,
+        "searchText": "WWCG_プレスター・ジョン_制服02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13611,
+        "searchText": "WWCG_プレスター・ジョン_制服02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13612,
+        "searchText": "WWCG_プレスター・ジョン_制服02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13613,
+        "searchText": "WWCG_プレスター・ジョン_制服02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13701,
+        "searchText": "WWCG_マキャヴェリ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13702,
+        "searchText": "WWCG_マキャヴェリ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13703,
+        "searchText": "WWCG_マキャヴェリ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13705,
+        "searchText": "WWCG_マキャヴェリ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13706,
+        "searchText": "WWCG_マキャヴェリ02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13707,
+        "searchText": "WWCG_マキャヴェリ02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13708,
+        "searchText": "WWCG_マキャヴェリ02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13801,
+        "searchText": "WWCG_イムホテプ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13802,
+        "searchText": "WWCG_イムホテプ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13803,
+        "searchText": "WWCG_イムホテプ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13804,
+        "searchText": "WWCG_イムホテプ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13805,
+        "searchText": "WWCG_イムホテプ02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13806,
+        "searchText": "WWCG_イムホテプ02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13807,
+        "searchText": "WWCG_イムホテプ02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13901,
+        "searchText": "WWCG_坂上田村麻呂01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13902,
+        "searchText": "WWCG_坂上田村麻呂01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13903,
+        "searchText": "WWCG_坂上田村麻呂01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13904,
+        "searchText": "WWCG_坂上田村麻呂01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13905,
+        "searchText": "WWCG_坂上田村麻呂02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13906,
+        "searchText": "WWCG_坂上田村麻呂02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13907,
+        "searchText": "WWCG_坂上田村麻呂02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13908,
+        "searchText": "WWCG_坂上田村麻呂02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13909,
+        "searchText": "WWCG_坂上田村麻呂02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 13910,
+        "searchText": "WWCG_坂上田村麻呂02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14001,
+        "searchText": "WWCG_運慶＆快慶01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14101,
+        "searchText": "WWCG_ニコラウス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14102,
+        "searchText": "WWCG_ニコラウス02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14201,
+        "searchText": "WWCG_達磨大師01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14202,
+        "searchText": "WWCG_達磨大師02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14301,
+        "searchText": "WWCG_真田幸村01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14302,
+        "searchText": "WWCG_真田幸村02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14401,
+        "searchText": "WWCG_乙姫01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14501,
+        "searchText": "WWCG_キリノエ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14502,
+        "searchText": "WWCG_キリノエ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14503,
+        "searchText": "WWCG_キリノエ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14504,
+        "searchText": "WWCG_キリノエ01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14505,
+        "searchText": "WWCG_キリノエ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14601,
+        "searchText": "WWCG_白起01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14602,
+        "searchText": "WWCG_白起01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14603,
+        "searchText": "WWCG_白起01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14604,
+        "searchText": "WWCG_白起01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14605,
+        "searchText": "WWCG_白起01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14606,
+        "searchText": "WWCG_白起01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14607,
+        "searchText": "WWCG_白起02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14608,
+        "searchText": "WWCG_白起02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14609,
+        "searchText": "WWCG_白起02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14610,
+        "searchText": "WWCG_白起02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14611,
+        "searchText": "WWCG_白起02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14612,
+        "searchText": "WWCG_白起02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14613,
+        "searchText": "WWCG_白起02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14614,
+        "searchText": "WWCG_白起02h",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14701,
+        "searchText": "WWCG_ルソー01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14702,
+        "searchText": "WWCG_ルソー02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14801,
+        "searchText": "WWCG_エリアス01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14802,
+        "searchText": "WWCG_エリアス02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14901,
+        "searchText": "WWCG_ダーウィン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14902,
+        "searchText": "WWCG_ダーウィン02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 14903,
+        "searchText": "WWCG_ダーウィン02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15001,
+        "searchText": "WWCG_ホーエンハイム01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15002,
+        "searchText": "WWCG_ホーエンハイム01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15003,
+        "searchText": "WWCG_ホーエンハイム02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15004,
+        "searchText": "WWCG_ホーエンハイム02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15005,
+        "searchText": "WWCG_ホーエンハイム02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15006,
+        "searchText": "WWCG_ホーエンハイム02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15201,
+        "searchText": "WWCG_リービジ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15202,
+        "searchText": "WWCG_リービジ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15203,
+        "searchText": "WWCG_リービジ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15204,
+        "searchText": "WWCG_リービジ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15205,
+        "searchText": "WWCG_リービジ02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15206,
+        "searchText": "WWCG_リービジ02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15207,
+        "searchText": "WWCG_リービジ02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15301,
+        "searchText": "WWCG_エカチェリーナ01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15302,
+        "searchText": "WWCG_エカチェリーナ01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15303,
+        "searchText": "WWCG_エカチェリーナ01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15304,
+        "searchText": "WWCG_エカチェリーナ01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15305,
+        "searchText": "WWCG_エカチェリーナ01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15306,
+        "searchText": "WWCG_エカチェリーナ01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15307,
+        "searchText": "WWCG_エカチェリーナ01g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15308,
+        "searchText": "WWCG_エカチェリーナ02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15309,
+        "searchText": "WWCG_エカチェリーナ02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15310,
+        "searchText": "WWCG_エカチェリーナ02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15311,
+        "searchText": "WWCG_エカチェリーナ02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15312,
+        "searchText": "WWCG_エカチェリーナ02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15313,
+        "searchText": "WWCG_エカチェリーナ02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15314,
+        "searchText": "WWCG_エカチェリーナ02g",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15401,
+        "searchText": "WWCG_ワシリーサ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15402,
+        "searchText": "WWCG_ワシリーサ02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15501,
+        "searchText": "WWCG_滝沢馬琴01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15502,
+        "searchText": "WWCG_滝沢馬琴01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15503,
+        "searchText": "WWCG_滝沢馬琴01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15504,
+        "searchText": "WWCG_滝沢馬琴01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15505,
+        "searchText": "WWCG_滝沢馬琴02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15506,
+        "searchText": "WWCG_滝沢馬琴02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15507,
+        "searchText": "WWCG_滝沢馬琴02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15508,
+        "searchText": "WWCG_滝沢馬琴02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15601,
+        "searchText": "WWCG_加藤清正01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15602,
+        "searchText": "WWCG_加藤清正01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15603,
+        "searchText": "WWCG_加藤清正01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15604,
+        "searchText": "WWCG_加藤清正01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15605,
+        "searchText": "WWCG_加藤清正02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15606,
+        "searchText": "WWCG_加藤清正02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15607,
+        "searchText": "WWCG_加藤清正02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15608,
+        "searchText": "WWCG_加藤清正02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15801,
+        "searchText": "WWCG_アメリゴ・ヴェスプッチ01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 15802,
+        "searchText": "WWCG_アメリゴ・ヴェスプッチ02",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16401,
+        "searchText": "WWCG_ゲオルギウス01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16402,
+        "searchText": "WWCG_ゲオルギウス01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16403,
+        "searchText": "WWCG_ゲオルギウス01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16404,
+        "searchText": "WWCG_ゲオルギウス01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16405,
+        "searchText": "WWCG_ゲオルギウス01e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16406,
+        "searchText": "WWCG_ゲオルギウス01f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16407,
+        "searchText": "WWCG_ゲオルギウス02a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16408,
+        "searchText": "WWCG_ゲオルギウス02b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16409,
+        "searchText": "WWCG_ゲオルギウス02c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16410,
+        "searchText": "WWCG_ゲオルギウス02d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16411,
+        "searchText": "WWCG_ゲオルギウス02e",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16412,
+        "searchText": "WWCG_ゲオルギウス02f",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16501,
+        "searchText": "WWCG_村上武吉01a",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16502,
+        "searchText": "WWCG_村上武吉01b",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16503,
+        "searchText": "WWCG_村上武吉01c",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 16504,
+        "searchText": "WWCG_村上武吉01d",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 30101,
+        "searchText": "WWCG_ユーグ・ド・パイヤン01",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    {
+        "resourceKind": 11,
+        "resourceId": 30102,
+        "searchText": "WWCG_ユーグ・ド・パイヤン02",
+        "offsetX": 0,
+        "offsetY": 0
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "confId": 1,
+        "slotNo": 1,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 1,
+        "slotNo": 1,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 1,
+        "slotNo": 1,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 1,
+        "slotNo": 1,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 1,
+        "slotNo": 1,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 1,
+        "slotNo": 2,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 1,
+        "slotNo": 2,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 1,
+        "slotNo": 2,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 1,
+        "slotNo": 2,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 1,
+        "slotNo": 2,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 1,
+        "slotNo": 3,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 1,
+        "slotNo": 3,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 1,
+        "slotNo": 3,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 1,
+        "slotNo": 3,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 1,
+        "slotNo": 3,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 1,
+        "slotNo": 4,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 1,
+        "slotNo": 4,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 1,
+        "slotNo": 4,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 1,
+        "slotNo": 4,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 1,
+        "slotNo": 4,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 1,
+        "slotNo": 5,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 1,
+        "slotNo": 5,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 1,
+        "slotNo": 5,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 1,
+        "slotNo": 5,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 1,
+        "slotNo": 5,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 2,
+        "slotNo": 1,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 2,
+        "slotNo": 1,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 2,
+        "slotNo": 1,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 2,
+        "slotNo": 1,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 2,
+        "slotNo": 1,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 2,
+        "slotNo": 2,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 2,
+        "slotNo": 2,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 2,
+        "slotNo": 2,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 2,
+        "slotNo": 2,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 2,
+        "slotNo": 2,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 2,
+        "slotNo": 3,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 2,
+        "slotNo": 3,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 2,
+        "slotNo": 3,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 2,
+        "slotNo": 3,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 2,
+        "slotNo": 3,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 2,
+        "slotNo": 4,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 2,
+        "slotNo": 4,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 2,
+        "slotNo": 4,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 2,
+        "slotNo": 4,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 2,
+        "slotNo": 4,
+        "rank": 5,
+        "charaLv": 80
+    },
+    {
+        "confId": 2,
+        "slotNo": 5,
+        "rank": 1,
+        "charaLv": 1
+    },
+    {
+        "confId": 2,
+        "slotNo": 5,
+        "rank": 2,
+        "charaLv": 10
+    },
+    {
+        "confId": 2,
+        "slotNo": 5,
+        "rank": 3,
+        "charaLv": 25
+    },
+    {
+        "confId": 2,
+        "slotNo": 5,
+        "rank": 4,
+        "charaLv": 50
+    },
+    {
+        "confId": 2,
+        "slotNo": 5,
+        "rank": 5,
+        "charaLv": 80
+    }
+]

@@ -1,0 +1,1862 @@
+[
+    {
+        "id": 21000001,
+        "textId": 121000001,
+        "imgId": 1,
+        "thumbId": 1201,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 499,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000002,
+        "textId": 121000002,
+        "imgId": 2,
+        "thumbId": 1201,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 498,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000003,
+        "textId": 121000003,
+        "imgId": 3,
+        "thumbId": 1000,
+        "posX": -781,
+        "posY": -338,
+        "showPriority": 497,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000004,
+        "textId": 121000004,
+        "imgId": 4,
+        "thumbId": 1002,
+        "posX": -904,
+        "posY": -311,
+        "showPriority": 496,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000005,
+        "textId": 121000005,
+        "imgId": 5,
+        "thumbId": 1003,
+        "posX": -843,
+        "posY": -315,
+        "showPriority": 495,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000011,
+        "textId": 121000011,
+        "imgId": 11,
+        "thumbId": 1004,
+        "posX": -670,
+        "posY": -303,
+        "showPriority": 489,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000012,
+        "textId": 121000012,
+        "imgId": 12,
+        "thumbId": 1007,
+        "posX": -520,
+        "posY": -115,
+        "showPriority": 488,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000013,
+        "textId": 121000013,
+        "imgId": 13,
+        "thumbId": 1009,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 487,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000021,
+        "textId": 121000021,
+        "imgId": 21,
+        "thumbId": 1014,
+        "posX": -750,
+        "posY": -1008,
+        "showPriority": 439,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000022,
+        "textId": 121000022,
+        "imgId": 22,
+        "thumbId": 1013,
+        "posX": -1242,
+        "posY": -441,
+        "showPriority": 477,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000031,
+        "textId": 121000031,
+        "imgId": 31,
+        "thumbId": 1023,
+        "posX": -1800,
+        "posY": -250,
+        "showPriority": 468,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000032,
+        "textId": 121000032,
+        "imgId": 32,
+        "thumbId": 1021,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 469,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000033,
+        "textId": 121000033,
+        "imgId": 33,
+        "thumbId": 1019,
+        "posX": -1905,
+        "posY": -395,
+        "showPriority": 438,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000041,
+        "textId": 121000041,
+        "imgId": 41,
+        "thumbId": 1024,
+        "posX": -1900,
+        "posY": -437,
+        "showPriority": 467,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000042,
+        "textId": 121000042,
+        "imgId": 42,
+        "thumbId": 1025,
+        "posX": -2150,
+        "posY": -800,
+        "showPriority": 466,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000051,
+        "textId": 121000051,
+        "imgId": 51,
+        "thumbId": 1015,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 459,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000052,
+        "textId": 121000052,
+        "imgId": 52,
+        "thumbId": 1032,
+        "posX": 128,
+        "posY": -352,
+        "showPriority": 389,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000053,
+        "textId": 121000053,
+        "imgId": 53,
+        "thumbId": 1031,
+        "posX": 100,
+        "posY": -435,
+        "showPriority": 388,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000054,
+        "textId": 121000054,
+        "imgId": 54,
+        "thumbId": 1034,
+        "posX": 285,
+        "posY": -445,
+        "showPriority": 458,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000061,
+        "textId": 121000061,
+        "imgId": 61,
+        "thumbId": 1036,
+        "posX": 356,
+        "posY": -786,
+        "showPriority": 399,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000071,
+        "textId": 121000071,
+        "imgId": 71,
+        "thumbId": 1017,
+        "posX": 214,
+        "posY": 0,
+        "showPriority": 457,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000081,
+        "textId": 121000081,
+        "imgId": 81,
+        "thumbId": 1011,
+        "posX": -800,
+        "posY": -750,
+        "showPriority": 478,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000082,
+        "textId": 121000082,
+        "imgId": 82,
+        "thumbId": 1202,
+        "posX": 330,
+        "posY": -50,
+        "showPriority": 449,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000083,
+        "textId": 121000083,
+        "imgId": 83,
+        "thumbId": 1028,
+        "posX": 539,
+        "posY": -53,
+        "showPriority": 419,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000091,
+        "textId": 121000091,
+        "imgId": 91,
+        "thumbId": 1030,
+        "posX": 650,
+        "posY": 0,
+        "showPriority": 429,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000092,
+        "textId": 121000092,
+        "imgId": 92,
+        "thumbId": 1030,
+        "posX": -600,
+        "posY": -550,
+        "showPriority": 428,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000101,
+        "textId": 121000101,
+        "imgId": 101,
+        "thumbId": 1029,
+        "posX": 700,
+        "posY": -100,
+        "showPriority": 409,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000102,
+        "textId": 121000102,
+        "imgId": 102,
+        "thumbId": 1037,
+        "posX": -1325,
+        "posY": -700,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000103,
+        "textId": 121000103,
+        "imgId": 103,
+        "thumbId": 204,
+        "posX": 100,
+        "posY": -435,
+        "showPriority": 387,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000104,
+        "textId": 121000104,
+        "imgId": 104,
+        "thumbId": 1035,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000105,
+        "textId": 121000105,
+        "imgId": 105,
+        "thumbId": 1035,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000106,
+        "textId": 121000106,
+        "imgId": 106,
+        "thumbId": 1015,
+        "posX": 150,
+        "posY": -330,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000111,
+        "textId": 121000111,
+        "imgId": 111,
+        "thumbId": 2009,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 494,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000112,
+        "textId": 121000112,
+        "imgId": 112,
+        "thumbId": 1008,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 486,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000113,
+        "textId": 121000113,
+        "imgId": 113,
+        "thumbId": 1011,
+        "posX": -800,
+        "posY": -750,
+        "showPriority": 479,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000114,
+        "textId": 121000114,
+        "imgId": 114,
+        "thumbId": 1029,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 418,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000115,
+        "textId": 121000115,
+        "imgId": 115,
+        "thumbId": 1026,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 465,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000116,
+        "textId": 121000116,
+        "imgId": 116,
+        "thumbId": 1029,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000117,
+        "textId": 121000117,
+        "imgId": 117,
+        "thumbId": 1027,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000118,
+        "textId": 121000118,
+        "imgId": 118,
+        "thumbId": 1204,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000119,
+        "textId": 121000119,
+        "imgId": 119,
+        "thumbId": 1016,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000120,
+        "textId": 121000120,
+        "imgId": 120,
+        "thumbId": 1027,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000121,
+        "textId": 121000121,
+        "imgId": 121,
+        "thumbId": 1037,
+        "posX": 700,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000122,
+        "textId": 121000122,
+        "imgId": 122,
+        "thumbId": 1204,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21000200,
+        "textId": 121000200,
+        "imgId": 200,
+        "thumbId": 1204,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 0,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21001001,
+        "textId": 121001001,
+        "imgId": 0,
+        "thumbId": 10001,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 100,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21001002,
+        "textId": 121001002,
+        "imgId": 0,
+        "thumbId": 10002,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 200,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21001003,
+        "textId": 121001003,
+        "imgId": 0,
+        "thumbId": 10003,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 300,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100010,
+        "textId": 121100010,
+        "imgId": 0,
+        "thumbId": 1201,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100020,
+        "textId": 121100020,
+        "imgId": 0,
+        "thumbId": 1006,
+        "posX": -670,
+        "posY": -303,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100030,
+        "textId": 121100030,
+        "imgId": 0,
+        "thumbId": 1011,
+        "posX": -800,
+        "posY": -750,
+        "showPriority": 1030,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100040,
+        "textId": 121100040,
+        "imgId": 0,
+        "thumbId": 1014,
+        "posX": -725,
+        "posY": -1008,
+        "showPriority": 1065,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100050,
+        "textId": 121100050,
+        "imgId": 0,
+        "thumbId": 1022,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 1050,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100060,
+        "textId": 121100060,
+        "imgId": 0,
+        "thumbId": 1026,
+        "posX": -2150,
+        "posY": -800,
+        "showPriority": 1060,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100070,
+        "textId": 121100070,
+        "imgId": 0,
+        "thumbId": 1032,
+        "posX": 100,
+        "posY": -435,
+        "showPriority": 1200,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100080,
+        "textId": 121100080,
+        "imgId": 0,
+        "thumbId": 1035,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 1080,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100090,
+        "textId": 121100090,
+        "imgId": 0,
+        "thumbId": 1018,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 1055,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100100,
+        "textId": 121100100,
+        "imgId": 0,
+        "thumbId": 1029,
+        "posX": 330,
+        "posY": -50,
+        "showPriority": 1100,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100110,
+        "textId": 121100110,
+        "imgId": 0,
+        "thumbId": 1037,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 1110,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100120,
+        "textId": 121100120,
+        "imgId": 0,
+        "thumbId": 1038,
+        "posX": 0,
+        "posY": 0,
+        "showPriority": 1120,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21100130,
+        "textId": 121100130,
+        "imgId": 0,
+        "thumbId": 1016,
+        "posX": 100,
+        "posY": -435,
+        "showPriority": 1035,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200100,
+        "textId": 121200100,
+        "imgId": 0,
+        "thumbId": 11600,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200110,
+        "textId": 121200110,
+        "imgId": 0,
+        "thumbId": 11600,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200200,
+        "textId": 121200200,
+        "imgId": 0,
+        "thumbId": 11610,
+        "posX": -670,
+        "posY": -303,
+        "showPriority": 900,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200210,
+        "textId": 121200210,
+        "imgId": 0,
+        "thumbId": 11610,
+        "posX": -670,
+        "posY": -303,
+        "showPriority": 990,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200300,
+        "textId": 121200300,
+        "imgId": 0,
+        "thumbId": 11630,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 700,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200310,
+        "textId": 121200310,
+        "imgId": 0,
+        "thumbId": 11630,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 980,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200400,
+        "textId": 121200400,
+        "imgId": 0,
+        "thumbId": 11620,
+        "posX": -800,
+        "posY": -750,
+        "showPriority": 800,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200410,
+        "textId": 121200410,
+        "imgId": 0,
+        "thumbId": 11620,
+        "posX": -800,
+        "posY": -750,
+        "showPriority": 970,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200500,
+        "textId": 121200500,
+        "imgId": 0,
+        "thumbId": 11640,
+        "posX": 214,
+        "posY": 0,
+        "showPriority": 600,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200510,
+        "textId": 121200510,
+        "imgId": 0,
+        "thumbId": 11640,
+        "posX": 214,
+        "posY": 0,
+        "showPriority": 960,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200900,
+        "textId": 121200900,
+        "imgId": 0,
+        "thumbId": 11690,
+        "posX": -1242,
+        "posY": -441,
+        "showPriority": 1100,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21200910,
+        "textId": 121200910,
+        "imgId": 0,
+        "thumbId": 11690,
+        "posX": -1242,
+        "posY": -441,
+        "showPriority": 950,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310100,
+        "textId": 121310100,
+        "imgId": 0,
+        "thumbId": 11700,
+        "posX": -520,
+        "posY": -115,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310110,
+        "textId": 121310110,
+        "imgId": 0,
+        "thumbId": 11700,
+        "posX": -520,
+        "posY": -115,
+        "showPriority": 940,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310200,
+        "textId": 121310200,
+        "imgId": 0,
+        "thumbId": 11710,
+        "posX": 330,
+        "posY": -50,
+        "showPriority": 900,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310210,
+        "textId": 121310210,
+        "imgId": 0,
+        "thumbId": 11710,
+        "posX": 330,
+        "posY": -50,
+        "showPriority": 930,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310300,
+        "textId": 121310300,
+        "imgId": 0,
+        "thumbId": 11720,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 800,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310310,
+        "textId": 121310310,
+        "imgId": 0,
+        "thumbId": 11720,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 920,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310400,
+        "textId": 121310400,
+        "imgId": 0,
+        "thumbId": 11730,
+        "posX": -2150,
+        "posY": -800,
+        "showPriority": 700,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21310410,
+        "textId": 121310410,
+        "imgId": 0,
+        "thumbId": 11730,
+        "posX": -2150,
+        "posY": -800,
+        "showPriority": 910,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400100,
+        "textId": 121400100,
+        "imgId": 0,
+        "thumbId": 15010,
+        "posX": -1905,
+        "posY": -395,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400110,
+        "textId": 121400110,
+        "imgId": 0,
+        "thumbId": 15010,
+        "posX": -1905,
+        "posY": -395,
+        "showPriority": 900,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400200,
+        "textId": 121400200,
+        "imgId": 0,
+        "thumbId": 15020,
+        "posX": 285,
+        "posY": -445,
+        "showPriority": 900,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400210,
+        "textId": 121400210,
+        "imgId": 0,
+        "thumbId": 15020,
+        "posX": 285,
+        "posY": -445,
+        "showPriority": 890,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400300,
+        "textId": 121400300,
+        "imgId": 0,
+        "thumbId": 15030,
+        "posX": -750,
+        "posY": -1008,
+        "showPriority": 700,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400310,
+        "textId": 121400310,
+        "imgId": 0,
+        "thumbId": 15030,
+        "posX": -750,
+        "posY": -1008,
+        "showPriority": 880,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400400,
+        "textId": 121400400,
+        "imgId": 0,
+        "thumbId": 15040,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 800,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400410,
+        "textId": 121400410,
+        "imgId": 0,
+        "thumbId": 15040,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 870,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400500,
+        "textId": 121400500,
+        "imgId": 0,
+        "thumbId": 15050,
+        "posX": -1900,
+        "posY": -437,
+        "showPriority": 600,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21400510,
+        "textId": 121400510,
+        "imgId": 0,
+        "thumbId": 15050,
+        "posX": -1900,
+        "posY": -437,
+        "showPriority": 860,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500100,
+        "textId": 121500100,
+        "imgId": 0,
+        "thumbId": 11500,
+        "posX": -600,
+        "posY": -550,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500110,
+        "textId": 121500110,
+        "imgId": 0,
+        "thumbId": 11500,
+        "posX": -600,
+        "posY": -550,
+        "showPriority": 850,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500200,
+        "textId": 121500200,
+        "imgId": 0,
+        "thumbId": 11510,
+        "posX": 400,
+        "posY": -1000,
+        "showPriority": 900,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500210,
+        "textId": 121500210,
+        "imgId": 0,
+        "thumbId": 11510,
+        "posX": 400,
+        "posY": -1000,
+        "showPriority": 840,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500300,
+        "textId": 121500300,
+        "imgId": 0,
+        "thumbId": 11520,
+        "posX": 650,
+        "posY": 0,
+        "showPriority": 800,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500310,
+        "textId": 121500310,
+        "imgId": 0,
+        "thumbId": 11520,
+        "posX": 650,
+        "posY": 0,
+        "showPriority": 830,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500400,
+        "textId": 121500400,
+        "imgId": 0,
+        "thumbId": 11530,
+        "posX": 128,
+        "posY": -352,
+        "showPriority": 700,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21500410,
+        "textId": 121500410,
+        "imgId": 0,
+        "thumbId": 11530,
+        "posX": 128,
+        "posY": -352,
+        "showPriority": 820,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21600000,
+        "textId": 121600000,
+        "imgId": 0,
+        "thumbId": 11400,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 100,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21600010,
+        "textId": 121600010,
+        "imgId": 0,
+        "thumbId": 11400,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 100,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800110,
+        "textId": 121800110,
+        "imgId": 1,
+        "thumbId": 20030,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800120,
+        "textId": 121800120,
+        "imgId": 1,
+        "thumbId": 20030,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800130,
+        "textId": 121800130,
+        "imgId": 1,
+        "thumbId": 20030,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800210,
+        "textId": 121800210,
+        "imgId": 0,
+        "thumbId": 20020,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800220,
+        "textId": 121800220,
+        "imgId": 0,
+        "thumbId": 20020,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800310,
+        "textId": 121800310,
+        "imgId": 21,
+        "thumbId": 20031,
+        "posX": -750,
+        "posY": -1008,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800320,
+        "textId": 121800320,
+        "imgId": 21,
+        "thumbId": 20032,
+        "posX": -750,
+        "posY": -1008,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800330,
+        "textId": 121800330,
+        "imgId": 0,
+        "thumbId": 20032,
+        "posX": -750,
+        "posY": -1008,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800510,
+        "textId": 121800510,
+        "imgId": 54,
+        "thumbId": 20051,
+        "posX": 285,
+        "posY": -445,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800520,
+        "textId": 121800520,
+        "imgId": 54,
+        "thumbId": 20052,
+        "posX": 285,
+        "posY": -445,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800530,
+        "textId": 121800530,
+        "imgId": 54,
+        "thumbId": 20053,
+        "posX": 285,
+        "posY": -445,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800610,
+        "textId": 121800610,
+        "imgId": 0,
+        "thumbId": 20061,
+        "posX": -2200,
+        "posY": -395,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800620,
+        "textId": 121800620,
+        "imgId": 0,
+        "thumbId": 20062,
+        "posX": -2200,
+        "posY": -395,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800630,
+        "textId": 121800630,
+        "imgId": 0,
+        "thumbId": 20063,
+        "posX": -2200,
+        "posY": -395,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800810,
+        "textId": 121800810,
+        "imgId": 0,
+        "thumbId": 20081,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800820,
+        "textId": 121800820,
+        "imgId": 0,
+        "thumbId": 20082,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800830,
+        "textId": 121800830,
+        "imgId": 0,
+        "thumbId": 20083,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800910,
+        "textId": 121800910,
+        "imgId": 0,
+        "thumbId": 20091,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800920,
+        "textId": 121800920,
+        "imgId": 0,
+        "thumbId": 20092,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21800930,
+        "textId": 121800930,
+        "imgId": 0,
+        "thumbId": 20093,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801010,
+        "textId": 121801010,
+        "imgId": 0,
+        "thumbId": 20101,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801020,
+        "textId": 121801020,
+        "imgId": 0,
+        "thumbId": 20102,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801030,
+        "textId": 121801030,
+        "imgId": 0,
+        "thumbId": 20103,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801110,
+        "textId": 121801110,
+        "imgId": 0,
+        "thumbId": 20111,
+        "posX": 356,
+        "posY": -786,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801120,
+        "textId": 121801120,
+        "imgId": 0,
+        "thumbId": 20112,
+        "posX": 356,
+        "posY": -786,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801130,
+        "textId": 121801130,
+        "imgId": 0,
+        "thumbId": 20113,
+        "posX": 356,
+        "posY": -786,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801210,
+        "textId": 121801210,
+        "imgId": 0,
+        "thumbId": 20121,
+        "posX": -670,
+        "posY": 0,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801220,
+        "textId": 121801220,
+        "imgId": 0,
+        "thumbId": 20122,
+        "posX": 214,
+        "posY": 0,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801310,
+        "textId": 121801310,
+        "imgId": 0,
+        "thumbId": 20131,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801320,
+        "textId": 121801320,
+        "imgId": 0,
+        "thumbId": 20131,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801410,
+        "textId": 121801410,
+        "imgId": 0,
+        "thumbId": 20141,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801420,
+        "textId": 121801420,
+        "imgId": 0,
+        "thumbId": 20142,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801510,
+        "textId": 121801510,
+        "imgId": 0,
+        "thumbId": 20151,
+        "posX": -781,
+        "posY": -338,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801520,
+        "textId": 121801520,
+        "imgId": 0,
+        "thumbId": 20152,
+        "posX": -781,
+        "posY": -338,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801610,
+        "textId": 121801610,
+        "imgId": 0,
+        "thumbId": 20161,
+        "posX": -2200,
+        "posY": -395,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21801620,
+        "textId": 121801620,
+        "imgId": 0,
+        "thumbId": 20162,
+        "posX": -2200,
+        "posY": -395,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820100,
+        "textId": 121820100,
+        "imgId": 0,
+        "thumbId": 30010,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820210,
+        "textId": 121820210,
+        "imgId": 0,
+        "thumbId": 30020,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820220,
+        "textId": 121820220,
+        "imgId": 0,
+        "thumbId": 30020,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820230,
+        "textId": 121820230,
+        "imgId": 0,
+        "thumbId": 30020,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820240,
+        "textId": 121820240,
+        "imgId": 0,
+        "thumbId": 30020,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1030,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820310,
+        "textId": 121820310,
+        "imgId": 0,
+        "thumbId": 30030,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820320,
+        "textId": 121820320,
+        "imgId": 0,
+        "thumbId": 30030,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820330,
+        "textId": 121820330,
+        "imgId": 0,
+        "thumbId": 30030,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820340,
+        "textId": 121820340,
+        "imgId": 0,
+        "thumbId": 30030,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1030,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820350,
+        "textId": 121820350,
+        "imgId": 0,
+        "thumbId": 30030,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1040,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820410,
+        "textId": 121820410,
+        "imgId": 0,
+        "thumbId": 30041,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820420,
+        "textId": 121820420,
+        "imgId": 0,
+        "thumbId": 30042,
+        "posX": -904,
+        "posY": -311,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820500,
+        "textId": 121820500,
+        "imgId": 0,
+        "thumbId": 30050,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820600,
+        "textId": 121820600,
+        "imgId": 0,
+        "thumbId": 30060,
+        "posX": 650,
+        "posY": 0,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820700,
+        "textId": 121820700,
+        "imgId": 0,
+        "thumbId": 30070,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820800,
+        "textId": 121820800,
+        "imgId": 0,
+        "thumbId": 30080,
+        "posX": -1900,
+        "posY": -437,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820900,
+        "textId": 121820900,
+        "imgId": 0,
+        "thumbId": 30090,
+        "posX": -1900,
+        "posY": -437,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21820910,
+        "textId": 121820910,
+        "imgId": 0,
+        "thumbId": 30091,
+        "posX": -1900,
+        "posY": -437,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821010,
+        "textId": 121821010,
+        "imgId": 0,
+        "thumbId": 30100,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821020,
+        "textId": 121821020,
+        "imgId": 0,
+        "thumbId": 30100,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1010,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821030,
+        "textId": 121821030,
+        "imgId": 0,
+        "thumbId": 30100,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1020,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821040,
+        "textId": 121821040,
+        "imgId": 0,
+        "thumbId": 30100,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1030,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821050,
+        "textId": 121821050,
+        "imgId": 0,
+        "thumbId": 30100,
+        "posX": 100,
+        "posY": -330,
+        "showPriority": 1040,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821110,
+        "textId": 121821110,
+        "imgId": 0,
+        "thumbId": 30110,
+        "posX": -1900,
+        "posY": -100,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821210,
+        "textId": 121821210,
+        "imgId": 0,
+        "thumbId": 30120,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821310,
+        "textId": 121821310,
+        "imgId": 0,
+        "thumbId": 30130,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821320,
+        "textId": 121821320,
+        "imgId": 0,
+        "thumbId": 30130,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821330,
+        "textId": 121821330,
+        "imgId": 0,
+        "thumbId": 30130,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821340,
+        "textId": 121821340,
+        "imgId": 0,
+        "thumbId": 30130,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821350,
+        "textId": 121821350,
+        "imgId": 0,
+        "thumbId": 30130,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821410,
+        "textId": 121821410,
+        "imgId": 0,
+        "thumbId": 30140,
+        "posX": 650,
+        "posY": 0,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821510,
+        "textId": 121821510,
+        "imgId": 0,
+        "thumbId": 30150,
+        "posX": -670,
+        "posY": -303,
+        "showPriority": 489,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821610,
+        "textId": 121821610,
+        "imgId": 0,
+        "thumbId": 30160,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821710,
+        "textId": 121821710,
+        "imgId": 0,
+        "thumbId": 30170,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821720,
+        "textId": 121821720,
+        "imgId": 0,
+        "thumbId": 30170,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1010,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821730,
+        "textId": 121821730,
+        "imgId": 0,
+        "thumbId": 30170,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1020,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821740,
+        "textId": 121821740,
+        "imgId": 0,
+        "thumbId": 30170,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1030,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821750,
+        "textId": 121821750,
+        "imgId": 0,
+        "thumbId": 30170,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1040,
+        "totalGoldLimit": 200000
+    },
+    {
+        "id": 21821760,
+        "textId": 121821760,
+        "imgId": 0,
+        "thumbId": 30171,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1050,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21821810,
+        "textId": 121821810,
+        "imgId": 0,
+        "thumbId": 30180,
+        "posX": 539,
+        "posY": -53,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21850110,
+        "textId": 121850110,
+        "imgId": 0,
+        "thumbId": 50101,
+        "posX": -1242,
+        "posY": -441,
+        "showPriority": 1001,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21850120,
+        "textId": 121850120,
+        "imgId": 0,
+        "thumbId": 50102,
+        "posX": -1242,
+        "posY": -441,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21850210,
+        "textId": 121850210,
+        "imgId": 0,
+        "thumbId": 50201,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 1001,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21850220,
+        "textId": 121850220,
+        "imgId": 0,
+        "thumbId": 50202,
+        "posX": -300,
+        "posY": -488,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21900100,
+        "textId": 121900100,
+        "imgId": 1,
+        "thumbId": 1201,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21900200,
+        "textId": 121900200,
+        "imgId": 1,
+        "thumbId": 1000,
+        "posX": -781,
+        "posY": -338,
+        "showPriority": 900,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21901100,
+        "textId": 121901100,
+        "imgId": 1,
+        "thumbId": 1201,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21999990,
+        "textId": 121999990,
+        "imgId": 0,
+        "thumbId": 30130,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    },
+    {
+        "id": 21999991,
+        "textId": 121999991,
+        "imgId": 0,
+        "thumbId": 30130,
+        "posX": -910,
+        "posY": -240,
+        "showPriority": 1000,
+        "totalGoldLimit": 0
+    }
+]

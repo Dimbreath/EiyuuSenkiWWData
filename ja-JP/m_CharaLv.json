@@ -1,0 +1,3302 @@
+[
+    {
+        "rarity": 10,
+        "lv": 1,
+        "exp": 53,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 2,
+        "exp": 109,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 3,
+        "exp": 168,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 4,
+        "exp": 230,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 5,
+        "exp": 425,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 6,
+        "exp": 629,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 7,
+        "exp": 842,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 8,
+        "exp": 1064,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 9,
+        "exp": 1295,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 10,
+        "exp": 2095,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 11,
+        "exp": 3255,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 12,
+        "exp": 4445,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 13,
+        "exp": 5755,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 14,
+        "exp": 7095,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 15,
+        "exp": 9180,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 16,
+        "exp": 11310,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 17,
+        "exp": 13575,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 18,
+        "exp": 15885,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 19,
+        "exp": 18390,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 20,
+        "exp": 22020,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 21,
+        "exp": 26262,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 22,
+        "exp": 30576,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 23,
+        "exp": 35142,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 24,
+        "exp": 40230,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 25,
+        "exp": 45765,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 10,
+        "lv": 26,
+        "exp": 51561,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 27,
+        "exp": 57438,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 28,
+        "exp": 63396,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 29,
+        "exp": 69615,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 30,
+        "exp": 77485,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 31,
+        "exp": 85460,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 32,
+        "exp": 93720,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 33,
+        "exp": 102085,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 34,
+        "exp": 110555,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 35,
+        "exp": 119852,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 36,
+        "exp": 129515,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 37,
+        "exp": 139293,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 38,
+        "exp": 149367,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 39,
+        "exp": 159556,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 40,
+        "exp": 171476,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 10,
+        "lv": 41,
+        "exp": 183720,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 42,
+        "exp": 197708,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 43,
+        "exp": 211840,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 44,
+        "exp": 226296,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 45,
+        "exp": 241636,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 46,
+        "exp": 257132,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 47,
+        "exp": 272964,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 48,
+        "exp": 288952,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 49,
+        "exp": 305896,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 50,
+        "exp": 325376,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 51,
+        "exp": 345045,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 52,
+        "exp": 364903,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 53,
+        "exp": 385130,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 54,
+        "exp": 405546,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 55,
+        "exp": 427118,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 10,
+        "lv": 56,
+        "exp": 449073,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 57,
+        "exp": 472030,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 58,
+        "exp": 495190,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 59,
+        "exp": 518732,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 60,
+        "exp": 545352,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 61,
+        "exp": 572212,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 62,
+        "exp": 599492,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 63,
+        "exp": 627012,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 64,
+        "exp": 654772,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 65,
+        "exp": 684977,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 66,
+        "exp": 715437,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 67,
+        "exp": 746152,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 68,
+        "exp": 777302,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 69,
+        "exp": 808707,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 70,
+        "exp": 844007,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 10,
+        "lv": 71,
+        "exp": 879784,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 72,
+        "exp": 915858,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 73,
+        "exp": 953029,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 74,
+        "exp": 990677,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 75,
+        "exp": 1031647,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 76,
+        "exp": 1072947,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 77,
+        "exp": 1114757,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 78,
+        "exp": 1156897,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 79,
+        "exp": 1199367,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 80,
+        "exp": 1248727,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 81,
+        "exp": 1299283,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 82,
+        "exp": 1350235,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 83,
+        "exp": 1401763,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 84,
+        "exp": 1453687,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 85,
+        "exp": 1509667,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 10,
+        "lv": 86,
+        "exp": 1566259,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 87,
+        "exp": 1623283,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 88,
+        "exp": 1680739,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 89,
+        "exp": 1739607,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 90,
+        "exp": 1806907,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 91,
+        "exp": 1874714,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 92,
+        "exp": 1943208,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 93,
+        "exp": 2012209,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 94,
+        "exp": 2081717,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 95,
+        "exp": 2170672,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 96,
+        "exp": 2260302,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 97,
+        "exp": 2350607,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 98,
+        "exp": 2441767,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 99,
+        "exp": 2533602,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 100,
+        "exp": 3133602,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 10,
+        "lv": 101,
+        "exp": 4333602,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 10,
+        "lv": 102,
+        "exp": 6223602,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 10,
+        "lv": 103,
+        "exp": 9723602,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 10,
+        "lv": 104,
+        "exp": 17523602,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 10,
+        "lv": 105,
+        "exp": 29523602,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 10,
+        "lv": 106,
+        "exp": 44523602,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 10,
+        "lv": 107,
+        "exp": 64523602,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 10,
+        "lv": 108,
+        "exp": 89523602,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 10,
+        "lv": 109,
+        "exp": 119523602,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 10,
+        "lv": 110,
+        "exp": 0,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 20,
+        "lv": 1,
+        "exp": 52,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 2,
+        "exp": 105,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 3,
+        "exp": 160,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 4,
+        "exp": 216,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 5,
+        "exp": 390,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 6,
+        "exp": 567,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 7,
+        "exp": 750,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 8,
+        "exp": 936,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 9,
+        "exp": 1128,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 10,
+        "exp": 1778,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 11,
+        "exp": 2778,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 12,
+        "exp": 3788,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 13,
+        "exp": 4908,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 14,
+        "exp": 6038,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 15,
+        "exp": 7793,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 16,
+        "exp": 9563,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 17,
+        "exp": 11453,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 18,
+        "exp": 13358,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 19,
+        "exp": 15443,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 20,
+        "exp": 18353,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 21,
+        "exp": 21851,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 22,
+        "exp": 25373,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 23,
+        "exp": 29123,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 24,
+        "exp": 33347,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 25,
+        "exp": 37883,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 20,
+        "lv": 26,
+        "exp": 42626,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 27,
+        "exp": 47423,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 28,
+        "exp": 52247,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 29,
+        "exp": 57305,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 30,
+        "exp": 63600,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 31,
+        "exp": 69965,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 32,
+        "exp": 76545,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 33,
+        "exp": 83195,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 34,
+        "exp": 89880,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 35,
+        "exp": 97175,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 36,
+        "exp": 104759,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 37,
+        "exp": 112420,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 38,
+        "exp": 120299,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 39,
+        "exp": 128255,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 40,
+        "exp": 137295,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 20,
+        "lv": 41,
+        "exp": 146611,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 42,
+        "exp": 157575,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 43,
+        "exp": 168635,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 44,
+        "exp": 179923,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 45,
+        "exp": 191779,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 46,
+        "exp": 203687,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 47,
+        "exp": 215879,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 48,
+        "exp": 228123,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 49,
+        "exp": 241271,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 50,
+        "exp": 256026,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 51,
+        "exp": 270907,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 52,
+        "exp": 285851,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 53,
+        "exp": 301101,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 54,
+        "exp": 316414,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 55,
+        "exp": 332451,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 20,
+        "lv": 56,
+        "exp": 348736,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 57,
+        "exp": 365956,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 58,
+        "exp": 383243,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 59,
+        "exp": 400845,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 60,
+        "exp": 420265,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 61,
+        "exp": 439845,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 62,
+        "exp": 459685,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 63,
+        "exp": 479685,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 64,
+        "exp": 499765,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 65,
+        "exp": 521725,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 66,
+        "exp": 543770,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 67,
+        "exp": 565985,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 68,
+        "exp": 588465,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 69,
+        "exp": 611115,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 70,
+        "exp": 636020,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 20,
+        "lv": 71,
+        "exp": 661303,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 72,
+        "exp": 686685,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 73,
+        "exp": 713065,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 74,
+        "exp": 739724,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 75,
+        "exp": 768374,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 76,
+        "exp": 797134,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 77,
+        "exp": 826294,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 78,
+        "exp": 855564,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 79,
+        "exp": 885054,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 80,
+        "exp": 918574,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 81,
+        "exp": 953158,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 82,
+        "exp": 987874,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 83,
+        "exp": 1023034,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 84,
+        "exp": 1058326,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 85,
+        "exp": 1096018,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 20,
+        "lv": 86,
+        "exp": 1134034,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 87,
+        "exp": 1172338,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 88,
+        "exp": 1210786,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 89,
+        "exp": 1250502,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 90,
+        "exp": 1294987,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 91,
+        "exp": 1339810,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 92,
+        "exp": 1384982,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 93,
+        "exp": 1430492,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 94,
+        "exp": 1476171,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 95,
+        "exp": 1533176,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 96,
+        "exp": 1590406,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 97,
+        "exp": 1648086,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 98,
+        "exp": 1706171,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 99,
+        "exp": 1764706,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 100,
+        "exp": 2364706,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 20,
+        "lv": 101,
+        "exp": 3564706,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 20,
+        "lv": 102,
+        "exp": 5454706,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 20,
+        "lv": 103,
+        "exp": 8954706,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 20,
+        "lv": 104,
+        "exp": 16754706,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 20,
+        "lv": 105,
+        "exp": 28754706,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 20,
+        "lv": 106,
+        "exp": 43754706,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 20,
+        "lv": 107,
+        "exp": 63754706,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 20,
+        "lv": 108,
+        "exp": 88754706,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 20,
+        "lv": 109,
+        "exp": 118754706,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 20,
+        "lv": 110,
+        "exp": 0,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 30,
+        "lv": 1,
+        "exp": 76,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 2,
+        "exp": 154,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 3,
+        "exp": 233,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 4,
+        "exp": 314,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 5,
+        "exp": 561,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 6,
+        "exp": 813,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 7,
+        "exp": 1069,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 8,
+        "exp": 1330,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 9,
+        "exp": 1595,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 10,
+        "exp": 2495,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 11,
+        "exp": 3740,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 12,
+        "exp": 5000,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 13,
+        "exp": 6365,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 14,
+        "exp": 7745,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 15,
+        "exp": 9672,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 16,
+        "exp": 11619,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 17,
+        "exp": 13675,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 18,
+        "exp": 15751,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 19,
+        "exp": 17996,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 20,
+        "exp": 21170,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 21,
+        "exp": 24915,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 22,
+        "exp": 28691,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 23,
+        "exp": 32678,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 24,
+        "exp": 37146,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 25,
+        "exp": 41938,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 26,
+        "exp": 46945,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 27,
+        "exp": 51987,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 28,
+        "exp": 57064,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 29,
+        "exp": 62356,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 30,
+        "exp": 68966,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 30,
+        "lv": 31,
+        "exp": 75621,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 32,
+        "exp": 82502,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 33,
+        "exp": 89428,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 34,
+        "exp": 96400,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 35,
+        "exp": 103984,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 36,
+        "exp": 111868,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 37,
+        "exp": 119802,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 38,
+        "exp": 127966,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 39,
+        "exp": 136180,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 40,
+        "exp": 144260,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 41,
+        "exp": 152568,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 42,
+        "exp": 162524,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 43,
+        "exp": 172528,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 44,
+        "exp": 182760,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 45,
+        "exp": 193420,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 30,
+        "lv": 46,
+        "exp": 204132,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 47,
+        "exp": 215076,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 48,
+        "exp": 226072,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 49,
+        "exp": 237920,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 50,
+        "exp": 251100,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 51,
+        "exp": 263706,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 52,
+        "exp": 276369,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 53,
+        "exp": 289269,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 54,
+        "exp": 302225,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 55,
+        "exp": 315663,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 56,
+        "exp": 329342,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 57,
+        "exp": 343882,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 58,
+        "exp": 358483,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 59,
+        "exp": 373324,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 60,
+        "exp": 389464,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 30,
+        "lv": 61,
+        "exp": 405676,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 62,
+        "exp": 422140,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 63,
+        "exp": 438676,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 64,
+        "exp": 455284,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 65,
+        "exp": 473461,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 66,
+        "exp": 491715,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 67,
+        "exp": 510045,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 68,
+        "exp": 528632,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 69,
+        "exp": 547295,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 70,
+        "exp": 567547,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 30,
+        "lv": 71,
+        "exp": 588068,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 72,
+        "exp": 608678,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 73,
+        "exp": 630177,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 74,
+        "exp": 651945,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 75,
+        "exp": 672977,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 76,
+        "exp": 694092,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 77,
+        "exp": 715469,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 78,
+        "exp": 736929,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 79,
+        "exp": 758471,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 80,
+        "exp": 782421,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 81,
+        "exp": 807270,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 82,
+        "exp": 832218,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 83,
+        "exp": 857445,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 84,
+        "exp": 882771,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 85,
+        "exp": 909411,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 30,
+        "lv": 86,
+        "exp": 936339,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 87,
+        "exp": 963375,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 88,
+        "exp": 990519,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 89,
+        "exp": 1018751,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 90,
+        "exp": 1049716,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 91,
+        "exp": 1080807,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 92,
+        "exp": 1112205,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 93,
+        "exp": 1143730,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 94,
+        "exp": 1175382,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 95,
+        "exp": 1213430,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 96,
+        "exp": 1251647,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 97,
+        "exp": 1290033,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 98,
+        "exp": 1328768,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 99,
+        "exp": 1367671,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 100,
+        "exp": 1967671,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 30,
+        "lv": 101,
+        "exp": 3167671,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 30,
+        "lv": 102,
+        "exp": 5057671,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 30,
+        "lv": 103,
+        "exp": 8557671,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 30,
+        "lv": 104,
+        "exp": 16357671,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 30,
+        "lv": 105,
+        "exp": 28357671,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 30,
+        "lv": 106,
+        "exp": 43357671,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 30,
+        "lv": 107,
+        "exp": 63357671,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 30,
+        "lv": 108,
+        "exp": 88357671,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 30,
+        "lv": 109,
+        "exp": 118357671,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 30,
+        "lv": 110,
+        "exp": 0,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 40,
+        "lv": 1,
+        "exp": 89,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 2,
+        "exp": 180,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 3,
+        "exp": 272,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 4,
+        "exp": 364,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 5,
+        "exp": 647,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 6,
+        "exp": 935,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 7,
+        "exp": 1229,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 8,
+        "exp": 1523,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 9,
+        "exp": 1822,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 10,
+        "exp": 2692,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 11,
+        "exp": 3907,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 12,
+        "exp": 5122,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 13,
+        "exp": 6442,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 14,
+        "exp": 7777,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 15,
+        "exp": 9832,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 16,
+        "exp": 11887,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 17,
+        "exp": 14054,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 18,
+        "exp": 16244,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 19,
+        "exp": 18606,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 20,
+        "exp": 21546,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 21,
+        "exp": 25056,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 22,
+        "exp": 28596,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 23,
+        "exp": 32346,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 24,
+        "exp": 36546,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 25,
+        "exp": 41034,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 26,
+        "exp": 45736,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 27,
+        "exp": 50472,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 28,
+        "exp": 55208,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 29,
+        "exp": 60158,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 30,
+        "exp": 65683,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 31,
+        "exp": 71243,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 32,
+        "exp": 76983,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 33,
+        "exp": 82758,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 34,
+        "exp": 88568,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 35,
+        "exp": 94862,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 36,
+        "exp": 101406,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 37,
+        "exp": 107989,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 38,
+        "exp": 114790,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 39,
+        "exp": 121630,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 40,
+        "exp": 129230,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 40,
+        "lv": 41,
+        "exp": 137058,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 42,
+        "exp": 146534,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 43,
+        "exp": 156058,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 44,
+        "exp": 165762,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 45,
+        "exp": 175850,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 46,
+        "exp": 185990,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 47,
+        "exp": 196362,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 48,
+        "exp": 206734,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 49,
+        "exp": 217958,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 50,
+        "exp": 229827,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 40,
+        "lv": 51,
+        "exp": 241753,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 52,
+        "exp": 253679,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 53,
+        "exp": 265842,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 54,
+        "exp": 278061,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 55,
+        "exp": 290710,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 56,
+        "exp": 303539,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 57,
+        "exp": 317228,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 58,
+        "exp": 330978,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 59,
+        "exp": 344969,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 60,
+        "exp": 359269,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 40,
+        "lv": 61,
+        "exp": 373633,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 62,
+        "exp": 388241,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 63,
+        "exp": 402913,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 64,
+        "exp": 417585,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 65,
+        "exp": 433697,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 66,
+        "exp": 449877,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 67,
+        "exp": 466125,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 68,
+        "exp": 482553,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 69,
+        "exp": 499049,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 70,
+        "exp": 515746,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 40,
+        "lv": 71,
+        "exp": 532693,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 72,
+        "exp": 549640,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 73,
+        "exp": 567456,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 74,
+        "exp": 585521,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 75,
+        "exp": 604480,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 76,
+        "exp": 623439,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 77,
+        "exp": 642655,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 78,
+        "exp": 661948,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 79,
+        "exp": 681318,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 80,
+        "exp": 701110,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 81,
+        "exp": 721781,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 82,
+        "exp": 742531,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 83,
+        "exp": 763540,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 84,
+        "exp": 784549,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 85,
+        "exp": 806458,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 40,
+        "lv": 86,
+        "exp": 828634,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 87,
+        "exp": 850896,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 88,
+        "exp": 873158,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 89,
+        "exp": 896486,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 90,
+        "exp": 920674,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 91,
+        "exp": 944955,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 92,
+        "exp": 969416,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 93,
+        "exp": 993970,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 94,
+        "exp": 1018616,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 95,
+        "exp": 1045921,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 96,
+        "exp": 1073226,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 97,
+        "exp": 1100643,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 98,
+        "exp": 1128353,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 99,
+        "exp": 1156175,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 100,
+        "exp": 1756175,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 40,
+        "lv": 101,
+        "exp": 2956175,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 40,
+        "lv": 102,
+        "exp": 4846175,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 40,
+        "lv": 103,
+        "exp": 8346175,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 40,
+        "lv": 104,
+        "exp": 16146175,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 40,
+        "lv": 105,
+        "exp": 28146175,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 40,
+        "lv": 106,
+        "exp": 43146175,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 40,
+        "lv": 107,
+        "exp": 63146175,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 40,
+        "lv": 108,
+        "exp": 88146175,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 40,
+        "lv": 109,
+        "exp": 118146175,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 40,
+        "lv": 110,
+        "exp": 0,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 50,
+        "lv": 1,
+        "exp": 102,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 2,
+        "exp": 206,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 3,
+        "exp": 310,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 4,
+        "exp": 416,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 5,
+        "exp": 734,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 6,
+        "exp": 1058,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 7,
+        "exp": 1388,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 8,
+        "exp": 1718,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 9,
+        "exp": 2054,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 10,
+        "exp": 3034,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 11,
+        "exp": 4361,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 12,
+        "exp": 5706,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 13,
+        "exp": 7141,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 14,
+        "exp": 8593,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 15,
+        "exp": 10801,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 16,
+        "exp": 13036,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 17,
+        "exp": 15387,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 18,
+        "exp": 17738,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 19,
+        "exp": 20265,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 20,
+        "exp": 23487,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 21,
+        "exp": 27285,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 22,
+        "exp": 31119,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 23,
+        "exp": 35133,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 24,
+        "exp": 39633,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 25,
+        "exp": 44425,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 26,
+        "exp": 49438,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 27,
+        "exp": 54491,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 28,
+        "exp": 59544,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 29,
+        "exp": 64818,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 30,
+        "exp": 70763,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 31,
+        "exp": 76751,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 32,
+        "exp": 82963,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 33,
+        "exp": 89175,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 34,
+        "exp": 95431,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 35,
+        "exp": 102177,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 36,
+        "exp": 109222,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 37,
+        "exp": 116315,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 38,
+        "exp": 123588,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 39,
+        "exp": 130909,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 40,
+        "exp": 138576,
+        "lvBreakNum": 0
+    },
+    {
+        "rarity": 50,
+        "lv": 41,
+        "exp": 146476,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 42,
+        "exp": 156028,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 43,
+        "exp": 165580,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 44,
+        "exp": 175365,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 45,
+        "exp": 185489,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 46,
+        "exp": 195670,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 47,
+        "exp": 206088,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 48,
+        "exp": 216506,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 49,
+        "exp": 227782,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 50,
+        "exp": 239450,
+        "lvBreakNum": 1
+    },
+    {
+        "rarity": 50,
+        "lv": 51,
+        "exp": 251177,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 52,
+        "exp": 262964,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 53,
+        "exp": 274931,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 54,
+        "exp": 286958,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 55,
+        "exp": 299060,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 56,
+        "exp": 311403,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 57,
+        "exp": 324606,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 58,
+        "exp": 337809,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 59,
+        "exp": 351253,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 60,
+        "exp": 365321,
+        "lvBreakNum": 2
+    },
+    {
+        "rarity": 50,
+        "lv": 61,
+        "exp": 379457,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 62,
+        "exp": 393841,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 63,
+        "exp": 408225,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 64,
+        "exp": 422677,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 65,
+        "exp": 438109,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 66,
+        "exp": 453609,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 67,
+        "exp": 469177,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 68,
+        "exp": 484925,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 69,
+        "exp": 500741,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 70,
+        "exp": 517132,
+        "lvBreakNum": 3
+    },
+    {
+        "rarity": 50,
+        "lv": 71,
+        "exp": 533777,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 72,
+        "exp": 550496,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 73,
+        "exp": 568015,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 74,
+        "exp": 585788,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 75,
+        "exp": 603823,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 76,
+        "exp": 621935,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 77,
+        "exp": 640304,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 78,
+        "exp": 658673,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 79,
+        "exp": 677119,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 80,
+        "exp": 696607,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 81,
+        "exp": 716981,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 82,
+        "exp": 737441,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 83,
+        "exp": 758081,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 84,
+        "exp": 778806,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 85,
+        "exp": 799592,
+        "lvBreakNum": 4
+    },
+    {
+        "rarity": 50,
+        "lv": 86,
+        "exp": 820644,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 87,
+        "exp": 841783,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 88,
+        "exp": 862922,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 89,
+        "exp": 885127,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 90,
+        "exp": 907135,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 91,
+        "exp": 929227,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 92,
+        "exp": 951584,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 93,
+        "exp": 973941,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 94,
+        "exp": 996382,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 95,
+        "exp": 1019592,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 96,
+        "exp": 1042892,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 97,
+        "exp": 1066282,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 98,
+        "exp": 1089852,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 99,
+        "exp": 1113512,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 100,
+        "exp": 1713512,
+        "lvBreakNum": 5
+    },
+    {
+        "rarity": 50,
+        "lv": 101,
+        "exp": 2913512,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 50,
+        "lv": 102,
+        "exp": 4803512,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 50,
+        "lv": 103,
+        "exp": 8303512,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 50,
+        "lv": 104,
+        "exp": 16103512,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 50,
+        "lv": 105,
+        "exp": 28103512,
+        "lvBreakNum": 6
+    },
+    {
+        "rarity": 50,
+        "lv": 106,
+        "exp": 43103512,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 50,
+        "lv": 107,
+        "exp": 63103512,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 50,
+        "lv": 108,
+        "exp": 88103512,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 50,
+        "lv": 109,
+        "exp": 118103512,
+        "lvBreakNum": 7
+    },
+    {
+        "rarity": 50,
+        "lv": 110,
+        "exp": 0,
+        "lvBreakNum": 7
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "iconId": 11000007,
+        "textId": 111100101,
+        "recoverSec": 60,
+        "recoverLimit": 5,
+        "surplusLimit": 10,
+        "initValue": 5,
+        "coinValue": 0
+    }
+]

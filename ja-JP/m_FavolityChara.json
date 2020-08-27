@@ -1,0 +1,7052 @@
+[
+    {
+        "bonusId": 1,
+        "favolityRank": 2,
+        "prizeSetNo": 50000001,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 1,
+        "favolityRank": 4,
+        "prizeSetNo": 50000001,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 1,
+        "favolityRank": 6,
+        "prizeSetNo": 50000001,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 1,
+        "favolityRank": 8,
+        "prizeSetNo": 50000001,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 1,
+        "favolityRank": 10,
+        "prizeSetNo": 50000001,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 400,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 4,
+        "prizeSetNo": 50016111,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 5,
+        "prizeSetNo": 50016211,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 130,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 40,
+        "magicDefense": 40
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 14,
+        "prizeSetNo": 50016911,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 15,
+        "prizeSetNo": 50002110,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 16,
+        "prizeSetNo": 50016111,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 17,
+        "prizeSetNo": 50016211,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 18,
+        "prizeSetNo": 50019311,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 19,
+        "prizeSetNo": 50019211,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 21,
+        "prizeSetNo": 50016411,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 22,
+        "prizeSetNo": 50016311,
+        "hp": 260,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 80,
+        "magicDefense": 80
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 24,
+        "prizeSetNo": 50019011,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 25,
+        "prizeSetNo": 50019111,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 26,
+        "prizeSetNo": 50019411,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 27,
+        "prizeSetNo": 50016911,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 28,
+        "prizeSetNo": 50002110,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 29,
+        "prizeSetNo": 50016111,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 31,
+        "prizeSetNo": 50016211,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 32,
+        "prizeSetNo": 50019311,
+        "hp": 390,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 34,
+        "prizeSetNo": 50019211,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 35,
+        "prizeSetNo": 50016411,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 36,
+        "prizeSetNo": 50016311,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 37,
+        "prizeSetNo": 50019111,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 38,
+        "prizeSetNo": 50019011,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 39,
+        "prizeSetNo": 50016911,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 41,
+        "prizeSetNo": 50019411,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 42,
+        "prizeSetNo": 50016111,
+        "hp": 520,
+        "power": 200,
+        "magicAttack": 200,
+        "defense": 160,
+        "magicDefense": 160
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 44,
+        "prizeSetNo": 50016211,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 45,
+        "prizeSetNo": 50002110,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 46,
+        "prizeSetNo": 50016411,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 47,
+        "prizeSetNo": 50016311,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 48,
+        "prizeSetNo": 50019411,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 49,
+        "prizeSetNo": 50003001,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 21,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 650,
+        "power": 250,
+        "magicAttack": 250,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 4,
+        "prizeSetNo": 50016011,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 5,
+        "prizeSetNo": 50016111,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 130,
+        "power": 80,
+        "magicAttack": 0,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 14,
+        "prizeSetNo": 50016911,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 15,
+        "prizeSetNo": 50002110,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 16,
+        "prizeSetNo": 50016011,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 17,
+        "prizeSetNo": 50016111,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 18,
+        "prizeSetNo": 50019311,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 19,
+        "prizeSetNo": 50019211,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 21,
+        "prizeSetNo": 50016411,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 22,
+        "prizeSetNo": 50016311,
+        "hp": 260,
+        "power": 160,
+        "magicAttack": 0,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 24,
+        "prizeSetNo": 50019011,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 25,
+        "prizeSetNo": 50019111,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 26,
+        "prizeSetNo": 50019411,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 27,
+        "prizeSetNo": 50016911,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 28,
+        "prizeSetNo": 50002110,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 29,
+        "prizeSetNo": 50016011,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 31,
+        "prizeSetNo": 50016111,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 32,
+        "prizeSetNo": 50019311,
+        "hp": 390,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 34,
+        "prizeSetNo": 50019211,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 35,
+        "prizeSetNo": 50016411,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 36,
+        "prizeSetNo": 50016311,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 37,
+        "prizeSetNo": 50019111,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 38,
+        "prizeSetNo": 50019011,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 39,
+        "prizeSetNo": 50016911,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 41,
+        "prizeSetNo": 50019411,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 42,
+        "prizeSetNo": 50016011,
+        "hp": 520,
+        "power": 320,
+        "magicAttack": 0,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 44,
+        "prizeSetNo": 50016111,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 45,
+        "prizeSetNo": 50002110,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 46,
+        "prizeSetNo": 50016411,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 47,
+        "prizeSetNo": 50016311,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 48,
+        "prizeSetNo": 50019411,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 49,
+        "prizeSetNo": 50003001,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 22,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 650,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 4,
+        "prizeSetNo": 50016011,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 130,
+        "power": 0,
+        "magicAttack": 80,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 14,
+        "prizeSetNo": 50016911,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 15,
+        "prizeSetNo": 50002110,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 16,
+        "prizeSetNo": 50016011,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 18,
+        "prizeSetNo": 50019311,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 19,
+        "prizeSetNo": 50019211,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 21,
+        "prizeSetNo": 50016411,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 22,
+        "prizeSetNo": 50016311,
+        "hp": 260,
+        "power": 0,
+        "magicAttack": 160,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 24,
+        "prizeSetNo": 50019011,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 25,
+        "prizeSetNo": 50019111,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 26,
+        "prizeSetNo": 50019411,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 27,
+        "prizeSetNo": 50016911,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 28,
+        "prizeSetNo": 50002110,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 29,
+        "prizeSetNo": 50016011,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 32,
+        "prizeSetNo": 50019311,
+        "hp": 390,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 34,
+        "prizeSetNo": 50019211,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 35,
+        "prizeSetNo": 50016411,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 36,
+        "prizeSetNo": 50016311,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 37,
+        "prizeSetNo": 50019111,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 38,
+        "prizeSetNo": 50019011,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 39,
+        "prizeSetNo": 50016911,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 41,
+        "prizeSetNo": 50019411,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 42,
+        "prizeSetNo": 50016011,
+        "hp": 520,
+        "power": 0,
+        "magicAttack": 320,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 45,
+        "prizeSetNo": 50002110,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 46,
+        "prizeSetNo": 50016411,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 47,
+        "prizeSetNo": 50016311,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 48,
+        "prizeSetNo": 50019411,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 49,
+        "prizeSetNo": 50003001,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 23,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 650,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 4,
+        "prizeSetNo": 50016111,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 5,
+        "prizeSetNo": 50016211,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 10,
+        "prizeSetNo": 50000020,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 150,
+        "power": 60,
+        "magicAttack": 60,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 14,
+        "prizeSetNo": 50016912,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 15,
+        "prizeSetNo": 50002220,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 16,
+        "prizeSetNo": 50016112,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 17,
+        "prizeSetNo": 50016212,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 18,
+        "prizeSetNo": 50019312,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 19,
+        "prizeSetNo": 50019212,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 20,
+        "prizeSetNo": 50000020,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 21,
+        "prizeSetNo": 50016412,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 22,
+        "prizeSetNo": 50016312,
+        "hp": 300,
+        "power": 120,
+        "magicAttack": 120,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 24,
+        "prizeSetNo": 50019012,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 25,
+        "prizeSetNo": 50019112,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 26,
+        "prizeSetNo": 50019412,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 27,
+        "prizeSetNo": 50016912,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 28,
+        "prizeSetNo": 50002220,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 29,
+        "prizeSetNo": 50016112,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 30,
+        "prizeSetNo": 50000020,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 31,
+        "prizeSetNo": 50016212,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 32,
+        "prizeSetNo": 50019321,
+        "hp": 450,
+        "power": 180,
+        "magicAttack": 180,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 34,
+        "prizeSetNo": 50019221,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 35,
+        "prizeSetNo": 50016412,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 36,
+        "prizeSetNo": 50016312,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 37,
+        "prizeSetNo": 50019121,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 38,
+        "prizeSetNo": 50019021,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 39,
+        "prizeSetNo": 50016912,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 40,
+        "prizeSetNo": 50000020,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 41,
+        "prizeSetNo": 50019421,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 42,
+        "prizeSetNo": 50016112,
+        "hp": 600,
+        "power": 240,
+        "magicAttack": 240,
+        "defense": 200,
+        "magicDefense": 200
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 44,
+        "prizeSetNo": 50016212,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 45,
+        "prizeSetNo": 50002220,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 46,
+        "prizeSetNo": 50016412,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 47,
+        "prizeSetNo": 50016312,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 48,
+        "prizeSetNo": 50003011,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 49,
+        "prizeSetNo": 50010100,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 31,
+        "favolityRank": 50,
+        "prizeSetNo": 50000020,
+        "hp": 750,
+        "power": 300,
+        "magicAttack": 300,
+        "defense": 250,
+        "magicDefense": 250
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 4,
+        "prizeSetNo": 50016011,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 5,
+        "prizeSetNo": 50016111,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 10,
+        "prizeSetNo": 50000020,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 150,
+        "power": 100,
+        "magicAttack": 0,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 14,
+        "prizeSetNo": 50016912,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 15,
+        "prizeSetNo": 50002220,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 16,
+        "prizeSetNo": 50016012,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 17,
+        "prizeSetNo": 50016112,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 18,
+        "prizeSetNo": 50019312,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 19,
+        "prizeSetNo": 50019212,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 20,
+        "prizeSetNo": 50000020,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 21,
+        "prizeSetNo": 50016412,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 22,
+        "prizeSetNo": 50016312,
+        "hp": 300,
+        "power": 200,
+        "magicAttack": 0,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 24,
+        "prizeSetNo": 50019012,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 25,
+        "prizeSetNo": 50019112,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 26,
+        "prizeSetNo": 50019412,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 27,
+        "prizeSetNo": 50016912,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 28,
+        "prizeSetNo": 50002220,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 29,
+        "prizeSetNo": 50016012,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 30,
+        "prizeSetNo": 50000020,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 31,
+        "prizeSetNo": 50016112,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 32,
+        "prizeSetNo": 50019321,
+        "hp": 450,
+        "power": 300,
+        "magicAttack": 0,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 34,
+        "prizeSetNo": 50019221,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 35,
+        "prizeSetNo": 50016412,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 36,
+        "prizeSetNo": 50016312,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 37,
+        "prizeSetNo": 50019121,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 38,
+        "prizeSetNo": 50019021,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 39,
+        "prizeSetNo": 50016912,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 40,
+        "prizeSetNo": 50000020,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 41,
+        "prizeSetNo": 50019421,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 42,
+        "prizeSetNo": 50016012,
+        "hp": 600,
+        "power": 400,
+        "magicAttack": 0,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 44,
+        "prizeSetNo": 50016112,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 45,
+        "prizeSetNo": 50002220,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 46,
+        "prizeSetNo": 50016412,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 47,
+        "prizeSetNo": 50016312,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 48,
+        "prizeSetNo": 50003011,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 49,
+        "prizeSetNo": 50010100,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 32,
+        "favolityRank": 50,
+        "prizeSetNo": 50000020,
+        "hp": 750,
+        "power": 500,
+        "magicAttack": 0,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 4,
+        "prizeSetNo": 50016011,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 10,
+        "prizeSetNo": 50000020,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 14,
+        "prizeSetNo": 50016912,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 15,
+        "prizeSetNo": 50002220,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 16,
+        "prizeSetNo": 50016012,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 18,
+        "prizeSetNo": 50019312,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 19,
+        "prizeSetNo": 50019212,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 20,
+        "prizeSetNo": 50000020,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 21,
+        "prizeSetNo": 50016412,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 22,
+        "prizeSetNo": 50016312,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 24,
+        "prizeSetNo": 50019012,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 25,
+        "prizeSetNo": 50019112,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 26,
+        "prizeSetNo": 50019412,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 27,
+        "prizeSetNo": 50016912,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 28,
+        "prizeSetNo": 50002220,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 29,
+        "prizeSetNo": 50016012,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 30,
+        "prizeSetNo": 50000020,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 32,
+        "prizeSetNo": 50019321,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 34,
+        "prizeSetNo": 50019221,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 35,
+        "prizeSetNo": 50016412,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 36,
+        "prizeSetNo": 50016312,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 37,
+        "prizeSetNo": 50019121,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 38,
+        "prizeSetNo": 50019021,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 39,
+        "prizeSetNo": 50016912,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 40,
+        "prizeSetNo": 50000020,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 41,
+        "prizeSetNo": 50019421,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 42,
+        "prizeSetNo": 50016012,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 45,
+        "prizeSetNo": 50002220,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 46,
+        "prizeSetNo": 50016412,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 47,
+        "prizeSetNo": 50016312,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 48,
+        "prizeSetNo": 50003011,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 49,
+        "prizeSetNo": 50010100,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 33,
+        "favolityRank": 50,
+        "prizeSetNo": 50000020,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 4,
+        "prizeSetNo": 50016011,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 150,
+        "power": 0,
+        "magicAttack": 100,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 14,
+        "prizeSetNo": 50016911,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 15,
+        "prizeSetNo": 50002110,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 16,
+        "prizeSetNo": 50016011,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 18,
+        "prizeSetNo": 50019311,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 19,
+        "prizeSetNo": 50019211,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 21,
+        "prizeSetNo": 50016411,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 22,
+        "prizeSetNo": 50016311,
+        "hp": 300,
+        "power": 0,
+        "magicAttack": 200,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 24,
+        "prizeSetNo": 50019011,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 25,
+        "prizeSetNo": 50019111,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 26,
+        "prizeSetNo": 50019411,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 27,
+        "prizeSetNo": 50016911,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 28,
+        "prizeSetNo": 50002110,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 29,
+        "prizeSetNo": 50016011,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 32,
+        "prizeSetNo": 50019311,
+        "hp": 450,
+        "power": 0,
+        "magicAttack": 300,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 34,
+        "prizeSetNo": 50019211,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 35,
+        "prizeSetNo": 50016411,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 36,
+        "prizeSetNo": 50016311,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 37,
+        "prizeSetNo": 50019111,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 38,
+        "prizeSetNo": 50019011,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 39,
+        "prizeSetNo": 50016911,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 41,
+        "prizeSetNo": 50019411,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 42,
+        "prizeSetNo": 50016011,
+        "hp": 600,
+        "power": 0,
+        "magicAttack": 400,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 45,
+        "prizeSetNo": 50002110,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 46,
+        "prizeSetNo": 50016411,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 47,
+        "prizeSetNo": 50016311,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 48,
+        "prizeSetNo": 50019411,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 49,
+        "prizeSetNo": 50003001,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 34,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 750,
+        "power": 0,
+        "magicAttack": 500,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 4,
+        "prizeSetNo": 50016111,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 5,
+        "prizeSetNo": 50016211,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 10,
+        "prizeSetNo": 50000050,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 160,
+        "power": 70,
+        "magicAttack": 70,
+        "defense": 60,
+        "magicDefense": 60
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 14,
+        "prizeSetNo": 50016913,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 15,
+        "prizeSetNo": 50002001,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 16,
+        "prizeSetNo": 50016113,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 17,
+        "prizeSetNo": 50016213,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 18,
+        "prizeSetNo": 50019321,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 19,
+        "prizeSetNo": 50019221,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 20,
+        "prizeSetNo": 50000050,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 21,
+        "prizeSetNo": 50016413,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 22,
+        "prizeSetNo": 50016313,
+        "hp": 320,
+        "power": 140,
+        "magicAttack": 140,
+        "defense": 120,
+        "magicDefense": 120
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 24,
+        "prizeSetNo": 50019021,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 25,
+        "prizeSetNo": 50019121,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 26,
+        "prizeSetNo": 50019421,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 27,
+        "prizeSetNo": 50016921,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 28,
+        "prizeSetNo": 50002001,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 29,
+        "prizeSetNo": 50016121,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 30,
+        "prizeSetNo": 50000050,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 31,
+        "prizeSetNo": 50016221,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 32,
+        "prizeSetNo": 50019331,
+        "hp": 480,
+        "power": 210,
+        "magicAttack": 210,
+        "defense": 180,
+        "magicDefense": 180
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 34,
+        "prizeSetNo": 50019231,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 35,
+        "prizeSetNo": 50016421,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 36,
+        "prizeSetNo": 50016321,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 37,
+        "prizeSetNo": 50019131,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 38,
+        "prizeSetNo": 50019031,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 39,
+        "prizeSetNo": 50016921,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 40,
+        "prizeSetNo": 50000050,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 41,
+        "prizeSetNo": 50019431,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 42,
+        "prizeSetNo": 50016121,
+        "hp": 640,
+        "power": 280,
+        "magicAttack": 280,
+        "defense": 240,
+        "magicDefense": 240
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 44,
+        "prizeSetNo": 50016221,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 45,
+        "prizeSetNo": 50002001,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 46,
+        "prizeSetNo": 50016421,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 47,
+        "prizeSetNo": 50016321,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 48,
+        "prizeSetNo": 50003201,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 49,
+        "prizeSetNo": 50019921,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 41,
+        "favolityRank": 50,
+        "prizeSetNo": 50000050,
+        "hp": 800,
+        "power": 350,
+        "magicAttack": 350,
+        "defense": 300,
+        "magicDefense": 300
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 4,
+        "prizeSetNo": 50016011,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 5,
+        "prizeSetNo": 50016111,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 10,
+        "prizeSetNo": 50000050,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 160,
+        "power": 120,
+        "magicAttack": 0,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 14,
+        "prizeSetNo": 50016913,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 15,
+        "prizeSetNo": 50002001,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 16,
+        "prizeSetNo": 50016013,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 17,
+        "prizeSetNo": 50016113,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 18,
+        "prizeSetNo": 50019321,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 19,
+        "prizeSetNo": 50019221,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 20,
+        "prizeSetNo": 50000050,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 21,
+        "prizeSetNo": 50016413,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 22,
+        "prizeSetNo": 50016313,
+        "hp": 320,
+        "power": 240,
+        "magicAttack": 0,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 24,
+        "prizeSetNo": 50019021,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 25,
+        "prizeSetNo": 50019121,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 26,
+        "prizeSetNo": 50019421,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 27,
+        "prizeSetNo": 50016921,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 28,
+        "prizeSetNo": 50002001,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 29,
+        "prizeSetNo": 50016021,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 30,
+        "prizeSetNo": 50000050,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 31,
+        "prizeSetNo": 50016121,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 32,
+        "prizeSetNo": 50019331,
+        "hp": 480,
+        "power": 360,
+        "magicAttack": 0,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 34,
+        "prizeSetNo": 50019231,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 35,
+        "prizeSetNo": 50016421,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 36,
+        "prizeSetNo": 50016321,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 37,
+        "prizeSetNo": 50019131,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 38,
+        "prizeSetNo": 50019031,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 39,
+        "prizeSetNo": 50016921,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 40,
+        "prizeSetNo": 50000050,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 41,
+        "prizeSetNo": 50019431,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 42,
+        "prizeSetNo": 50016021,
+        "hp": 640,
+        "power": 480,
+        "magicAttack": 0,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 44,
+        "prizeSetNo": 50016121,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 45,
+        "prizeSetNo": 50002001,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 46,
+        "prizeSetNo": 50016421,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 47,
+        "prizeSetNo": 50016321,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 48,
+        "prizeSetNo": 50003201,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 49,
+        "prizeSetNo": 50019801,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 42,
+        "favolityRank": 50,
+        "prizeSetNo": 50000050,
+        "hp": 800,
+        "power": 600,
+        "magicAttack": 0,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 2,
+        "prizeSetNo": 50016911,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 4,
+        "prizeSetNo": 50016011,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 6,
+        "prizeSetNo": 50019311,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 7,
+        "prizeSetNo": 50016411,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 8,
+        "prizeSetNo": 50016311,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 9,
+        "prizeSetNo": 50019211,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 10,
+        "prizeSetNo": 50000050,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 11,
+        "prizeSetNo": 50019111,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 12,
+        "prizeSetNo": 50019011,
+        "hp": 160,
+        "power": 0,
+        "magicAttack": 120,
+        "defense": 70,
+        "magicDefense": 70
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 14,
+        "prizeSetNo": 50016913,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 15,
+        "prizeSetNo": 50002001,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 16,
+        "prizeSetNo": 50016013,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 18,
+        "prizeSetNo": 50019321,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 19,
+        "prizeSetNo": 50019221,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 20,
+        "prizeSetNo": 50000050,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 21,
+        "prizeSetNo": 50016413,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 22,
+        "prizeSetNo": 50016313,
+        "hp": 320,
+        "power": 0,
+        "magicAttack": 240,
+        "defense": 140,
+        "magicDefense": 140
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 24,
+        "prizeSetNo": 50019021,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 25,
+        "prizeSetNo": 50019121,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 26,
+        "prizeSetNo": 50019421,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 27,
+        "prizeSetNo": 50016921,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 28,
+        "prizeSetNo": 50002001,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 29,
+        "prizeSetNo": 50016021,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 30,
+        "prizeSetNo": 50000050,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 32,
+        "prizeSetNo": 50019331,
+        "hp": 480,
+        "power": 0,
+        "magicAttack": 360,
+        "defense": 210,
+        "magicDefense": 210
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 34,
+        "prizeSetNo": 50019231,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 35,
+        "prizeSetNo": 50016421,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 36,
+        "prizeSetNo": 50016321,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 37,
+        "prizeSetNo": 50019131,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 38,
+        "prizeSetNo": 50019031,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 39,
+        "prizeSetNo": 50016921,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 40,
+        "prizeSetNo": 50000050,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 41,
+        "prizeSetNo": 50019431,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 42,
+        "prizeSetNo": 50016021,
+        "hp": 640,
+        "power": 0,
+        "magicAttack": 480,
+        "defense": 280,
+        "magicDefense": 280
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 45,
+        "prizeSetNo": 50002001,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 46,
+        "prizeSetNo": 50016421,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 47,
+        "prizeSetNo": 50016321,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 48,
+        "prizeSetNo": 50003201,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 49,
+        "prizeSetNo": 50019811,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 43,
+        "favolityRank": 50,
+        "prizeSetNo": 50000050,
+        "hp": 800,
+        "power": 0,
+        "magicAttack": 600,
+        "defense": 350,
+        "magicDefense": 350
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 2,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 4,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 6,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 7,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 8,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 9,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 11,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 12,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 14,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 15,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 16,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 18,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 19,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 21,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 22,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 24,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 25,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 26,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 27,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 28,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 29,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 32,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 34,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 35,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 36,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 37,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 38,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 39,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 41,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 42,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 45,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 46,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 47,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 48,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 49,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 101,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 2,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 4,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 6,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 7,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 8,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 9,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 11,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 12,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 14,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 15,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 16,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 18,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 19,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 21,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 22,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 24,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 25,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 26,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 27,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 28,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 29,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 32,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 34,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 35,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 36,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 37,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 38,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 39,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 41,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 42,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 45,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 46,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 47,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 48,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 49,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 102,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 2,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 4,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 6,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 7,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 8,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 9,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 11,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 12,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 14,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 15,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 16,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 18,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 19,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 21,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 22,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 24,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 25,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 26,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 27,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 28,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 29,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 32,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 34,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 35,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 36,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 37,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 38,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 39,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 41,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 42,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 45,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 46,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 47,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 48,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 49,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 103,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 1,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 0,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 2,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 0,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 3,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 0,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 4,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 0
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 5,
+        "prizeSetNo": 0,
+        "hp": 0,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 6,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 50,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 7,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 50,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 8,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 50,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 9,
+        "prizeSetNo": 0,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 50
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 10,
+        "prizeSetNo": 50000010,
+        "hp": 100,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 11,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 100,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 12,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 100,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 13,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 100,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 14,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 100
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 15,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 16,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 17,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 18,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 19,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 20,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 21,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 22,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 23,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 24,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 25,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 26,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 27,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 28,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 29,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 30,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 31,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 32,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 33,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 34,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 35,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 36,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 37,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 38,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 39,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 40,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 41,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 42,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 43,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 44,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 45,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 46,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 47,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 48,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 49,
+        "prizeSetNo": 0,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    },
+    {
+        "bonusId": 104,
+        "favolityRank": 50,
+        "prizeSetNo": 50000010,
+        "hp": 200,
+        "power": 150,
+        "magicAttack": 150,
+        "defense": 150,
+        "magicDefense": 150
+    }
+]

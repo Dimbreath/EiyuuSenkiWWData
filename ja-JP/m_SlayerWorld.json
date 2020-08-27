@@ -1,0 +1,38 @@
+[
+    {
+        "worldId": 10120,
+        "slayerCharaSetNo": 20040301,
+        "resourceKind": 1,
+        "resourceId": 11000112
+    },
+    {
+        "worldId": 10160,
+        "slayerCharaSetNo": 20071001,
+        "resourceKind": 1,
+        "resourceId": 11000117
+    },
+    {
+        "worldId": 21500,
+        "slayerCharaSetNo": 20070301,
+        "resourceKind": 1,
+        "resourceId": 11000116
+    },
+    {
+        "worldId": 21600,
+        "slayerCharaSetNo": 20072401,
+        "resourceKind": 1,
+        "resourceId": 0
+    },
+    {
+        "worldId": 50100,
+        "slayerCharaSetNo": 20062601,
+        "resourceKind": 1,
+        "resourceId": 11100001
+    },
+    {
+        "worldId": 50200,
+        "slayerCharaSetNo": 20082101,
+        "resourceKind": 1,
+        "resourceId": 11100001
+    }
+]

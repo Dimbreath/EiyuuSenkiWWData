@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "rank": 1,
+        "textId": 198100001,
+        "imgId": 100,
+        "percentage": 10,
+        "recommendStrength": 12000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 2,
+        "textId": 198100002,
+        "imgId": 90,
+        "percentage": 23,
+        "recommendStrength": 11000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 3,
+        "textId": 198100003,
+        "imgId": 80,
+        "percentage": 39,
+        "recommendStrength": 10000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 4,
+        "textId": 198100004,
+        "imgId": 70,
+        "percentage": 57,
+        "recommendStrength": 9000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 5,
+        "textId": 198100005,
+        "imgId": 60,
+        "percentage": 72,
+        "recommendStrength": 8000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 6,
+        "textId": 198100006,
+        "imgId": 50,
+        "percentage": 82,
+        "recommendStrength": 7000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 7,
+        "textId": 198100007,
+        "imgId": 40,
+        "percentage": 88,
+        "recommendStrength": 6000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 8,
+        "textId": 198100008,
+        "imgId": 30,
+        "percentage": 93,
+        "recommendStrength": 5000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 9,
+        "textId": 198100009,
+        "imgId": 20,
+        "percentage": 97,
+        "recommendStrength": 4000,
+        "basePoint": 0
+    },
+    {
+        "id": 1,
+        "rank": 10,
+        "textId": 198100010,
+        "imgId": 10,
+        "percentage": 100,
+        "recommendStrength": 3000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 1,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 10,
+        "recommendStrength": 12000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 2,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 20,
+        "recommendStrength": 11000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 3,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 30,
+        "recommendStrength": 10000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 4,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 40,
+        "recommendStrength": 9000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 5,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 50,
+        "recommendStrength": 8000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 6,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 60,
+        "recommendStrength": 7000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 7,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 70,
+        "recommendStrength": 6000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 8,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 80,
+        "recommendStrength": 5000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 9,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 90,
+        "recommendStrength": 4000,
+        "basePoint": 0
+    },
+    {
+        "id": 2,
+        "rank": 10,
+        "textId": 198100206,
+        "imgId": 0,
+        "percentage": 100,
+        "recommendStrength": 3000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 1,
+        "textId": 198100001,
+        "imgId": 100,
+        "percentage": 10,
+        "recommendStrength": 12000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 2,
+        "textId": 198100002,
+        "imgId": 90,
+        "percentage": 23,
+        "recommendStrength": 11000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 3,
+        "textId": 198100003,
+        "imgId": 80,
+        "percentage": 39,
+        "recommendStrength": 10000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 4,
+        "textId": 198100004,
+        "imgId": 70,
+        "percentage": 57,
+        "recommendStrength": 9000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 5,
+        "textId": 198100005,
+        "imgId": 60,
+        "percentage": 72,
+        "recommendStrength": 8000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 6,
+        "textId": 198100006,
+        "imgId": 50,
+        "percentage": 82,
+        "recommendStrength": 7000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 7,
+        "textId": 198100007,
+        "imgId": 40,
+        "percentage": 88,
+        "recommendStrength": 6000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 8,
+        "textId": 198100008,
+        "imgId": 30,
+        "percentage": 93,
+        "recommendStrength": 5000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 9,
+        "textId": 198100009,
+        "imgId": 20,
+        "percentage": 97,
+        "recommendStrength": 4000,
+        "basePoint": 0
+    },
+    {
+        "id": 11,
+        "rank": 10,
+        "textId": 198100010,
+        "imgId": 10,
+        "percentage": 100,
+        "recommendStrength": 3000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 1,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 10,
+        "recommendStrength": 12000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 2,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 20,
+        "recommendStrength": 11000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 3,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 30,
+        "recommendStrength": 10000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 4,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 40,
+        "recommendStrength": 9000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 5,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 50,
+        "recommendStrength": 8000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 6,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 60,
+        "recommendStrength": 7000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 7,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 70,
+        "recommendStrength": 6000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 8,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 80,
+        "recommendStrength": 5000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 9,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 90,
+        "recommendStrength": 4000,
+        "basePoint": 0
+    },
+    {
+        "id": 12,
+        "rank": 10,
+        "textId": 198100207,
+        "imgId": 0,
+        "percentage": 100,
+        "recommendStrength": 3000,
+        "basePoint": 0
+    }
+]

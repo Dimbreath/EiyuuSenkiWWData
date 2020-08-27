@@ -1,0 +1,128 @@
+[
+    {
+        "priority": 11,
+        "onFlagId": 31001032,
+        "offFlagId": 31001042,
+        "imgId": 11,
+        "textId": 0
+    },
+    {
+        "priority": 12,
+        "onFlagId": 31001042,
+        "offFlagId": 31001052,
+        "imgId": 12,
+        "textId": 0
+    },
+    {
+        "priority": 13,
+        "onFlagId": 31001052,
+        "offFlagId": 31001062,
+        "imgId": 13,
+        "textId": 0
+    },
+    {
+        "priority": 21,
+        "onFlagId": 31001062,
+        "offFlagId": 31002012,
+        "imgId": 21,
+        "textId": 0
+    },
+    {
+        "priority": 22,
+        "onFlagId": 31002012,
+        "offFlagId": 31002022,
+        "imgId": 22,
+        "textId": 0
+    },
+    {
+        "priority": 23,
+        "onFlagId": 31002022,
+        "offFlagId": 31002032,
+        "imgId": 23,
+        "textId": 0
+    },
+    {
+        "priority": 24,
+        "onFlagId": 31002032,
+        "offFlagId": 31002042,
+        "imgId": 24,
+        "textId": 0
+    },
+    {
+        "priority": 25,
+        "onFlagId": 31002042,
+        "offFlagId": 31002052,
+        "imgId": 25,
+        "textId": 0
+    },
+    {
+        "priority": 31,
+        "onFlagId": 31002052,
+        "offFlagId": 31003012,
+        "imgId": 31,
+        "textId": 0
+    },
+    {
+        "priority": 32,
+        "onFlagId": 31003012,
+        "offFlagId": 31003022,
+        "imgId": 32,
+        "textId": 0
+    },
+    {
+        "priority": 33,
+        "onFlagId": 31003022,
+        "offFlagId": 31003032,
+        "imgId": 33,
+        "textId": 0
+    },
+    {
+        "priority": 34,
+        "onFlagId": 31003032,
+        "offFlagId": 31003042,
+        "imgId": 34,
+        "textId": 0
+    },
+    {
+        "priority": 35,
+        "onFlagId": 31003042,
+        "offFlagId": 31003052,
+        "imgId": 35,
+        "textId": 0
+    },
+    {
+        "priority": 41,
+        "onFlagId": 31003052,
+        "offFlagId": 31004012,
+        "imgId": 41,
+        "textId": 0
+    },
+    {
+        "priority": 42,
+        "onFlagId": 31004012,
+        "offFlagId": 31004022,
+        "imgId": 42,
+        "textId": 0
+    },
+    {
+        "priority": 43,
+        "onFlagId": 31004022,
+        "offFlagId": 31004032,
+        "imgId": 43,
+        "textId": 0
+    },
+    {
+        "priority": 44,
+        "onFlagId": 31004032,
+        "offFlagId": 31004042,
+        "imgId": 44,
+        "textId": 0
+    },
+    {
+        "priority": 45,
+        "onFlagId": 31004042,
+        "offFlagId": 31004052,
+        "imgId": 45,
+        "textId": 0
+    }
+]

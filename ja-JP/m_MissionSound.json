@@ -1,0 +1,394 @@
+[
+    {
+        "worldSetNo": 1,
+        "no": 1,
+        "soundId": 0,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 1,
+        "no": 2,
+        "soundId": 105,
+        "flagId": 31001012,
+        "priority": 2
+    },
+    {
+        "worldSetNo": 1,
+        "no": 3,
+        "soundId": 106,
+        "flagId": 31007031,
+        "priority": 3
+    },
+    {
+        "worldSetNo": 1,
+        "no": 4,
+        "soundId": 103,
+        "flagId": 31009011,
+        "priority": 4
+    },
+    {
+        "worldSetNo": 1,
+        "no": 5,
+        "soundId": 104,
+        "flagId": 31010011,
+        "priority": 5
+    },
+    {
+        "worldSetNo": 1,
+        "no": 6,
+        "soundId": 107,
+        "flagId": 31012011,
+        "priority": 6
+    },
+    {
+        "worldSetNo": 1,
+        "no": 7,
+        "soundId": 0,
+        "flagId": 31012061,
+        "priority": 7
+    },
+    {
+        "worldSetNo": 2,
+        "no": 1,
+        "soundId": 105,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 2,
+        "no": 2,
+        "soundId": 106,
+        "flagId": 31107031,
+        "priority": 3
+    },
+    {
+        "worldSetNo": 2,
+        "no": 3,
+        "soundId": 103,
+        "flagId": 31109011,
+        "priority": 4
+    },
+    {
+        "worldSetNo": 2,
+        "no": 4,
+        "soundId": 104,
+        "flagId": 31110011,
+        "priority": 5
+    },
+    {
+        "worldSetNo": 2,
+        "no": 5,
+        "soundId": 107,
+        "flagId": 31112011,
+        "priority": 6
+    },
+    {
+        "worldSetNo": 2,
+        "no": 6,
+        "soundId": 0,
+        "flagId": 31112061,
+        "priority": 7
+    },
+    {
+        "worldSetNo": 7,
+        "no": 1,
+        "soundId": 107,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 9000,
+        "no": 1,
+        "soundId": 102,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 9000,
+        "no": 2,
+        "soundId": 102,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 9985,
+        "no": 1,
+        "soundId": 101,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 9997,
+        "no": 1,
+        "soundId": 3,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 9998,
+        "no": 1,
+        "soundId": 3,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 9998,
+        "no": 2,
+        "soundId": 3,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 9999,
+        "no": 1,
+        "soundId": 105,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10010,
+        "no": 1,
+        "soundId": 110,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10020,
+        "no": 1,
+        "soundId": 112,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10030,
+        "no": 1,
+        "soundId": 111,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10050,
+        "no": 1,
+        "soundId": 108,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10060,
+        "no": 1,
+        "soundId": 112,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10080,
+        "no": 1,
+        "soundId": 103,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10090,
+        "no": 1,
+        "soundId": 119,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10100,
+        "no": 1,
+        "soundId": 109,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10110,
+        "no": 1,
+        "soundId": 108,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10120,
+        "no": 1,
+        "soundId": 118,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10130,
+        "no": 1,
+        "soundId": 3,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10140,
+        "no": 1,
+        "soundId": 4,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10150,
+        "no": 1,
+        "soundId": 124,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 10160,
+        "no": 1,
+        "soundId": 106,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20010,
+        "no": 1,
+        "soundId": 118,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20020,
+        "no": 1,
+        "soundId": 116,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20300,
+        "no": 1,
+        "soundId": 116,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20400,
+        "no": 1,
+        "soundId": 113,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20500,
+        "no": 1,
+        "soundId": 110,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20600,
+        "no": 1,
+        "soundId": 113,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20700,
+        "no": 1,
+        "soundId": 110,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20800,
+        "no": 1,
+        "soundId": 120,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 20900,
+        "no": 1,
+        "soundId": 120,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21000,
+        "no": 1,
+        "soundId": 116,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21100,
+        "no": 1,
+        "soundId": 109,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21200,
+        "no": 1,
+        "soundId": 4,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21300,
+        "no": 1,
+        "soundId": 110,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21400,
+        "no": 1,
+        "soundId": 104,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21500,
+        "no": 1,
+        "soundId": 110,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21600,
+        "no": 1,
+        "soundId": 5,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21700,
+        "no": 1,
+        "soundId": 5,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 21800,
+        "no": 1,
+        "soundId": 114,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 50100,
+        "no": 1,
+        "soundId": 117,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 50200,
+        "no": 1,
+        "soundId": 116,
+        "flagId": 0,
+        "priority": 1
+    },
+    {
+        "worldSetNo": 99999,
+        "no": 1,
+        "soundId": 12,
+        "flagId": 0,
+        "priority": 1
+    }
+]

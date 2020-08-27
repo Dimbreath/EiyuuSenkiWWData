@@ -1,0 +1,1541 @@
+[
+    {
+        "voiceSetNo": 201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 202,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 702,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 802,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 902,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 1001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 1101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 1201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 1301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 1401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 1402,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 1501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 1601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 1603,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 1701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 1801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 1802,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 1901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 1902,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2103,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 2501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2602,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 2801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 2901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 3202,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 3303,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3304,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 3502,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 3902,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 4102,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 4201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 4901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 5001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5002,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5003,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5103,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5602,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 5901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 6001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6303,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 6901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 7701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9702,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 9901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 10501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 10801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 10802,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 1
+    },
+    {
+        "voiceSetNo": 10901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11802,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 11901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12102,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12702,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 12901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13002,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13602,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13701,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 13901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 14901,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1490,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 15001,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 15201,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 15301,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 15401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 15501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 15601,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 15801,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 16401,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 16501,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    },
+    {
+        "voiceSetNo": 30101,
+        "setNo": 110,
+        "reactionPrm1": 11,
+        "reactionPrm2": 1,
+        "effectNo": 1,
+        "posX": -1,
+        "posY": 0
+    }
+]

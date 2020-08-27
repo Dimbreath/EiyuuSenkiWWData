@@ -1,0 +1,20 @@
+[
+    {
+        "worldId": 101,
+        "apRate": 500,
+        "dropRate": 1000,
+        "appendixId": 0
+    },
+    {
+        "worldId": 102,
+        "apRate": 500,
+        "dropRate": 1000,
+        "appendixId": 0
+    },
+    {
+        "worldId": 90000,
+        "apRate": 1000,
+        "dropRate": 2000,
+        "appendixId": 3
+    }
+]

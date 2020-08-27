@@ -1,0 +1,482 @@
+[
+    {
+        "no": 1,
+        "battleGroupId": 48100301,
+        "textId": 198100113,
+        "recommendStrength": 3000,
+        "dispStrength": 2165,
+        "rank": 10
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100302,
+        "textId": 198100114,
+        "recommendStrength": 3000,
+        "dispStrength": 2218,
+        "rank": 10
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100303,
+        "textId": 198100115,
+        "recommendStrength": 3000,
+        "dispStrength": 2190,
+        "rank": 10
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100401,
+        "textId": 198100110,
+        "recommendStrength": 4000,
+        "dispStrength": 2289,
+        "rank": 9
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100402,
+        "textId": 198100111,
+        "recommendStrength": 4000,
+        "dispStrength": 2194,
+        "rank": 9
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100403,
+        "textId": 198100112,
+        "recommendStrength": 4000,
+        "dispStrength": 2227,
+        "rank": 9
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100501,
+        "textId": 198100107,
+        "recommendStrength": 5000,
+        "dispStrength": 2212,
+        "rank": 8
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100502,
+        "textId": 198100108,
+        "recommendStrength": 5000,
+        "dispStrength": 2278,
+        "rank": 8
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100503,
+        "textId": 198100109,
+        "recommendStrength": 5000,
+        "dispStrength": 2223,
+        "rank": 8
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100601,
+        "textId": 198100104,
+        "recommendStrength": 6000,
+        "dispStrength": 2160,
+        "rank": 7
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100602,
+        "textId": 198100105,
+        "recommendStrength": 6000,
+        "dispStrength": 2214,
+        "rank": 7
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100603,
+        "textId": 198100106,
+        "recommendStrength": 6000,
+        "dispStrength": 2296,
+        "rank": 7
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100701,
+        "textId": 198100101,
+        "recommendStrength": 7000,
+        "dispStrength": 2252,
+        "rank": 6
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100702,
+        "textId": 198100102,
+        "recommendStrength": 7000,
+        "dispStrength": 2216,
+        "rank": 6
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100703,
+        "textId": 198100103,
+        "recommendStrength": 7000,
+        "dispStrength": 2174,
+        "rank": 6
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100801,
+        "textId": 198100113,
+        "recommendStrength": 8000,
+        "dispStrength": 2368,
+        "rank": 5
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100802,
+        "textId": 198100114,
+        "recommendStrength": 8000,
+        "dispStrength": 2170,
+        "rank": 5
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100803,
+        "textId": 198100115,
+        "recommendStrength": 8000,
+        "dispStrength": 2294,
+        "rank": 5
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100901,
+        "textId": 198100110,
+        "recommendStrength": 9000,
+        "dispStrength": 2199,
+        "rank": 4
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100902,
+        "textId": 198100111,
+        "recommendStrength": 9000,
+        "dispStrength": 2236,
+        "rank": 4
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48100903,
+        "textId": 198100112,
+        "recommendStrength": 9000,
+        "dispStrength": 2220,
+        "rank": 4
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101001,
+        "textId": 198100107,
+        "recommendStrength": 10000,
+        "dispStrength": 2414,
+        "rank": 3
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101002,
+        "textId": 198100108,
+        "recommendStrength": 10000,
+        "dispStrength": 2150,
+        "rank": 3
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101003,
+        "textId": 198100109,
+        "recommendStrength": 10000,
+        "dispStrength": 2232,
+        "rank": 3
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101101,
+        "textId": 198100104,
+        "recommendStrength": 11000,
+        "dispStrength": 2288,
+        "rank": 2
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101102,
+        "textId": 198100105,
+        "recommendStrength": 11000,
+        "dispStrength": 2353,
+        "rank": 2
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101103,
+        "textId": 198100106,
+        "recommendStrength": 11000,
+        "dispStrength": 2423,
+        "rank": 2
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101201,
+        "textId": 198100101,
+        "recommendStrength": 12000,
+        "dispStrength": 2178,
+        "rank": 1
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101202,
+        "textId": 198100102,
+        "recommendStrength": 12000,
+        "dispStrength": 2297,
+        "rank": 1
+    },
+    {
+        "no": 1,
+        "battleGroupId": 48101203,
+        "textId": 198100103,
+        "recommendStrength": 12000,
+        "dispStrength": 2327,
+        "rank": 1
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002021,
+        "textId": 198100113,
+        "recommendStrength": 3000,
+        "dispStrength": 1125,
+        "rank": 10
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002022,
+        "textId": 198100114,
+        "recommendStrength": 3000,
+        "dispStrength": 1166,
+        "rank": 10
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002023,
+        "textId": 198100115,
+        "recommendStrength": 3000,
+        "dispStrength": 1120,
+        "rank": 10
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002031,
+        "textId": 198100110,
+        "recommendStrength": 4000,
+        "dispStrength": 1271,
+        "rank": 9
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002032,
+        "textId": 198100111,
+        "recommendStrength": 4000,
+        "dispStrength": 1317,
+        "rank": 9
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002033,
+        "textId": 198100112,
+        "recommendStrength": 4000,
+        "dispStrength": 1344,
+        "rank": 9
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002041,
+        "textId": 198100107,
+        "recommendStrength": 5000,
+        "dispStrength": 1505,
+        "rank": 8
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002042,
+        "textId": 198100108,
+        "recommendStrength": 5000,
+        "dispStrength": 1569,
+        "rank": 8
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002043,
+        "textId": 198100109,
+        "recommendStrength": 5000,
+        "dispStrength": 930,
+        "rank": 8
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002051,
+        "textId": 198100104,
+        "recommendStrength": 6000,
+        "dispStrength": 1430,
+        "rank": 7
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002052,
+        "textId": 198100105,
+        "recommendStrength": 6000,
+        "dispStrength": 1378,
+        "rank": 7
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34002053,
+        "textId": 198100106,
+        "recommendStrength": 6000,
+        "dispStrength": 1446,
+        "rank": 7
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003011,
+        "textId": 198100101,
+        "recommendStrength": 8000,
+        "dispStrength": 991,
+        "rank": 6
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003012,
+        "textId": 198100102,
+        "recommendStrength": 8000,
+        "dispStrength": 1407,
+        "rank": 6
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003013,
+        "textId": 198100103,
+        "recommendStrength": 8000,
+        "dispStrength": 1199,
+        "rank": 6
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003021,
+        "textId": 198100113,
+        "recommendStrength": 10000,
+        "dispStrength": 1092,
+        "rank": 5
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003022,
+        "textId": 198100114,
+        "recommendStrength": 10000,
+        "dispStrength": 1578,
+        "rank": 5
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003023,
+        "textId": 198100115,
+        "recommendStrength": 10000,
+        "dispStrength": 1271,
+        "rank": 5
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003031,
+        "textId": 198100110,
+        "recommendStrength": 12000,
+        "dispStrength": 1411,
+        "rank": 4
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003032,
+        "textId": 198100111,
+        "recommendStrength": 12000,
+        "dispStrength": 1820,
+        "rank": 4
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003033,
+        "textId": 198100112,
+        "recommendStrength": 12000,
+        "dispStrength": 1214,
+        "rank": 4
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003041,
+        "textId": 198100107,
+        "recommendStrength": 15000,
+        "dispStrength": 1248,
+        "rank": 3
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003042,
+        "textId": 198100108,
+        "recommendStrength": 15000,
+        "dispStrength": 1188,
+        "rank": 3
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003043,
+        "textId": 198100109,
+        "recommendStrength": 15000,
+        "dispStrength": 1750,
+        "rank": 3
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003051,
+        "textId": 198100104,
+        "recommendStrength": 18000,
+        "dispStrength": 1537,
+        "rank": 2
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003052,
+        "textId": 198100105,
+        "recommendStrength": 18000,
+        "dispStrength": 1907,
+        "rank": 2
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34003053,
+        "textId": 198100106,
+        "recommendStrength": 18000,
+        "dispStrength": 1332,
+        "rank": 2
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34004021,
+        "textId": 198100101,
+        "recommendStrength": 21000,
+        "dispStrength": 1454,
+        "rank": 1
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34004022,
+        "textId": 198100102,
+        "recommendStrength": 21000,
+        "dispStrength": 1945,
+        "rank": 1
+    },
+    {
+        "no": 99999,
+        "battleGroupId": 34004023,
+        "textId": 198100103,
+        "recommendStrength": 21000,
+        "dispStrength": 1913,
+        "rank": 1
+    }
+]

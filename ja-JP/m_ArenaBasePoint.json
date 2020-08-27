@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "strength": 0,
+        "point": 100
+    },
+    {
+        "id": 2,
+        "strength": 1000,
+        "point": 105
+    },
+    {
+        "id": 3,
+        "strength": 1500,
+        "point": 110
+    },
+    {
+        "id": 4,
+        "strength": 2000,
+        "point": 115
+    },
+    {
+        "id": 5,
+        "strength": 2500,
+        "point": 120
+    },
+    {
+        "id": 6,
+        "strength": 3000,
+        "point": 125
+    },
+    {
+        "id": 7,
+        "strength": 3500,
+        "point": 130
+    },
+    {
+        "id": 8,
+        "strength": 4000,
+        "point": 135
+    },
+    {
+        "id": 9,
+        "strength": 4500,
+        "point": 140
+    },
+    {
+        "id": 10,
+        "strength": 5000,
+        "point": 145
+    },
+    {
+        "id": 11,
+        "strength": 5500,
+        "point": 150
+    },
+    {
+        "id": 12,
+        "strength": 6000,
+        "point": 155
+    },
+    {
+        "id": 13,
+        "strength": 6500,
+        "point": 160
+    },
+    {
+        "id": 14,
+        "strength": 7000,
+        "point": 165
+    },
+    {
+        "id": 15,
+        "strength": 7500,
+        "point": 170
+    },
+    {
+        "id": 16,
+        "strength": 8000,
+        "point": 175
+    },
+    {
+        "id": 17,
+        "strength": 8500,
+        "point": 180
+    },
+    {
+        "id": 18,
+        "strength": 9000,
+        "point": 185
+    },
+    {
+        "id": 19,
+        "strength": 9500,
+        "point": 190
+    },
+    {
+        "id": 20,
+        "strength": 10000,
+        "point": 200
+    },
+    {
+        "id": 21,
+        "strength": 11000,
+        "point": 210
+    },
+    {
+        "id": 22,
+        "strength": 12000,
+        "point": 220
+    },
+    {
+        "id": 23,
+        "strength": 13000,
+        "point": 230
+    },
+    {
+        "id": 24,
+        "strength": 14000,
+        "point": 240
+    },
+    {
+        "id": 25,
+        "strength": 15000,
+        "point": 250
+    },
+    {
+        "id": 26,
+        "strength": 16000,
+        "point": 260
+    },
+    {
+        "id": 27,
+        "strength": 17000,
+        "point": 270
+    },
+    {
+        "id": 28,
+        "strength": 18000,
+        "point": 280
+    },
+    {
+        "id": 29,
+        "strength": 19000,
+        "point": 290
+    },
+    {
+        "id": 30,
+        "strength": 20000,
+        "point": 300
+    },
+    {
+        "id": 31,
+        "strength": 21000,
+        "point": 310
+    },
+    {
+        "id": 32,
+        "strength": 22000,
+        "point": 320
+    },
+    {
+        "id": 33,
+        "strength": 23000,
+        "point": 330
+    },
+    {
+        "id": 34,
+        "strength": 24000,
+        "point": 340
+    },
+    {
+        "id": 35,
+        "strength": 25000,
+        "point": 350
+    },
+    {
+        "id": 36,
+        "strength": 26000,
+        "point": 360
+    },
+    {
+        "id": 37,
+        "strength": 27000,
+        "point": 370
+    },
+    {
+        "id": 38,
+        "strength": 28000,
+        "point": 380
+    },
+    {
+        "id": 39,
+        "strength": 29000,
+        "point": 390
+    },
+    {
+        "id": 40,
+        "strength": 30000,
+        "point": 400
+    }
+]

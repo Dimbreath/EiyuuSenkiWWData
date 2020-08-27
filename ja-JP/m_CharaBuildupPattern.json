@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 110,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 120,
+        "limitHp": 750,
+        "limitPower": 300,
+        "limitMagicAttack": 300,
+        "limitDefense": 300,
+        "limitMagicDefense": 300
+    },
+    {
+        "id": 130,
+        "limitHp": 750,
+        "limitPower": 300,
+        "limitMagicAttack": 300,
+        "limitDefense": 300,
+        "limitMagicDefense": 300
+    },
+    {
+        "id": 140,
+        "limitHp": 750,
+        "limitPower": 300,
+        "limitMagicAttack": 300,
+        "limitDefense": 300,
+        "limitMagicDefense": 300
+    },
+    {
+        "id": 150,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 210,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 215,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 220,
+        "limitHp": 1000,
+        "limitPower": 500,
+        "limitMagicAttack": 0,
+        "limitDefense": 250,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 225,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 500,
+        "limitDefense": 250,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 230,
+        "limitHp": 1000,
+        "limitPower": 500,
+        "limitMagicAttack": 0,
+        "limitDefense": 250,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 235,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 500,
+        "limitDefense": 250,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 240,
+        "limitHp": 1000,
+        "limitPower": 500,
+        "limitMagicAttack": 0,
+        "limitDefense": 250,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 245,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 500,
+        "limitDefense": 250,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 250,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 255,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 310,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 315,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 320,
+        "limitHp": 1000,
+        "limitPower": 250,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 325,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 250,
+        "limitDefense": 250,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 330,
+        "limitHp": 1000,
+        "limitPower": 250,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 335,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 250,
+        "limitDefense": 250,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 340,
+        "limitHp": 1000,
+        "limitPower": 250,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 345,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 250,
+        "limitDefense": 250,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 350,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 355,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 410,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 420,
+        "limitHp": 500,
+        "limitPower": 500,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 430,
+        "limitHp": 500,
+        "limitPower": 500,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 440,
+        "limitHp": 500,
+        "limitPower": 500,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 250
+    },
+    {
+        "id": 450,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 510,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 520,
+        "limitHp": 500,
+        "limitPower": 0,
+        "limitMagicAttack": 500,
+        "limitDefense": 250,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 530,
+        "limitHp": 500,
+        "limitPower": 0,
+        "limitMagicAttack": 500,
+        "limitDefense": 250,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 540,
+        "limitHp": 500,
+        "limitPower": 0,
+        "limitMagicAttack": 500,
+        "limitDefense": 250,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 550,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 610,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 620,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 630,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 640,
+        "limitHp": 1000,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 650,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 710,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 720,
+        "limitHp": 750,
+        "limitPower": 150,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 730,
+        "limitHp": 750,
+        "limitPower": 150,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 740,
+        "limitHp": 750,
+        "limitPower": 150,
+        "limitMagicAttack": 0,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 750,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 810,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    },
+    {
+        "id": 820,
+        "limitHp": 750,
+        "limitPower": 0,
+        "limitMagicAttack": 150,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 830,
+        "limitHp": 750,
+        "limitPower": 0,
+        "limitMagicAttack": 150,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 840,
+        "limitHp": 750,
+        "limitPower": 0,
+        "limitMagicAttack": 150,
+        "limitDefense": 500,
+        "limitMagicDefense": 500
+    },
+    {
+        "id": 850,
+        "limitHp": 0,
+        "limitPower": 0,
+        "limitMagicAttack": 0,
+        "limitDefense": 0,
+        "limitMagicDefense": 0
+    }
+]

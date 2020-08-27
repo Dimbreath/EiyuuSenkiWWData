@@ -1,0 +1,79 @@
+[
+    {
+        "id": 501,
+        "no": 1,
+        "textId": 1991005012,
+        "useResourceKind": 14,
+        "useResourceId": 17010510,
+        "prizeResourceKind": 1,
+        "prizeResourceId": 11100001,
+        "reverseRate": 1,
+        "prizeUnit": 20
+    },
+    {
+        "id": 501,
+        "no": 2,
+        "textId": 1991005012,
+        "useResourceKind": 1,
+        "useResourceId": 11100001,
+        "prizeResourceKind": 1,
+        "prizeResourceId": 11100002,
+        "reverseRate": 100,
+        "prizeUnit": 1
+    },
+    {
+        "id": 502,
+        "no": 1,
+        "textId": 1991005022,
+        "useResourceKind": 14,
+        "useResourceId": 17010510,
+        "prizeResourceKind": 1,
+        "prizeResourceId": 11100001,
+        "reverseRate": 1,
+        "prizeUnit": 20
+    },
+    {
+        "id": 502,
+        "no": 2,
+        "textId": 1991005022,
+        "useResourceKind": 1,
+        "useResourceId": 11100001,
+        "prizeResourceKind": 1,
+        "prizeResourceId": 11100002,
+        "reverseRate": 100,
+        "prizeUnit": 1
+    },
+    {
+        "id": 999999,
+        "no": 2,
+        "textId": 0,
+        "useResourceKind": 3,
+        "useResourceId": 0,
+        "prizeResourceKind": 1,
+        "prizeResourceId": 11999902,
+        "reverseRate": 50,
+        "prizeUnit": 1
+    },
+    {
+        "id": 999999,
+        "no": 3,
+        "textId": 0,
+        "useResourceKind": 14,
+        "useResourceId": 17010510,
+        "prizeResourceKind": 1,
+        "prizeResourceId": 11999902,
+        "reverseRate": 1,
+        "prizeUnit": 1
+    },
+    {
+        "id": 999999,
+        "no": 4,
+        "textId": 0,
+        "useResourceKind": 1,
+        "useResourceId": 11999902,
+        "prizeResourceKind": 1,
+        "prizeResourceId": 11999901,
+        "reverseRate": 10,
+        "prizeUnit": 1
+    }
+]

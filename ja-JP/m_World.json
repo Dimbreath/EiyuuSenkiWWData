@@ -1,0 +1,470 @@
+[
+    {
+        "id": 2,
+        "worldSetNo": 9999,
+        "showCate": 2,
+        "textId": 180000002,
+        "imgId": 0,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 3,
+        "worldSetNo": 9000,
+        "showCate": 3,
+        "textId": 180000003,
+        "imgId": 0,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 4,
+        "worldSetNo": 9999,
+        "showCate": 4,
+        "textId": 180000004,
+        "imgId": 0,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 5,
+        "worldSetNo": 9985,
+        "showCate": 5,
+        "textId": 180000005,
+        "imgId": 5,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 6,
+        "worldSetNo": 9986,
+        "showCate": 6,
+        "textId": 180000006,
+        "imgId": 6,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 7,
+        "worldSetNo": 7,
+        "showCate": 7,
+        "textId": 180000007,
+        "imgId": 7,
+        "flagId": 31012062,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 101,
+        "worldSetNo": 1,
+        "showCate": 1,
+        "textId": 180000101,
+        "imgId": 101,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 102,
+        "worldSetNo": 2,
+        "showCate": 1,
+        "textId": 180000102,
+        "imgId": 102,
+        "flagId": 31012062,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 9999,
+        "worldSetNo": 99999,
+        "showCate": 3,
+        "textId": 180009999,
+        "imgId": 3100,
+        "flagId": 999999,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10010,
+        "worldSetNo": 10010,
+        "showCate": 3,
+        "textId": 180010010,
+        "imgId": 10030,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10020,
+        "worldSetNo": 10020,
+        "showCate": 3,
+        "textId": 180010020,
+        "imgId": 10020,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10030,
+        "worldSetNo": 10030,
+        "showCate": 3,
+        "textId": 180010030,
+        "imgId": 10040,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10050,
+        "worldSetNo": 10050,
+        "showCate": 3,
+        "textId": 180010050,
+        "imgId": 10050,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10060,
+        "worldSetNo": 10060,
+        "showCate": 3,
+        "textId": 180010060,
+        "imgId": 10060,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10080,
+        "worldSetNo": 10080,
+        "showCate": 3,
+        "textId": 180010080,
+        "imgId": 10080,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10090,
+        "worldSetNo": 10090,
+        "showCate": 3,
+        "textId": 180010090,
+        "imgId": 10090,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10100,
+        "worldSetNo": 10100,
+        "showCate": 3,
+        "textId": 180010100,
+        "imgId": 10100,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10110,
+        "worldSetNo": 10110,
+        "showCate": 3,
+        "textId": 133111000,
+        "imgId": 10110,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10120,
+        "worldSetNo": 10120,
+        "showCate": 3,
+        "textId": 133112000,
+        "imgId": 10120,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10130,
+        "worldSetNo": 10130,
+        "showCate": 3,
+        "textId": 133113000,
+        "imgId": 10130,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10140,
+        "worldSetNo": 10140,
+        "showCate": 3,
+        "textId": 133114000,
+        "imgId": 10140,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10150,
+        "worldSetNo": 10150,
+        "showCate": 3,
+        "textId": 133115000,
+        "imgId": 10150,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 10160,
+        "worldSetNo": 10160,
+        "showCate": 3,
+        "textId": 133116000,
+        "imgId": 10160,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 20010,
+        "worldSetNo": 20010,
+        "showCate": 3,
+        "textId": 180020010,
+        "imgId": 20010,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 20020,
+        "worldSetNo": 20020,
+        "showCate": 3,
+        "textId": 180020020,
+        "imgId": 20020,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 20300,
+        "worldSetNo": 20300,
+        "showCate": 3,
+        "textId": 180020300,
+        "imgId": 20300,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 20400,
+        "worldSetNo": 20400,
+        "showCate": 3,
+        "textId": 180020400,
+        "imgId": 20400,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 20500,
+        "worldSetNo": 20500,
+        "showCate": 3,
+        "textId": 180020500,
+        "imgId": 20500,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 20600,
+        "worldSetNo": 20600,
+        "showCate": 3,
+        "textId": 180020600,
+        "imgId": 20600,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 20700,
+        "worldSetNo": 20700,
+        "showCate": 3,
+        "textId": 180020700,
+        "imgId": 20700,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 20800,
+        "worldSetNo": 20800,
+        "showCate": 3,
+        "textId": 180020800,
+        "imgId": 20800,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 20900,
+        "worldSetNo": 20900,
+        "showCate": 3,
+        "textId": 180020900,
+        "imgId": 20900,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 21000,
+        "worldSetNo": 21000,
+        "showCate": 3,
+        "textId": 180021000,
+        "imgId": 21000,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 21100,
+        "worldSetNo": 21100,
+        "showCate": 3,
+        "textId": 180021100,
+        "imgId": 21100,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 21200,
+        "worldSetNo": 21200,
+        "showCate": 3,
+        "textId": 180021200,
+        "imgId": 21200,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 21300,
+        "worldSetNo": 21300,
+        "showCate": 3,
+        "textId": 180021300,
+        "imgId": 21300,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 21400,
+        "worldSetNo": 21400,
+        "showCate": 3,
+        "textId": 180021400,
+        "imgId": 21400,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 21500,
+        "worldSetNo": 21500,
+        "showCate": 3,
+        "textId": 180021500,
+        "imgId": 21500,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 21600,
+        "worldSetNo": 21600,
+        "showCate": 3,
+        "textId": 180021600,
+        "imgId": 21600,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 21700,
+        "worldSetNo": 21700,
+        "showCate": 3,
+        "textId": 180021700,
+        "imgId": 21700,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 21800,
+        "worldSetNo": 21800,
+        "showCate": 3,
+        "textId": 180021800,
+        "imgId": 21800,
+        "flagId": 0,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 50100,
+        "worldSetNo": 50100,
+        "showCate": 3,
+        "textId": 180050100,
+        "imgId": 50100,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 50200,
+        "worldSetNo": 50200,
+        "showCate": 3,
+        "textId": 180050200,
+        "imgId": 50200,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 90000,
+        "worldSetNo": 9000,
+        "showCate": 3,
+        "textId": 180090000,
+        "imgId": 3000,
+        "flagId": 31001062,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 90010,
+        "worldSetNo": 9000,
+        "showCate": 3,
+        "textId": 180090010,
+        "imgId": 3100,
+        "flagId": 31001062,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 90020,
+        "worldSetNo": 9000,
+        "showCate": 3,
+        "textId": 180090020,
+        "imgId": 3200,
+        "flagId": 31001062,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 90030,
+        "worldSetNo": 9000,
+        "showCate": 3,
+        "textId": 180090030,
+        "imgId": 3300,
+        "flagId": 31001062,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 90040,
+        "worldSetNo": 9000,
+        "showCate": 3,
+        "textId": 180090040,
+        "imgId": 3400,
+        "flagId": 31001062,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 90050,
+        "worldSetNo": 9000,
+        "showCate": 3,
+        "textId": 180090050,
+        "imgId": 3500,
+        "flagId": 31001062,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 99970,
+        "worldSetNo": 9997,
+        "showCate": 3,
+        "textId": 180099970,
+        "imgId": 9997,
+        "flagId": 31001032,
+        "nationSkipFlag": true
+    },
+    {
+        "id": 99980,
+        "worldSetNo": 9998,
+        "showCate": 3,
+        "textId": 180099980,
+        "imgId": 9998,
+        "flagId": 0,
+        "nationSkipFlag": false
+    },
+    {
+        "id": 999990,
+        "worldSetNo": 99999,
+        "showCate": 3,
+        "textId": 180999990,
+        "imgId": 3100,
+        "flagId": 999999,
+        "nationSkipFlag": false
+    }
+]

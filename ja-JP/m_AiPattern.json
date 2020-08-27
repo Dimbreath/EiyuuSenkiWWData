@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "skillType": 0,
+        "selectType1": 12,
+        "selectType2": 12,
+        "selectType3": 12
+    },
+    {
+        "id": 101,
+        "skillType": 1,
+        "selectType1": 1,
+        "selectType2": 9,
+        "selectType3": 9
+    },
+    {
+        "id": 102,
+        "skillType": 1,
+        "selectType1": 2,
+        "selectType2": 9,
+        "selectType3": 9
+    },
+    {
+        "id": 103,
+        "skillType": 1,
+        "selectType1": 3,
+        "selectType2": 5,
+        "selectType3": 1
+    },
+    {
+        "id": 104,
+        "skillType": 1,
+        "selectType1": 4,
+        "selectType2": 6,
+        "selectType3": 1
+    },
+    {
+        "id": 105,
+        "skillType": 1,
+        "selectType1": 5,
+        "selectType2": 7,
+        "selectType3": 9
+    },
+    {
+        "id": 106,
+        "skillType": 1,
+        "selectType1": 6,
+        "selectType2": 7,
+        "selectType3": 9
+    },
+    {
+        "id": 107,
+        "skillType": 1,
+        "selectType1": 9,
+        "selectType2": 1,
+        "selectType3": 7
+    },
+    {
+        "id": 108,
+        "skillType": 1,
+        "selectType1": 10,
+        "selectType2": 1,
+        "selectType3": 7
+    },
+    {
+        "id": 109,
+        "skillType": 1,
+        "selectType1": 11,
+        "selectType2": 1,
+        "selectType3": 7
+    },
+    {
+        "id": 201,
+        "skillType": 2,
+        "selectType1": 2,
+        "selectType2": 7,
+        "selectType3": 5
+    },
+    {
+        "id": 202,
+        "skillType": 3,
+        "selectType1": 2,
+        "selectType2": 7,
+        "selectType3": 5
+    },
+    {
+        "id": 203,
+        "skillType": 4,
+        "selectType1": 2,
+        "selectType2": 7,
+        "selectType3": 6
+    },
+    {
+        "id": 301,
+        "skillType": 2,
+        "selectType1": 4,
+        "selectType2": 6,
+        "selectType3": 8
+    },
+    {
+        "id": 401,
+        "skillType": 1,
+        "selectType1": 1,
+        "selectType2": 6,
+        "selectType3": 4
+    },
+    {
+        "id": 402,
+        "skillType": 4,
+        "selectType1": 1,
+        "selectType2": 6,
+        "selectType3": 4
+    }
+]

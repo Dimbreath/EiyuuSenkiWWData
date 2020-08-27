@@ -1,0 +1,5690 @@
+[
+    {
+        "worldId": 101,
+        "evaluateId": 10110001,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 100,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110002,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 2,
+        "score": 200,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110003,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 3,
+        "score": 300,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110004,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 4,
+        "score": 400,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110005,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 5,
+        "score": 500,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110006,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 6,
+        "score": 600,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110007,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 7,
+        "score": 700,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110008,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 8,
+        "score": 800,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110009,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 9,
+        "score": 900,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10110010,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 10,
+        "score": 1000,
+        "textId": 151009401
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123001,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 1,
+        "score": 600,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123002,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 10,
+        "score": 6000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123003,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 20,
+        "score": 12000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123004,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 30,
+        "score": 18000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123005,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 40,
+        "score": 24000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123006,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 50,
+        "score": 30000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123007,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 60,
+        "score": 36000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123008,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 70,
+        "score": 42000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123009,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 80,
+        "score": 48000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123010,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 90,
+        "score": 54000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123011,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 100,
+        "score": 60000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123012,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 110,
+        "score": 66000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123013,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 120,
+        "score": 72000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123014,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 130,
+        "score": 78000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123015,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 140,
+        "score": 84000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123016,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 150,
+        "score": 90000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123017,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 160,
+        "score": 96000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123018,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 180,
+        "score": 108000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123019,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 200,
+        "score": 120000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123020,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 220,
+        "score": 132000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123021,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 240,
+        "score": 144000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123022,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 260,
+        "score": 156000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123023,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 280,
+        "score": 168000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10123024,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 300,
+        "score": 180000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124001,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 1,
+        "score": 700,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124002,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 10,
+        "score": 7070,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124003,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 20,
+        "score": 14280,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124004,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 30,
+        "score": 21420,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124005,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 40,
+        "score": 28840,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124006,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 50,
+        "score": 36050,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124007,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 60,
+        "score": 43680,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124008,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 70,
+        "score": 50960,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124009,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 80,
+        "score": 58800,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124010,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 90,
+        "score": 66150,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124011,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 100,
+        "score": 74200,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124012,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 110,
+        "score": 81620,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124013,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 120,
+        "score": 89880,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124014,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 130,
+        "score": 98280,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124015,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 140,
+        "score": 105840,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124016,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 150,
+        "score": 113400,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124017,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 160,
+        "score": 120960,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124018,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 180,
+        "score": 136080,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124019,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 200,
+        "score": 151200,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124020,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 220,
+        "score": 166320,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124021,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 240,
+        "score": 181440,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124022,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 260,
+        "score": 196560,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124023,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 280,
+        "score": 211680,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10124024,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 300,
+        "score": 226800,
+        "textId": 151009412
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125001,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 1,
+        "score": 800,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125002,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 10,
+        "score": 8080,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125003,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 20,
+        "score": 16320,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125004,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 30,
+        "score": 24480,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125005,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 40,
+        "score": 32960,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125006,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 50,
+        "score": 41200,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125007,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 60,
+        "score": 49920,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125008,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 70,
+        "score": 58240,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125009,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 80,
+        "score": 67200,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125010,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 90,
+        "score": 75600,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125011,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 100,
+        "score": 84800,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125012,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 110,
+        "score": 93280,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125013,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 120,
+        "score": 102720,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125014,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 130,
+        "score": 112320,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125015,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 140,
+        "score": 120960,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125016,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 150,
+        "score": 129600,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125017,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 160,
+        "score": 138240,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125018,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 180,
+        "score": 154080,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125019,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 200,
+        "score": 172800,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125020,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 220,
+        "score": 190080,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125021,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 240,
+        "score": 207360,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125022,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 260,
+        "score": 224640,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125023,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 280,
+        "score": 241920,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10125024,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 300,
+        "score": 259200,
+        "textId": 151009411
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130101,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 1,
+        "score": 150,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130102,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 5,
+        "score": 758,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130103,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 10,
+        "score": 1530,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130104,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 20,
+        "score": 3090,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130105,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 30,
+        "score": 4680,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130106,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 40,
+        "score": 6300,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130107,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 50,
+        "score": 7950,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130108,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 60,
+        "score": 9630,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130109,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 70,
+        "score": 11340,
+        "textId": 110001011
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130201,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 1,
+        "score": 200,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130202,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 5,
+        "score": 1010,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130203,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 10,
+        "score": 2040,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130204,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 20,
+        "score": 4120,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130205,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 30,
+        "score": 6240,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130206,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 40,
+        "score": 8400,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130207,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 50,
+        "score": 10600,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130208,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 60,
+        "score": 12840,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130209,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 70,
+        "score": 15120,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130210,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 80,
+        "score": 16640,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130211,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 90,
+        "score": 18900,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130212,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 100,
+        "score": 21200,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130213,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 110,
+        "score": 23540,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130214,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 120,
+        "score": 25920,
+        "textId": 110001031
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130301,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 1,
+        "score": 60,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130302,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 5,
+        "score": 303,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130303,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 10,
+        "score": 612,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130304,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 20,
+        "score": 1236,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130305,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 30,
+        "score": 1872,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130306,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 40,
+        "score": 2520,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130307,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 50,
+        "score": 3180,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130308,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 60,
+        "score": 3852,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130309,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 70,
+        "score": 4536,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130310,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 80,
+        "score": 4992,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130311,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 90,
+        "score": 5670,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130312,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 100,
+        "score": 6360,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130313,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 110,
+        "score": 7062,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130314,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 120,
+        "score": 7776,
+        "textId": 110001044
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130401,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 1,
+        "score": 80,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130402,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 5,
+        "score": 404,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130403,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 10,
+        "score": 816,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130404,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 20,
+        "score": 1648,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130405,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 30,
+        "score": 2496,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130406,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 40,
+        "score": 3360,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130407,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 50,
+        "score": 4240,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130408,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 60,
+        "score": 5136,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130409,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 70,
+        "score": 6048,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130410,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 80,
+        "score": 6656,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130411,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 90,
+        "score": 7560,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130412,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 100,
+        "score": 8480,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130413,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 110,
+        "score": 9416,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130414,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 120,
+        "score": 10368,
+        "textId": 110001043
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130501,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 1,
+        "score": 120,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130502,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 5,
+        "score": 606,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130503,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 10,
+        "score": 1224,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130504,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 20,
+        "score": 2472,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130505,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 30,
+        "score": 3744,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130506,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 40,
+        "score": 5040,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130507,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 50,
+        "score": 6360,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130508,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 60,
+        "score": 7704,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130509,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 70,
+        "score": 9072,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130510,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 80,
+        "score": 9984,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130511,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 90,
+        "score": 11340,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130512,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 100,
+        "score": 12720,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130513,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 110,
+        "score": 14124,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130514,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 120,
+        "score": 15552,
+        "textId": 110001042
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130601,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 1,
+        "score": 160,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130602,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 5,
+        "score": 808,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130603,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 10,
+        "score": 1632,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130604,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 20,
+        "score": 3296,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130605,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 30,
+        "score": 4992,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130606,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 40,
+        "score": 6720,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130607,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 50,
+        "score": 8480,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130608,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 60,
+        "score": 10272,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130609,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 70,
+        "score": 12096,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130610,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 80,
+        "score": 13312,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130611,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 90,
+        "score": 15120,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130612,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 100,
+        "score": 16960,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130613,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 110,
+        "score": 18832,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130614,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 120,
+        "score": 20736,
+        "textId": 110001041
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130701,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130702,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130703,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130704,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130705,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130706,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130707,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130708,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130709,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130710,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130711,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130712,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130713,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130714,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001051
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130801,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 1,
+        "score": 120,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130802,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 5,
+        "score": 606,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130803,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 10,
+        "score": 1224,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130804,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 20,
+        "score": 2472,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130805,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 30,
+        "score": 3744,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130806,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 40,
+        "score": 5040,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130807,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 50,
+        "score": 6360,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130808,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 60,
+        "score": 7704,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130809,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 70,
+        "score": 9072,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130810,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 80,
+        "score": 9984,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130811,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 90,
+        "score": 11340,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130812,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 100,
+        "score": 12720,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130813,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 110,
+        "score": 14124,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130814,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 120,
+        "score": 15552,
+        "textId": 110001061
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130901,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 1,
+        "score": 200,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130902,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 5,
+        "score": 1010,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130903,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 10,
+        "score": 2040,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130904,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 20,
+        "score": 4120,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130905,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 30,
+        "score": 6240,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130906,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 40,
+        "score": 8400,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130907,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 50,
+        "score": 10600,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130908,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 60,
+        "score": 12840,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130909,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 70,
+        "score": 15120,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130910,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 80,
+        "score": 16640,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130911,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 90,
+        "score": 18900,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130912,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 100,
+        "score": 21200,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130913,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 110,
+        "score": 23540,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10130914,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 120,
+        "score": 25920,
+        "textId": 110001091
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131001,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131002,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131003,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131004,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131005,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131006,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131007,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131008,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131009,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131010,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131011,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131012,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131013,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131014,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001081
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131101,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131102,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131103,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131104,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131105,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131106,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131107,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131108,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131109,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131110,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131111,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131112,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131113,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131114,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001101
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131201,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 1,
+        "score": 200,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131202,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 5,
+        "score": 1010,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131203,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 10,
+        "score": 2040,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131204,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 20,
+        "score": 4120,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131205,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 30,
+        "score": 6240,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131206,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 40,
+        "score": 8400,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131207,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 50,
+        "score": 10600,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131208,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 60,
+        "score": 12840,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131209,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 70,
+        "score": 15120,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131210,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 80,
+        "score": 16640,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131211,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 90,
+        "score": 18900,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131212,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 100,
+        "score": 21200,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131213,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 110,
+        "score": 23540,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131214,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 120,
+        "score": 25920,
+        "textId": 110001111
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131301,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131302,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131303,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131304,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131305,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131306,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131307,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131308,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131309,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131310,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131311,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131312,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131313,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131314,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001071
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131401,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131402,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131403,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131404,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131405,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131406,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131407,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131408,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131409,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131410,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131411,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131412,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131413,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131414,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001161
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131501,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131502,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131503,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131504,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131505,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131506,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131507,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131508,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131509,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131510,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131511,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131512,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131513,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10131514,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001021
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140001,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 250,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140002,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 5,
+        "score": 1263,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140003,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 10,
+        "score": 2550,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140004,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 20,
+        "score": 5150,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140005,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 30,
+        "score": 7800,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140006,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 40,
+        "score": 10500,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140007,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 50,
+        "score": 13250,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140008,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 60,
+        "score": 16050,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140009,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 70,
+        "score": 18900,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140010,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 80,
+        "score": 20800,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140011,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 90,
+        "score": 23625,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140012,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 100,
+        "score": 26500,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140013,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 110,
+        "score": 29425,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10140014,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 120,
+        "score": 32400,
+        "textId": 151009402
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10150001,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 20,
+        "score": 250,
+        "textId": 151009403
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10150002,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 16,
+        "score": 1263,
+        "textId": 151009403
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10150003,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 12,
+        "score": 2295,
+        "textId": 151009403
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10150004,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 8,
+        "score": 3348,
+        "textId": 151009403
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10150005,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 4,
+        "score": 4420,
+        "textId": 151009403
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10150006,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 5250,
+        "textId": 151009403
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160001,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 30,
+        "score": 150,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160002,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 26,
+        "score": 758,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160003,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 22,
+        "score": 1377,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160004,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 18,
+        "score": 2009,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160005,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 14,
+        "score": 2652,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160006,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 10,
+        "score": 3308,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160007,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 6,
+        "score": 3975,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160008,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 3,
+        "score": 4494,
+        "textId": 151009404
+    },
+    {
+        "worldId": 101,
+        "evaluateId": 10160009,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 4860,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210001,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 100,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210002,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 2,
+        "score": 200,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210003,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 3,
+        "score": 300,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210004,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 4,
+        "score": 400,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210005,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 5,
+        "score": 500,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210006,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 6,
+        "score": 600,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210007,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 7,
+        "score": 700,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210008,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 8,
+        "score": 800,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210009,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 9,
+        "score": 900,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10210010,
+        "kind": 1,
+        "prm1": 0,
+        "prm2": 10,
+        "score": 1000,
+        "textId": 151009401
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223001,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 1,
+        "score": 600,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223002,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 10,
+        "score": 6000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223003,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 20,
+        "score": 12000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223004,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 30,
+        "score": 18000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223005,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 40,
+        "score": 24000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223006,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 50,
+        "score": 30000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223007,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 60,
+        "score": 36000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223008,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 70,
+        "score": 42000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223009,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 80,
+        "score": 48000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223010,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 90,
+        "score": 54000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223011,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 100,
+        "score": 60000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223012,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 110,
+        "score": 66000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223013,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 120,
+        "score": 72000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223014,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 130,
+        "score": 78000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223015,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 140,
+        "score": 84000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223016,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 150,
+        "score": 90000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223017,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 160,
+        "score": 96000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223018,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 180,
+        "score": 108000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223019,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 200,
+        "score": 120000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223020,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 220,
+        "score": 132000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223021,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 240,
+        "score": 144000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223022,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 260,
+        "score": 156000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223023,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 280,
+        "score": 168000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10223024,
+        "kind": 2,
+        "prm1": 3,
+        "prm2": 300,
+        "score": 180000,
+        "textId": 151009413
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224001,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 1,
+        "score": 700,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224002,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 10,
+        "score": 7070,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224003,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 20,
+        "score": 14280,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224004,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 30,
+        "score": 21420,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224005,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 40,
+        "score": 28840,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224006,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 50,
+        "score": 36050,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224007,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 60,
+        "score": 43680,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224008,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 70,
+        "score": 50960,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224009,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 80,
+        "score": 58800,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224010,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 90,
+        "score": 66150,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224011,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 100,
+        "score": 74200,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224012,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 110,
+        "score": 81620,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224013,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 120,
+        "score": 89880,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224014,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 130,
+        "score": 98280,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224015,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 140,
+        "score": 105840,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224016,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 150,
+        "score": 113400,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224017,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 160,
+        "score": 120960,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224018,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 180,
+        "score": 133560,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224019,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 200,
+        "score": 148400,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224020,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 220,
+        "score": 164780,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224021,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 240,
+        "score": 181440,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224022,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 260,
+        "score": 196560,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224023,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 280,
+        "score": 211680,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10224024,
+        "kind": 2,
+        "prm1": 4,
+        "prm2": 300,
+        "score": 226800,
+        "textId": 151009412
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225001,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 1,
+        "score": 800,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225002,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 10,
+        "score": 8080,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225003,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 20,
+        "score": 16320,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225004,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 30,
+        "score": 24480,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225005,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 40,
+        "score": 32960,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225006,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 50,
+        "score": 41200,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225007,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 60,
+        "score": 49920,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225008,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 70,
+        "score": 58240,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225009,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 80,
+        "score": 67200,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225010,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 90,
+        "score": 75600,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225011,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 100,
+        "score": 84800,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225012,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 110,
+        "score": 93280,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225013,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 120,
+        "score": 102720,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225014,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 130,
+        "score": 112320,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225015,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 140,
+        "score": 120960,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225016,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 150,
+        "score": 129600,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225017,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 160,
+        "score": 138240,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225018,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 180,
+        "score": 152640,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225019,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 200,
+        "score": 169600,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225020,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 220,
+        "score": 188320,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225021,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 240,
+        "score": 207360,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225022,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 260,
+        "score": 224640,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225023,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 280,
+        "score": 241920,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10225024,
+        "kind": 2,
+        "prm1": 5,
+        "prm2": 300,
+        "score": 259200,
+        "textId": 151009411
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230101,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 1,
+        "score": 150,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230102,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 5,
+        "score": 758,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230103,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 10,
+        "score": 1530,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230104,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 20,
+        "score": 3090,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230105,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 30,
+        "score": 4680,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230106,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 40,
+        "score": 6300,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230107,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 50,
+        "score": 7950,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230108,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 60,
+        "score": 9630,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230109,
+        "kind": 3,
+        "prm1": 101,
+        "prm2": 70,
+        "score": 11340,
+        "textId": 110001011
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230201,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 1,
+        "score": 200,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230202,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 5,
+        "score": 1010,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230203,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 10,
+        "score": 2040,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230204,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 20,
+        "score": 4120,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230205,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 30,
+        "score": 6240,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230206,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 40,
+        "score": 8400,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230207,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 50,
+        "score": 10600,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230208,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 60,
+        "score": 12840,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230209,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 70,
+        "score": 15120,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230210,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 80,
+        "score": 16640,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230211,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 90,
+        "score": 18900,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230212,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 100,
+        "score": 21200,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230213,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 110,
+        "score": 23540,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230214,
+        "kind": 3,
+        "prm1": 202,
+        "prm2": 120,
+        "score": 25920,
+        "textId": 110001031
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230301,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 1,
+        "score": 60,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230302,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 5,
+        "score": 303,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230303,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 10,
+        "score": 612,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230304,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 20,
+        "score": 1236,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230305,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 30,
+        "score": 1872,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230306,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 40,
+        "score": 2520,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230307,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 50,
+        "score": 3180,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230308,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 60,
+        "score": 3852,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230309,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 70,
+        "score": 4536,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230310,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 80,
+        "score": 4992,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230311,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 90,
+        "score": 5670,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230312,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 100,
+        "score": 6360,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230313,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 110,
+        "score": 7062,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230314,
+        "kind": 3,
+        "prm1": 301,
+        "prm2": 120,
+        "score": 7776,
+        "textId": 110001044
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230401,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 1,
+        "score": 80,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230402,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 5,
+        "score": 404,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230403,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 10,
+        "score": 816,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230404,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 20,
+        "score": 1648,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230405,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 30,
+        "score": 2496,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230406,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 40,
+        "score": 3360,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230407,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 50,
+        "score": 4240,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230408,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 60,
+        "score": 5136,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230409,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 70,
+        "score": 6048,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230410,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 80,
+        "score": 6656,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230411,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 90,
+        "score": 7560,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230412,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 100,
+        "score": 8480,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230413,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 110,
+        "score": 9416,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230414,
+        "kind": 3,
+        "prm1": 302,
+        "prm2": 120,
+        "score": 10368,
+        "textId": 110001043
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230501,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 1,
+        "score": 120,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230502,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 5,
+        "score": 606,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230503,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 10,
+        "score": 1224,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230504,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 20,
+        "score": 2472,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230505,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 30,
+        "score": 3744,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230506,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 40,
+        "score": 5040,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230507,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 50,
+        "score": 6360,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230508,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 60,
+        "score": 7704,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230509,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 70,
+        "score": 9072,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230510,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 80,
+        "score": 9984,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230511,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 90,
+        "score": 11340,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230512,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 100,
+        "score": 12720,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230513,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 110,
+        "score": 14124,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230514,
+        "kind": 3,
+        "prm1": 303,
+        "prm2": 120,
+        "score": 15552,
+        "textId": 110001042
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230601,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 1,
+        "score": 160,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230602,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 5,
+        "score": 808,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230603,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 10,
+        "score": 1632,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230604,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 20,
+        "score": 3296,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230605,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 30,
+        "score": 4992,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230606,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 40,
+        "score": 6720,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230607,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 50,
+        "score": 8480,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230608,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 60,
+        "score": 10272,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230609,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 70,
+        "score": 12096,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230610,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 80,
+        "score": 13312,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230611,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 90,
+        "score": 15120,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230612,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 100,
+        "score": 16960,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230613,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 110,
+        "score": 18832,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230614,
+        "kind": 3,
+        "prm1": 304,
+        "prm2": 120,
+        "score": 20736,
+        "textId": 110001041
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230701,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230702,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230703,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230704,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230705,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230706,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230707,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230708,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230709,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230710,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230711,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230712,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230713,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230714,
+        "kind": 3,
+        "prm1": 401,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001051
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230801,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 1,
+        "score": 120,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230802,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 5,
+        "score": 606,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230803,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 10,
+        "score": 1224,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230804,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 20,
+        "score": 2472,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230805,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 30,
+        "score": 3744,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230806,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 40,
+        "score": 5040,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230807,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 50,
+        "score": 6360,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230808,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 60,
+        "score": 7704,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230809,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 70,
+        "score": 9072,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230810,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 80,
+        "score": 9984,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230811,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 90,
+        "score": 11340,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230812,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 100,
+        "score": 12720,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230813,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 110,
+        "score": 14124,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230814,
+        "kind": 3,
+        "prm1": 501,
+        "prm2": 120,
+        "score": 15552,
+        "textId": 110001061
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230901,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 1,
+        "score": 200,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230902,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 5,
+        "score": 1010,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230903,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 10,
+        "score": 2040,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230904,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 20,
+        "score": 4120,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230905,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 30,
+        "score": 6240,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230906,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 40,
+        "score": 8400,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230907,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 50,
+        "score": 10600,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230908,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 60,
+        "score": 12840,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230909,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 70,
+        "score": 15120,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230910,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 80,
+        "score": 16640,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230911,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 90,
+        "score": 18900,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230912,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 100,
+        "score": 21200,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230913,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 110,
+        "score": 23540,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10230914,
+        "kind": 3,
+        "prm1": 601,
+        "prm2": 120,
+        "score": 25920,
+        "textId": 110001091
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231001,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231002,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231003,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231004,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231005,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231006,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231007,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231008,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231009,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231020,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231021,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231022,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231023,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231024,
+        "kind": 3,
+        "prm1": 1101,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001081
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231101,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231102,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231103,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231104,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231105,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231106,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231107,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231108,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231109,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231110,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231111,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231112,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231113,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231114,
+        "kind": 3,
+        "prm1": 701,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001101
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231201,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 1,
+        "score": 200,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231202,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 5,
+        "score": 1010,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231203,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 10,
+        "score": 2040,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231204,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 20,
+        "score": 4120,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231205,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 30,
+        "score": 6240,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231206,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 40,
+        "score": 8400,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231207,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 50,
+        "score": 10600,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231208,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 60,
+        "score": 12840,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231209,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 70,
+        "score": 15120,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231210,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 80,
+        "score": 16640,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231211,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 90,
+        "score": 18900,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231212,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 100,
+        "score": 21200,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231213,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 110,
+        "score": 23540,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231214,
+        "kind": 3,
+        "prm1": 801,
+        "prm2": 120,
+        "score": 25920,
+        "textId": 110001111
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231301,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231302,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231303,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231304,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231305,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231306,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231307,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231308,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231309,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231310,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231311,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231312,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231313,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231314,
+        "kind": 3,
+        "prm1": 901,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001071
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231401,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231402,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231403,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231404,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231405,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231406,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231407,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231408,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231409,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231410,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231411,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231412,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231413,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231414,
+        "kind": 3,
+        "prm1": 1001,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001161
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231501,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 1,
+        "score": 100,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231502,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 5,
+        "score": 505,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231503,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 10,
+        "score": 1020,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231504,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 20,
+        "score": 2060,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231505,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 30,
+        "score": 3120,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231506,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 40,
+        "score": 4200,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231507,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 50,
+        "score": 5300,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231508,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 60,
+        "score": 6420,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231509,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 70,
+        "score": 7560,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231510,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 80,
+        "score": 8320,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231511,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 90,
+        "score": 9450,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231512,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 100,
+        "score": 10600,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231513,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 110,
+        "score": 11770,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10231514,
+        "kind": 3,
+        "prm1": 1201,
+        "prm2": 120,
+        "score": 12960,
+        "textId": 110001021
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240001,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 250,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240002,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 5,
+        "score": 1263,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240003,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 10,
+        "score": 2550,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240004,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 20,
+        "score": 5150,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240005,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 30,
+        "score": 7800,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240006,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 40,
+        "score": 10500,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240007,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 50,
+        "score": 13250,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240008,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 60,
+        "score": 16050,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240009,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 70,
+        "score": 18900,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240010,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 80,
+        "score": 20800,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240011,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 90,
+        "score": 23625,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240012,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 100,
+        "score": 26500,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240013,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 110,
+        "score": 29425,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10240014,
+        "kind": 4,
+        "prm1": 0,
+        "prm2": 120,
+        "score": 32400,
+        "textId": 151009402
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10250001,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 20,
+        "score": 250,
+        "textId": 151009403
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10250002,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 16,
+        "score": 1263,
+        "textId": 151009403
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10250003,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 12,
+        "score": 2295,
+        "textId": 151009403
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10250004,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 8,
+        "score": 3348,
+        "textId": 151009403
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10250005,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 4,
+        "score": 4420,
+        "textId": 151009403
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10250006,
+        "kind": 5,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 5250,
+        "textId": 151009403
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260001,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 30,
+        "score": 150,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260002,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 26,
+        "score": 758,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260003,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 22,
+        "score": 1377,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260004,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 18,
+        "score": 2009,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260005,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 14,
+        "score": 2652,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260006,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 10,
+        "score": 3308,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260007,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 6,
+        "score": 3975,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260008,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 3,
+        "score": 4494,
+        "textId": 151009404
+    },
+    {
+        "worldId": 102,
+        "evaluateId": 10260009,
+        "kind": 6,
+        "prm1": 0,
+        "prm2": 1,
+        "score": 4860,
+        "textId": 151009404
+    }
+]

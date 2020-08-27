@@ -1,0 +1,46 @@
+[
+    {
+        "id": 10,
+        "url": "info/license/index.html"
+    },
+    {
+        "id": 20,
+        "url": "info/help/index.html"
+    },
+    {
+        "id": 30,
+        "url": "info_gacha_Lineup"
+    },
+    {
+        "id": 31,
+        "url": "info_gacha_History"
+    },
+    {
+        "id": 40,
+        "url": "news_Top"
+    },
+    {
+        "id": 50,
+        "url": "info/dataconnect/index.html"
+    },
+    {
+        "id": 60,
+        "url": "info/privacypolicy/index.html"
+    },
+    {
+        "id": 70,
+        "url": "info/transactionlaw/index.html"
+    },
+    {
+        "id": 80,
+        "url": "news_Top"
+    },
+    {
+        "id": 90,
+        "url": "info/manga/index.html"
+    },
+    {
+        "id": 225,
+        "url": "info_Sample"
+    }
+]

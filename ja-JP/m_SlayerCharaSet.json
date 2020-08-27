@@ -1,0 +1,472 @@
+[
+    {
+        "no": 99998,
+        "charaId": 12300301,
+        "correctionVal": 120
+    },
+    {
+        "no": 99998,
+        "charaId": 12300401,
+        "correctionVal": 130
+    },
+    {
+        "no": 99998,
+        "charaId": 12300501,
+        "correctionVal": 140
+    },
+    {
+        "no": 99998,
+        "charaId": 12300601,
+        "correctionVal": 150
+    },
+    {
+        "no": 99998,
+        "charaId": 12400201,
+        "correctionVal": 110
+    },
+    {
+        "no": 99998,
+        "charaId": 12400701,
+        "correctionVal": 160
+    },
+    {
+        "no": 99999,
+        "charaId": 12301401,
+        "correctionVal": 120
+    },
+    {
+        "no": 99999,
+        "charaId": 12301501,
+        "correctionVal": 130
+    },
+    {
+        "no": 99999,
+        "charaId": 12301701,
+        "correctionVal": 150
+    },
+    {
+        "no": 99999,
+        "charaId": 12401301,
+        "correctionVal": 110
+    },
+    {
+        "no": 99999,
+        "charaId": 12401601,
+        "correctionVal": 140
+    },
+    {
+        "no": 19080701,
+        "charaId": 12300902,
+        "correctionVal": 100
+    },
+    {
+        "no": 19080701,
+        "charaId": 12400202,
+        "correctionVal": 200
+    },
+    {
+        "no": 19080701,
+        "charaId": 12400702,
+        "correctionVal": 200
+    },
+    {
+        "no": 19080701,
+        "charaId": 12405001,
+        "correctionVal": 150
+    },
+    {
+        "no": 19080701,
+        "charaId": 12409301,
+        "correctionVal": 150
+    },
+    {
+        "no": 19080701,
+        "charaId": 12409401,
+        "correctionVal": 150
+    },
+    {
+        "no": 19080701,
+        "charaId": 12413601,
+        "correctionVal": 200
+    },
+    {
+        "no": 19091301,
+        "charaId": 12301801,
+        "correctionVal": 150
+    },
+    {
+        "no": 19091301,
+        "charaId": 12302001,
+        "correctionVal": 100
+    },
+    {
+        "no": 19091301,
+        "charaId": 12309701,
+        "correctionVal": 150
+    },
+    {
+        "no": 19091301,
+        "charaId": 12311101,
+        "correctionVal": 100
+    },
+    {
+        "no": 19091301,
+        "charaId": 12401901,
+        "correctionVal": 200
+    },
+    {
+        "no": 19091301,
+        "charaId": 12413701,
+        "correctionVal": 200
+    },
+    {
+        "no": 19101501,
+        "charaId": 12210801,
+        "correctionVal": 100
+    },
+    {
+        "no": 19101501,
+        "charaId": 12303401,
+        "correctionVal": 150
+    },
+    {
+        "no": 19101501,
+        "charaId": 12307701,
+        "correctionVal": 100
+    },
+    {
+        "no": 19101501,
+        "charaId": 12311701,
+        "correctionVal": 150
+    },
+    {
+        "no": 19101501,
+        "charaId": 12403303,
+        "correctionVal": 200
+    },
+    {
+        "no": 19101501,
+        "charaId": 12413801,
+        "correctionVal": 200
+    },
+    {
+        "no": 19102901,
+        "charaId": 12303201,
+        "correctionVal": 100
+    },
+    {
+        "no": 19102901,
+        "charaId": 12309901,
+        "correctionVal": 150
+    },
+    {
+        "no": 19102901,
+        "charaId": 12310701,
+        "correctionVal": 150
+    },
+    {
+        "no": 19102901,
+        "charaId": 12403101,
+        "correctionVal": 200
+    },
+    {
+        "no": 19102901,
+        "charaId": 12403601,
+        "correctionVal": 200
+    },
+    {
+        "no": 19110801,
+        "charaId": 12210101,
+        "correctionVal": 100
+    },
+    {
+        "no": 19110801,
+        "charaId": 12302201,
+        "correctionVal": 150
+    },
+    {
+        "no": 19110801,
+        "charaId": 12302301,
+        "correctionVal": 150
+    },
+    {
+        "no": 19110801,
+        "charaId": 12302401,
+        "correctionVal": 100
+    },
+    {
+        "no": 19110801,
+        "charaId": 12402101,
+        "correctionVal": 200
+    },
+    {
+        "no": 19110801,
+        "charaId": 12406501,
+        "correctionVal": 200
+    },
+    {
+        "no": 19121001,
+        "charaId": 12314101,
+        "correctionVal": 100
+    },
+    {
+        "no": 19121001,
+        "charaId": 12401902,
+        "correctionVal": 200
+    },
+    {
+        "no": 19121001,
+        "charaId": 12405004,
+        "correctionVal": 150
+    },
+    {
+        "no": 20011001,
+        "charaId": 12314401,
+        "correctionVal": 100
+    },
+    {
+        "no": 20011001,
+        "charaId": 12402103,
+        "correctionVal": 200
+    },
+    {
+        "no": 20011001,
+        "charaId": 12403902,
+        "correctionVal": 150
+    },
+    {
+        "no": 20011001,
+        "charaId": 12405602,
+        "correctionVal": 200
+    },
+    {
+        "no": 20021401,
+        "charaId": 12307201,
+        "correctionVal": 100
+    },
+    {
+        "no": 20021401,
+        "charaId": 12401402,
+        "correctionVal": 200
+    },
+    {
+        "no": 20021401,
+        "charaId": 12402602,
+        "correctionVal": 200
+    },
+    {
+        "no": 20031001,
+        "charaId": 12303801,
+        "correctionVal": 150
+    },
+    {
+        "no": 20031001,
+        "charaId": 12304601,
+        "correctionVal": 100
+    },
+    {
+        "no": 20031001,
+        "charaId": 12414801,
+        "correctionVal": 200
+    },
+    {
+        "no": 20031001,
+        "charaId": 12414901,
+        "correctionVal": 200
+    },
+    {
+        "no": 20031001,
+        "charaId": 12430101,
+        "correctionVal": 200
+    },
+    {
+        "no": 20040301,
+        "charaId": 12315201,
+        "correctionVal": 100
+    },
+    {
+        "no": 20040301,
+        "charaId": 12415301,
+        "correctionVal": 300
+    },
+    {
+        "no": 20040301,
+        "charaId": 12415401,
+        "correctionVal": 300
+    },
+    {
+        "no": 20042401,
+        "charaId": 12311802,
+        "correctionVal": 100
+    },
+    {
+        "no": 20042401,
+        "charaId": 12403304,
+        "correctionVal": 300
+    },
+    {
+        "no": 20042401,
+        "charaId": 12409702,
+        "correctionVal": 300
+    },
+    {
+        "no": 20042401,
+        "charaId": 12412102,
+        "correctionVal": 300
+    },
+    {
+        "no": 20051501,
+        "charaId": 12306304,
+        "correctionVal": 100
+    },
+    {
+        "no": 20051501,
+        "charaId": 12311802,
+        "correctionVal": 100
+    },
+    {
+        "no": 20051501,
+        "charaId": 12403304,
+        "correctionVal": 150
+    },
+    {
+        "no": 20051501,
+        "charaId": 12405103,
+        "correctionVal": 300
+    },
+    {
+        "no": 20051501,
+        "charaId": 12409702,
+        "correctionVal": 150
+    },
+    {
+        "no": 20051501,
+        "charaId": 12412102,
+        "correctionVal": 150
+    },
+    {
+        "no": 20051501,
+        "charaId": 12413602,
+        "correctionVal": 300
+    },
+    {
+        "no": 20060901,
+        "charaId": 12307001,
+        "correctionVal": 100
+    },
+    {
+        "no": 20060901,
+        "charaId": 12400801,
+        "correctionVal": 100
+    },
+    {
+        "no": 20060901,
+        "charaId": 12415501,
+        "correctionVal": 300
+    },
+    {
+        "no": 20060901,
+        "charaId": 12415601,
+        "correctionVal": 300
+    },
+    {
+        "no": 20060901,
+        "charaId": 12416401,
+        "correctionVal": 300
+    },
+    {
+        "no": 20062601,
+        "charaId": 12301701,
+        "correctionVal": 100
+    },
+    {
+        "no": 20062601,
+        "charaId": 12414501,
+        "correctionVal": 300
+    },
+    {
+        "no": 20070301,
+        "charaId": 12302701,
+        "correctionVal": 100
+    },
+    {
+        "no": 20070301,
+        "charaId": 12304901,
+        "correctionVal": 100
+    },
+    {
+        "no": 20070301,
+        "charaId": 12409301,
+        "correctionVal": 100
+    },
+    {
+        "no": 20070301,
+        "charaId": 12414901,
+        "correctionVal": 100
+    },
+    {
+        "no": 20070301,
+        "charaId": 12415001,
+        "correctionVal": 300
+    },
+    {
+        "no": 20071001,
+        "charaId": 12406901,
+        "correctionVal": 300
+    },
+    {
+        "no": 20071001,
+        "charaId": 12412702,
+        "correctionVal": 300
+    },
+    {
+        "no": 20071001,
+        "charaId": 12415801,
+        "correctionVal": 300
+    },
+    {
+        "no": 20072401,
+        "charaId": 12300902,
+        "correctionVal": 100
+    },
+    {
+        "no": 20072401,
+        "charaId": 12303202,
+        "correctionVal": 300
+    },
+    {
+        "no": 20072401,
+        "charaId": 12400202,
+        "correctionVal": 100
+    },
+    {
+        "no": 20072401,
+        "charaId": 12400702,
+        "correctionVal": 100
+    },
+    {
+        "no": 20072401,
+        "charaId": 12403502,
+        "correctionVal": 300
+    },
+    {
+        "no": 20072401,
+        "charaId": 12405005,
+        "correctionVal": 300
+    },
+    {
+        "no": 20082101,
+        "charaId": 12310802,
+        "correctionVal": 100
+    },
+    {
+        "no": 20082101,
+        "charaId": 12401603,
+        "correctionVal": 300
+    },
+    {
+        "no": 20082101,
+        "charaId": 12404102,
+        "correctionVal": 300
+    }
+]

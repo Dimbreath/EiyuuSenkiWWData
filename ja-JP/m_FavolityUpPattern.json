@@ -1,0 +1,14 @@
+[
+    {
+        "no": 1,
+        "presentKind": 2,
+        "exp": 3,
+        "grade": 4
+    },
+    {
+        "no": 5,
+        "presentKind": 0,
+        "exp": 0,
+        "grade": 7
+    }
+]

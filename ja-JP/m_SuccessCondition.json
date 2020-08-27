@@ -1,0 +1,641 @@
+[
+    {
+        "id": 11,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 3,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 11,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 5,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 11,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 6,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 12,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 2,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 12,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 4,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 12,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 8,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 13,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 13,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 7,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 13,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 9,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 21,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 2,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 21,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 21,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 3,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 31,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 4,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 31,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 5,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 41,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 6,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 41,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 7,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 41,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 8,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 51,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 9,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 101,
+        "no": 1,
+        "conditionKind": 4,
+        "param1": 50,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 101,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000001,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 102,
+        "no": 1,
+        "conditionKind": 4,
+        "param1": 130,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 102,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000082,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 103,
+        "no": 1,
+        "conditionKind": 4,
+        "param1": 240,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 103,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000032,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 103,
+        "no": 3,
+        "conditionKind": 3,
+        "param1": 21000031,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 104,
+        "no": 1,
+        "conditionKind": 4,
+        "param1": 360,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 104,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000116,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 104,
+        "no": 3,
+        "conditionKind": 3,
+        "param1": 21000113,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 110,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 6,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 110,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 110,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 7,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 111,
+        "no": 1,
+        "conditionKind": 2,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 500,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 112,
+        "no": 1,
+        "conditionKind": 2,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 112,
+        "no": 2,
+        "conditionKind": 2,
+        "param1": 2,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 112,
+        "no": 3,
+        "conditionKind": 2,
+        "param1": 7,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 114,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 3,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 114,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 4,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 114,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 7,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 115,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 2,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 115,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 9,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 115,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 8,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 116,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 116,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 5,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 116,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 6,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 150,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 121,
+        "no": 1,
+        "conditionKind": 2,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 300,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 121,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 121,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 2,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 122,
+        "no": 1,
+        "conditionKind": 2,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 300,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 122,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 4,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 122,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 5,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 123,
+        "no": 1,
+        "conditionKind": 2,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 123,
+        "no": 2,
+        "conditionKind": 1,
+        "param1": 6,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 123,
+        "no": 3,
+        "conditionKind": 1,
+        "param1": 7,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 201,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 8,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 201,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000012,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 202,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 5,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 202,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000013,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 203,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 5,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 203,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000033,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 211,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 9,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 211,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000001,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 212,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 3,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 212,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000011,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 213,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 1,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 200,
+        "superSuccessCorrectionRate": 2
+    },
+    {
+        "id": 213,
+        "no": 2,
+        "conditionKind": 3,
+        "param1": 21000042,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 213,
+        "no": 3,
+        "conditionKind": 3,
+        "param1": 21000041,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 120,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 999901,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 1,
+        "lv": 5,
+        "greatSuccessCorrectionRate": 50,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 999901,
+        "no": 2,
+        "conditionKind": 2,
+        "param1": 7,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 100,
+        "superSuccessCorrectionRate": 8
+    },
+    {
+        "id": 999901,
+        "no": 3,
+        "conditionKind": 3,
+        "param1": 21000001,
+        "lv": 5,
+        "greatSuccessCorrectionRate": 50,
+        "superSuccessCorrectionRate": 1
+    },
+    {
+        "id": 999902,
+        "no": 1,
+        "conditionKind": 4,
+        "param1": 0,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 500,
+        "superSuccessCorrectionRate": 10
+    },
+    {
+        "id": 999903,
+        "no": 1,
+        "conditionKind": 1,
+        "param1": 9,
+        "lv": 0,
+        "greatSuccessCorrectionRate": 100,
+        "superSuccessCorrectionRate": 10
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "targetKind": 19,
+        "targetId": 0,
+        "prizeGroupNo": 0,
+        "border": 0,
+        "countInterval": 3600,
+        "dispTime": 1570114800
+    },
+    {
+        "id": 2,
+        "targetKind": 19,
+        "targetId": 0,
+        "prizeGroupNo": 0,
+        "border": 0,
+        "countInterval": 3600,
+        "dispTime": 1570114800
+    },
+    {
+        "id": 99998,
+        "targetKind": 19,
+        "targetId": 0,
+        "prizeGroupNo": 60999991,
+        "border": 0,
+        "countInterval": 3600,
+        "dispTime": 1554303600
+    },
+    {
+        "id": 99999,
+        "targetKind": 19,
+        "targetId": 0,
+        "prizeGroupNo": 60999992,
+        "border": 0,
+        "countInterval": 3600,
+        "dispTime": 1554303600
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "damageRatio": 0,
+        "correctRate": 1000
+    },
+    {
+        "damageRatio": 1,
+        "correctRate": 1000
+    },
+    {
+        "damageRatio": 10,
+        "correctRate": 1000
+    },
+    {
+        "damageRatio": 40,
+        "correctRate": 1000
+    },
+    {
+        "damageRatio": 80,
+        "correctRate": 1000
+    },
+    {
+        "damageRatio": 100,
+        "correctRate": 1000
+    },
+    {
+        "damageRatio": 300,
+        "correctRate": 1000
+    },
+    {
+        "damageRatio": 500,
+        "correctRate": 1500
+    },
+    {
+        "damageRatio": 600,
+        "correctRate": 1500
+    },
+    {
+        "damageRatio": 700,
+        "correctRate": 1500
+    },
+    {
+        "damageRatio": 800,
+        "correctRate": 1500
+    },
+    {
+        "damageRatio": 900,
+        "correctRate": 1500
+    },
+    {
+        "damageRatio": 1000,
+        "correctRate": 2000
+    }
+]
